@@ -6,11 +6,13 @@ permalink: "/participate/"
 trans_url: "/participez/"
 ---
 
-### Help us improve the Canada Pension Plan Disability benefit
+### Help us improve make Canadians safer online and offline
 
-We’d like to speak to you if your health condition means you find it hard or impossible to work. This is to help with research we're doing into ways to improve the Canada Pension Plan Disability Benefit (CPP-D). You don't need any experience with CPP-D to participate.
+We’d like to speak to you if you have recently experienced a
+cybercrime, fraud, or had one of your devices hacked or
+compromised where it impacted you.
 
-If you would like to help us, or know someone else who can, please contact [adrianne.lee@tbs-sct.gc.ca](mailto:adrianne.lee@tbs-sct.gc.ca) for more information on how to be involved.
+If you would like to help us, or know someone else who can, please contact [melissa.banyard@tbs-sct.gc.ca](mailto:melissa.banyard@tbs-sct.gc.ca) for more information on how to be involved.
 
 #### How you can help
 
@@ -21,12 +23,11 @@ You're volunteering to take part in this research, so you can choose to stop par
 
 We (the Canadian Digital Service) will make sure your responses are confidential, which means they will not be linked back to anyone.
 
-Your participation and answers will not impact your relationship with the Canadian Digital Service, Employment and Social Development Canada (ESDC), or any part of the Government of Canada.
+Your participation and answers will not impact your relationship with the Canadian Digital Service, Royal Canadian Mounted Police (RCMP), or any part of the Government of Canada.
 
 We handle all personal information in accordance with the Privacy Act, and we'll give you a copy of our Privacy Statement.
 
 For any further questions about this research, please contact:
 
-**Adrianne Lee**<br>
-**613-222-7880**<br>
-**[adrianne.lee@tbs-sct.gc.ca](mailto:adrianne.lee@tbs-sct.gc.ca)**
+**Melissa Banyard**<br>
+**[melissa.banyard@tbs-sct.gc.ca](mailto:melissa.banyard@tbs-sct.gc.ca)**
