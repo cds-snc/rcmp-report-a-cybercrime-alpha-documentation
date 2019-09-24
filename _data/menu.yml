@@ -1,0 +1,38 @@
+en:
+  home:
+    name: "Home"
+    url: "/home/"
+  background:
+    name: "Background"
+    url: "/background/"
+  research:
+    name: "Alpha research and findings"
+    url: "/alpha-research/"
+  participate:
+    name: "Participate in research"
+    url: "/participate/"
+  team-news:
+    name: "Team news"
+    url: "/team-news/"
+  contact:
+    name: "Contact"
+    url: "/contact/"
+fr:
+  home:
+    name: "Accueil"
+    url: "/accueil/"
+  background:
+    name: "Contexte"
+    url: "/contexte/"
+  research:
+    name: "Recherche de la phase alpha et conclusions"
+    url: "/recherche-de-la-phase-alpha/"
+  participate:
+    name: "Participez à notre recherche"
+    url: "/participez/"
+  team-news:
+    name: "Nouvelles d'équipe"
+    url: "/nouvelles-dequipe/"
+  contact:
+    name: "Coordonnées"
+    url: "/coordonnees/"
