@@ -23,6 +23,7 @@ TODO
 - Vulnerability Scanning?
 
 ## Security Implications
+- Things we have done to make it more secure.
 
 ## Next Steps
 
