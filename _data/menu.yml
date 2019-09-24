@@ -5,6 +5,9 @@ en:
   background:
     name: "Background"
     url: "/background/"
+  walkthrough:
+    name: "Walkthrough"
+    url: "/walkthrough/"
   research:
     name: "Alpha research and findings"
     url: "/alpha-research/"
@@ -27,6 +30,9 @@ fr:
   background:
     name: "Contexte"
     url: "/contexte/"
+  walkthrough:
+    name: "Revue"
+    url: "/revue/"
   research:
     name: "Recherche de la phase alpha et conclusions"
     url: "/recherche-de-la-phase-alpha/"
