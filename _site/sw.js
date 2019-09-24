@@ -11,7 +11,7 @@ var filesToCache = [
   // images
   '/assets/img/octocat.png',
   // pages
-  '/alpha-research/','/background/','/contact/','/home/','/participate/','/team-news/','/technical-platform/','/walkthrough/','/accueil/','/coordonnees/','/contexte/','/nouvelles-dequipe/','/participez/','/recherche-de-la-phase-decouverte/',
+  '/alpha-research/','/background/','/contact/','/home/','/participate/','/prototypes/','/team-news/','/technical-platform/','/accueil/','/coordonnees/','/contexte/','/nouvelles-dequipe/','/participez/','/recherche-de-la-phase-decouverte/',
   // posts
   
 ];

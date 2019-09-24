@@ -1,9 +1,9 @@
 ---
 layout: page
-title:  "Walkthrough"
+title:  "Prototypes"
 lang: en
-permalink: "/walkthrough/"
-trans_url: "/revue/"
+permalink: "/prototypes/"
+trans_url: "/prototypes/"
 ---
 
 TODO
@@ -12,3 +12,5 @@ TODO
 prototypes](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca)
 ## Goals
 ## Features
+
+## How it performed (Quantitative Study)

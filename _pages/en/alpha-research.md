@@ -13,6 +13,4 @@ TODO
 
 ## Police Needs
 
-## Quantitative Study
-
 ## Conclusions
