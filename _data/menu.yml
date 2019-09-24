@@ -8,6 +8,9 @@ en:
   research:
     name: "Alpha research and findings"
     url: "/alpha-research/"
+  technical:
+    name: "Technical platform"
+    url: "/technical-platform/"
   participate:
     name: "Participate in research"
     url: "/participate/"
@@ -27,6 +30,9 @@ fr:
   research:
     name: "Recherche de la phase alpha et conclusions"
     url: "/recherche-de-la-phase-alpha/"
+  technical:
+    name: "Platforme technique"
+    url: "/platforme-technique/"
   participate:
     name: "Participez à notre recherche"
     url: "/participez/"
