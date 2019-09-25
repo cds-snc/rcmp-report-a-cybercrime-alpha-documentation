@@ -70,14 +70,102 @@
         <section id="main" class="main-content" role="main">
           <h2 class="page-title">Technical Platform</h2>
 
-<p>TODO</p>
-<h2 id="what-do-you-get">What do you get</h2>
+<h2 id="engineering-details">Engineering details</h2>
+
+<h3 id="choices">Choices</h3>
+
 <ul>
-  <li>Components</li>
-  <li>Bilingual</li>
-  <li>GraphQL API</li>
-  <li>Containerized?</li>
-  <li>Others?</li>
+  <li>Cloud
+    <ul>
+      <li>we are deploying the product on RCMP’s Microsoft Azure AKS. The service can also be deployed on Google GKE or Amazon EKS.</li>
+    </ul>
+  </li>
+  <li>
+    <p>JavaScript</p>
+
+    <ul>
+      <li>JavaScript is a programming language that web browsers use to build web pages.</li>
+    </ul>
+  </li>
+  <li>
+    <p>React</p>
+
+    <ul>
+      <li>React is a JavaScript library created by Facebook.</li>
+      <li>It contains resources and tools for building fast, robust, and network sensitive web applications.</li>
+    </ul>
+  </li>
+  <li>
+    <p>GraphQL API</p>
+
+    <ul>
+      <li>GraphQL is the interface between the web app and the databases</li>
+    </ul>
+  </li>
+  <li>
+    <p>Microservices</p>
+
+    <ul>
+      <li>Microservices are a software architectural style that structures an application as a collection of separate services.</li>
+    </ul>
+  </li>
+  <li>
+    <p>Kubernetes</p>
+
+    <ul>
+      <li>Kubernetes is an open-source platform for running microservices together.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="gains-from-these-choices">Gains from these choices</h3>
+
+<ul>
+  <li>
+    <p>Security</p>
+
+    <ul>
+      <li>Using GraphQL allows us to prevent attackers are not able to use data to hack the database (for example, by using a SQL injection attack).</li>
+      <li>Using Kubernetes makes it easy to harden the service against attacks by enforcing a single entrypoint into the service.</li>
+    </ul>
+  </li>
+  <li>
+    <p>Code maintainability</p>
+
+    <ul>
+      <li>A central tenent of React is the practice of writing your web application in separate blocks called <em>components</em>. This entails grouping together all the code and styling needed to create a UI element (for example, the phase banner).</li>
+      <li>This makes it easy to understand and test this part of the code on its own, and also makes it easy to reuse this code at multiple locations.</li>
+      <li>following a microservice approach allows us to break the overall service into pieces that are highly maintainable and testable, loosely coupled, and independently deployable.</li>
+    </ul>
+  </li>
+  <li>
+    <p>System visibility</p>
+
+    <ul>
+      <li>Kubernetes makes it easy to centralize logging and get a view into how well the system is running.</li>
+    </ul>
+  </li>
+  <li>System reliability
+    <ul>
+      <li>Using React and GraphQL allows us to minimize the amount of network traffic required to use the application.</li>
+      <li>The reliability guarentees from Microsoft together with Kubernetes’ robust architecture gives us confidence that the system will have high availability.</li>
+    </ul>
+  </li>
+  <li>
+    <p>Accessibility</p>
+
+    <ul>
+      <li>Building our application out of React components has allowed us to ensure and test for basic accessibility requirements from the start of the project (for example, keyboard navigation and screen reader usage) and to work towards at least WCAG 2.1AA conformance.</li>
+    </ul>
+  </li>
+  <li>
+    <p>Bilingualism</p>
+
+    <ul>
+      <li>We have used a React library called <code class="highlighter-rouge">lingui</code> to make the application bilingual from the start of the project.</li>
+      <li>This allows us to test and refine the experience in French as easily as we can that in English.</li>
+    </ul>
+  </li>
 </ul>
 
 <h2 id="stackarchitecture-diagram">Stack/Architecture diagram</h2>
