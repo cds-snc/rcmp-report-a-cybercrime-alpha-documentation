@@ -10,11 +10,11 @@ trans_url: "/prototypes/"
 
 In Alpha, the delivery team focused on building prototypes, testing those with users, learning from them, and iterating based on what we learned. By putting something tangible in front of people who have been affected by cybercrime or fraud, we were able to learn about what they needed and adjust prototypes to address more of those needs. You can find an overview of the prototypes we've built, tested, and iterated below.
 
-![Timeline showing the prototypes over time](/assets/img/Alpha prototypes.png)
+![Timeline showing the prototypes over time](rcmp-report-a-cybercrime-alpha-documentation/assets/img/Alpha prototypes.png)
 
 ---
 
-## Concept 1: Reporting cybercrime with a single identifier
+## [Concept 1: Reporting cybercrime with a single identifier](https://rac-concept-1.herokuapp.com/) 
 *(Built in April 2019)*
 
 ### Goals
@@ -25,12 +25,10 @@ A low-burden tool to alert the RCMP of a suspicious email address, phone number,
  * Landing page that outlines the purpose
  * Omnibox input field that submits a single identifier
  * Data visualization that shows victims they are not alone
- 
-### [See Concept 1](https://rac-concept-1.herokuapp.com/) 
 
 ### Outcomes
 Testing the concept with seniors and newcomers to Canada, we learned about:
- * Making the purpose and value of the service clear and having a strong call to action
+ * Making the purpose and value of the service clearer and having a strong call to action
  * Being explicit about which government or law enforcement entity is receiving the report
  * Using language that resonnates with victims:
    * Precise, direct, instructions
@@ -39,7 +37,7 @@ Testing the concept with seniors and newcomers to Canada, we learned about:
    
  ---
 
-## Concept 2: Finding out where to report cybercrime
+## [Concept 2: Finding out where to report cybercrime](https://rac-concept-2.herokuapp.com/) 
 *(Built in May 2019)*
 
 ### Goals
@@ -50,8 +48,6 @@ A decision tree to find the most relevant reporting option:
  * Side-by-side cards with illustrations that present a choice 
  * Navigation to one clear reporting option that aligns with choices made  
  
-### [See Concept 2](https://rac-concept-2.herokuapp.com/) 
-
 ### Outcomes
 Testing the concept with library-goers, we learned about:
  * How victims think about cybercrime and their reporting options
