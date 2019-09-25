@@ -68,7 +68,7 @@ trans_url: "/platforme-technique/"
 
 ## Stack/Architecture diagram
 
-[RCMP Architecture Diagram] (././assets/docs/rcmp-architecture-diagram.pdf)
+[RCMP Architecture Diagram](././assets/docs/rcmp-architecture-diagram.pdf)
 
 ## DevOps
 
