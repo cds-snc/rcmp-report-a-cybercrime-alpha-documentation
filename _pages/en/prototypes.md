@@ -62,14 +62,13 @@ Testing the concept with library-goers, we learned about:
   
 ---
 
-## Prototype 1: Reporting in a structured form
+## [Prototype 1: Reporting in a structured form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1) 
 *(Built in July 2019)*
 
 ### Goals
-This prototype was designed to test how victims of cybercrime engage with a form that asks preset questions. It was based on the closest online reporting service that exists in Canada, the [basline fraud reporting system](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/), that was redesigned with simplified layout, content, and interactions, and applying early learnings from Alpha. 
+This prototype was designed to test how victims of cybercrime engage with a longer form that asks preset questions. It was based on the [baseline fraud reporting system](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/), and was designed to lower the cognitive burden by simplifying layout, content, and interactions. 
 
 ### Features
-A re-designed baseline fraud reporting form that simplifies content, layout and interactions, and applies early learnings:
  * Mostly structured input fields
  * Landing page with purpose and what to prepare
  * Divided into short skippable sections
@@ -80,35 +79,24 @@ A re-designed baseline fraud reporting form that simplifies content, layout and 
    * Contact details (only asking for name, email, phone number)
  * Review report information
  * Reference number provided
- 
-### [See Prototype 1](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1) 
 
 ### Outcomes
  * 
 
 ---
 
-## Prototype 2: Reporting in an open form
+## [Prototype 2: Reporting in an open form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2) 
 *(Built in August 2019)*
 
 ### Goals
-This prototype was designed to test how victims respond to an open form. It applies learnings from research with victims and police of jurisdiction, including the need to provide emotional reassurance, guidance, and setting clear expectations.
+This prototype was designed to test how victims respond to an open form. It applies learnings from research with both victims and police of jurisdiction, to learn about providing flexiblity, emotional reassurance, guidance, and clear expectations.
 
 ### Features
-Iteration of Prototype 1
- * Provides flexibility in how people report
- * Asks about impact
+ * Mostly open text fields
+ * Examples and prompts
+ * Categorizing impact
  * Uses reassuring language
- * Provides guidance on what happens next
-
-### [See Prototype 2](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2) 
-
+ * Next steps
 
 ### Outcomes
  *
-
----
-
-## How prototypes performed
-
-Comparing Prototype 1 and Prototype 2 in a quantitative study
