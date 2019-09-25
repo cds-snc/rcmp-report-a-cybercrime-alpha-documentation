@@ -13,9 +13,9 @@ In Alpha, we focused on building prototypes, testing those with users, learning 
 ---
 
 # Concept 1: Reporting cybercrime with a single identifier
-*(April 2019)*
 
-## [See Concept 1](https://rac-concept-1.herokuapp.com/)
+## [See Concept 1](https://rac-concept-1.herokuapp.com/) 
+*(April 2019)*
 
 ## Goals
 The first concept was based on the hypothesis that the effort it takes to submit information around a cybercrime event should be correlated to the impact of the crime. 
@@ -34,9 +34,9 @@ A low-burden tool to alert the RCMP:
  ---
 
 # Concept 2: Finding out where to report cybercrime
-*(May 2019)*
 
 ## [See Concept 2](https://rac-concept-2.herokuapp.com/)
+*(May 2019)*
 
 ## Goals
 The second concept was based on the hypothesis that constructing a visual narrative can help triage victims to the appropriate avenue for sharing their cybercrime experience. 
@@ -56,9 +56,9 @@ A decision tree to find the most relevant reporting option
 ---
 
 # Prototype 1: Reporting with a simplified version of the baseline fraud reporting form
-*(July 2019)*
 
 ## [See Prototype 1](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1)
+*(July 2019)*
 
 ## Goals
 This prototype was designed to test how victims of cybercrime engage with a form that asks preset questions. It was based on the closest online reporting service that exists in Canada, the [basline fraud reporting system](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/), and early learnings from Alpha. 
@@ -80,9 +80,9 @@ Re-designed baseline reporting form
 ---
 
 # Prototype 2: Reporting more flexibly with reassurance and guidance
-*(August 2019)*
 
 ## [See Prototype 2](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2)
+*(August 2019)*
 
 ## Goals
 This prototype was designed to test how victims respond to an open form. It applies learnings from research with victims and police of jurisdiction, including the need to provide emotional reassurance, guidance, and setting clear expectations.
