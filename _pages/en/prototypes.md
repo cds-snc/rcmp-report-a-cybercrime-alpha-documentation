@@ -6,44 +6,57 @@ permalink: "/prototypes/"
 trans_url: "/prototypes/"
 ---
 
-##[Concept 1: A low-burden omnibox](https://rac-concept-1.herokuapp.com/)
+Introduction
+Build, test, learn, iterate 
+Timeline
 
-Goals
 
-Features
+##[Concept 1: A low-burden report with a single identifier](https://rac-concept-1.herokuapp.com/)
 
-What we learned
+**Goals**
 
-##[Concept 2: Deciding which option is most relevant](https://rac-concept-2.herokuapp.com/)
+**Features**
+- omnibox
 
-Goals
+**What we learned**
 
-Features
 
-What we learned
+##[Concept 2: A decision tree to find which option is most relevant](https://rac-concept-2.herokuapp.com/)
+
+**Goals**
+
+**Features**
+
+**What we learned**
+
 
 ##[Baseline fraud reporting form](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/)
 
-Goals
+**Goals**
 
-Features
+**Features**
 
-What we learned
+**What we learned**
+
 
 ##[Prototype 1: A simplified version of the baseline form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1)
 
-Goals
+**Goals**
 
-Features
+**Features**
 
-What we learned
+**What we learned**
 
-##[Prototype 2: A flexible version of the simplified form with reassurance](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2)
 
-Goals
+##[Prototype 2: A more flexible version of prototype 1 with reassurance and guidance](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2)
 
-Features
+**Goals**
 
-What we learned
+**Features**
 
-## How the prototypes performed (quantitative study)
+**What we learned**
+
+
+## Comparing prototypes
+
+**Quantitative study**
