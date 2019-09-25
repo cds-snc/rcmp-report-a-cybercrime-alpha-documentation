@@ -33,9 +33,9 @@ Testing the concept with seniors and newcomers to Canada, we learned about:
  * Making the purpose and value of the service clear and having a strong call to action
  * Being explicit about which government or law enforcement entity is receiving the report
  * Using language that resonnates with victims:
-  * Precise, direct, instructions
-  * "Scams" rather than "cybercrimes"
-  * "Reporting" rather than "sharing"
+   * Precise, direct, instructions
+   * "Scams" rather than "cybercrimes"
+   * "Reporting" rather than "sharing"
    
  ---
 
@@ -56,13 +56,13 @@ A decision tree to find the most relevant reporting option:
 Testing the concept with library-goers, we learned about:
  * How victims think about cybercrime and their reporting options
  * Reasons why many victims prefer to talk to someone over the phone:
-  * Emotional reassurance
-  * Advice and guidance
-  * They believed it would result in action
+   * Emotional reassurance
+   * Advice and guidance
+   * They believed it would result in action
  * Expections victims have in receiving a follow-up:
-  * For validation
-  * To confirm their report was received
-  * In case more information is needed
+   * For validation
+   * To confirm their report was received
+   * In case more information is needed
   
 ---
 
@@ -79,11 +79,11 @@ A re-designed baseline fraud reporting form that simplifies content, layout and 
  * Mostly structured input fields
  * Landing page with purpose and what to prepare
  * Divided into short skippable sections
-  * Event description (what, when, how)
-  * Money lost (focus on impact rather than fraud type)
-  * Scammer details (suspect information pared down)
-  * Evidence (file upload without description)
-  * Contact details (only asking for name, email, phone number)
+   * Event description (what, when, how)
+   * Money lost (focus on impact rather than fraud type)
+   * Scammer details (suspect information pared down)
+   * Evidence (file upload without description)
+   * Contact details (only asking for name, email, phone number)
  * Review report information
  * Reference number provided
  
