@@ -6,8 +6,15 @@ permalink: "/prototypes/"
 trans_url: "/prototypes/"
 ---
 
-In Alpha, we focused on building, testing, learning and iterating. By putting tangible prototypes in front of people at the earliest opportunity, we were able to learn a lot. 
+In Alpha, we focused on building, testing, learning and iterating. By putting tangible prototypes in front of people at the earliest opportunity, we were able to learn a lot by doing both quanlitative and quantitative research with people who have been affected by cybercrime and fraud.
 
+[Concept 1: Reporting cybercrime with a single identifier](https://rac-concept-1.herokuapp.com/)
+[Concept 2: Finding out where to report cybercrime](https://rac-concept-2.herokuapp.com/)
+[Baseline fraud reporting form](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/)
+[Prototype 1: A simplified version of the baseline form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1)
+[Prototype 2: A more flexible version of prototype 1 with reassurance and guidance](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2) 
+
+---
 
 # [Concept 1: Reporting cybercrime with a single identifier](https://rac-concept-1.herokuapp.com/)
 
@@ -40,10 +47,6 @@ A decision tree to find the most relevant reporting option
  * 
 
 
-
-
-
-
 # [Prototype 1: A simplified version of the baseline form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1)
 
 ## Goals
@@ -53,7 +56,6 @@ A decision tree to find the most relevant reporting option
 ## Features
 
 ## What we learned
-
 
 
 #[Prototype 2: A more flexible version of prototype 1 with reassurance and guidance](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2)
