@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Technical Platform"
+title: "Technical Platform"
 lang: en
 permalink: "/technical-platform/"
 trans_url: "/platforme-technique/"
@@ -11,6 +11,7 @@ trans_url: "/platforme-technique/"
 ### Choices
 
 - Cloud
+
   - we are deploying the product on RCMP's Microsoft Azure AKS. The service can also be deployed on Google GKE or Amazon EKS.
 
 - JavaScript
@@ -38,7 +39,7 @@ trans_url: "/platforme-technique/"
 
 - Security
 
-  -  Using GraphQL allows us to prevent attackers are not able to use data to hack the database (for example, by using a SQL injection attack).
+  - Using GraphQL allows us to prevent attackers are not able to use data to hack the database (for example, by using a SQL injection attack).
   - Using Kubernetes makes it easy to harden the service against attacks by enforcing a single entrypoint into the service.
 
 - Code maintainability
@@ -52,6 +53,7 @@ trans_url: "/platforme-technique/"
   - Kubernetes makes it easy to centralize logging and get a view into how well the system is running.
 
 - System reliability
+
   - Using React and GraphQL allows us to minimize the amount of network traffic required to use the application.
   - The reliability guarentees from Microsoft together with Kubernetes' robust architecture gives us confidence that the system will have high availability.
 
@@ -66,13 +68,24 @@ trans_url: "/platforme-technique/"
 
 ## Stack/Architecture diagram
 
+[RCMP Architecture Diagram](././assets/docs/rcmp-architecture-diagram.pdf)
+
+## DevOps
+
+We use GitOps. That essentially means GitHub is our "single source of truth" for our application.
+
+When a dev makes a pull request to github and that PR is approved and merged, this triggers the pipeline (a .yaml file) in Azure. The pipeline runs a series of npm commands (lints the code, checks translations, compiles), builds a container of the respective repo area and pushes the container(s) to ACR (Azure Container Registry). We then have a program called Flux running in our AKS (Azure Kubernetes Service) cluster that watches the registry and pulls new images into the cluster.
+
+More detailed Azure DevOps Pipeline doc: [Azure Pipeline](././assets/docs/azure-pipeline.pdf)
 
 ## What does the victim get because of these choices
+
 - Trust factors (https?)
 - Load Testing results?
 - Vulnerability Scanning?
 
 ## Security Implications
+
 - Things we have done to make it more secure.
 
 ## Next Steps
