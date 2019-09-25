@@ -8,23 +8,12 @@ trans_url: "/prototypes/"
 
 # Learning by building and testing
 
-In Alpha, we focused on building prototypes, testing those with users, learning from them and iterating based on what we learned. By putting something tangible in front of people at the earliest opportunity, we were able to learn a lot. 
-
-We gathered both qualitative and quantitative insights from research directly with people who have been affected by cybercrime and fraud. As we learned more about what people need, we addressed more of those needs in the prototypes.
-
-You can find an overview of all the prototypes below:
-
-[Concept 1: Reporting cybercrime with a single identifier] *(April 2019)*
-
-[Concept 2: Finding out where to report cybercrime] *(May 2019)*
-
-[Prototype 1: A simplified version of the baseline form] *(July 2019)*
-
-[Prototype 2: A more flexible version of prototype 1 with reassurance and guidance] *(August 2019)*
+In Alpha, we focused on building prototypes, testing those with users, learning from them and iterating based on what we learned. By putting something tangible in front of people who have been affected by cybercrime or fraud in the past, we were able to learn about what they needed and adjust prototypes to address more of those needs. You can find an overview of the prototypes we've built, tested and iterated below.
 
 ---
 
 # Concept 1: Reporting cybercrime with a single identifier
+*(April 2019)*
 
 ## [See Concept 1](https://rac-concept-1.herokuapp.com/)
 
@@ -45,6 +34,7 @@ A low-burden tool to alert the RCMP:
  ---
 
 # Concept 2: Finding out where to report cybercrime
+*(May 2019)*
 
 ## [See Concept 2](https://rac-concept-2.herokuapp.com/)
 
@@ -66,6 +56,7 @@ A decision tree to find the most relevant reporting option
 ---
 
 # Prototype 1: Designing a simplified version of the baseline fraud reporting form
+*(July 2019)*
 
 ## [See Prototype 1](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1)
 
@@ -83,12 +74,13 @@ Re-designed baseline reporting form
   * Contact details
  * Reference number provided
  
-## What we learned
+## Outcomes
  * 
 
 ---
 
 # Prototype 2: Iterating on Prototype 1 to provide more flexibility, reassurance, and guidance
+*(August 2019)*
 
 ## [See Prototype 2](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2)
 
@@ -102,7 +94,7 @@ Iteration of Prototype 1
  * Uses reassuring language
  * Provides guidance on what happens next
 
-## What we learned
+## Outcomes
  *
 
 ---
