@@ -10,7 +10,7 @@ trans_url: "/prototypes/"
 
 In Alpha, we focused on building prototypes, testing those with users, learning from them and iterating based on what we learned. By putting something tangible in front of people who have been affected by cybercrime or fraud in the past, we were able to learn about what they needed and adjust prototypes to address more of those needs. You can find an overview of the prototypes we've built, tested and iterated below.
 
-[Timeline showing the prototypes over time](/assets/img/Alpha prototypes.png)
+[![Timeline showing the prototypes over time](/assets/img/Alpha prototypes.png)]
 
 ---
 
