@@ -30,10 +30,10 @@ A low-burden tool to alert the RCMP of a suspicious email address, phone number,
 
 ### Outcomes
 Testing the concept with seniors and newcomers to Canada, we learned about:
- * Making the purpose and value of the service clear and having a stronger call to action
+ * Making the purpose and value of the service clear and having a strong call to action
  * Being explicit about which government or law enforcement entity is receiving the report
- * Using language that resonnates with victims
-   * Precise, direct instructions
+ * Using language that resonnates with victims:
+   * Precise, direct, instructions
    * "Scams" rather than "cybercrimes"
    * "Reporting" rather than "sharing"
    
@@ -45,20 +45,25 @@ Testing the concept with seniors and newcomers to Canada, we learned about:
 *(Built in May 2019)*
 
 ### Goals
-The second concept was based on the hypothesis that constructing a visual narrative can help triage victims to the appropriate avenue for sharing their cybercrime experience. 
+The second concept was based on the hypothesis that constructing a visual narrative can help triage victims to the appropriate avenue for sharing their cybercrime experience.
 
 ### Features
-A decision tree to find the most relevant reporting option
+A decision tree to find the most relevant reporting option:
  * Side-by-side cards with illustrations that present a choice 
- * Navigation to one clear option that aligns with choices made  
+ * Navigation to one clear reporting option that aligns with choices made  
  
 ### Outcomes
 Testing the concept with library-goers, we learned about:
- * Learned about how victims think about cybercrime and make decisions about where to report
-   * What constitutes an urgent situation
-   * What type of information victims have to report
-   * When victims prefer to talk to someone 
-   * How victims expect to receive a follow-up
+   * How victims think about cybercrime and their reporting options
+   * Reasons why many victims prefer to talk to someone over the phone:
+    * Emotional reassurance
+    * Advice and guidance
+    * They believed it would result in action
+   * Expections victims have in receiving a follow-up:
+    * For validation
+    * To confirm their report was received
+    * In case more information is needed
+    * If it's life-threatening
 
 ---
 
