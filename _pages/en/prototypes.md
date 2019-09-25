@@ -72,14 +72,16 @@ Testing the concept with library-goers, we learned about:
 This prototype was designed to test how victims of cybercrime engage with a form that asks preset questions. It was based on the closest online reporting service that exists in Canada, the [basline fraud reporting system](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/), that was redesigned with simplified layout, content, and interactions, and applying early learnings from Alpha. 
 
 ### Features
-Re-designed baseline reporting form
- * Structured form fields
- * Divided into short sections
-  * Event description
-  * Money lost (focus on impact > type)
-  * Suspect information
-  * File upload
-  * Contact details
+A re-designed baseline fraud reporting form that simplifies content, layout and interactions, and applies early learnings:
+ * Mostly structured input fields
+ * Landing page with purpose and what to prepare
+ * Divided into short skippable sections
+  * Event description (what, when, how)
+  * Money lost (focus on impact rather than fraud type)
+  * Scammer details (suspect information pared down)
+  * Evidence (file upload without description)
+  * Contact details (only asking for name, email, phone number)
+ * Review report information
  * Reference number provided
  
 ### Outcomes
