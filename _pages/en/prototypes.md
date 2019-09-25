@@ -14,15 +14,13 @@ We gathered both qualitative and quantitative insights from research directly wi
 
 You can find an overview of all the prototypes below:
 
-[Concept 1: Reporting cybercrime with a single identifier](https://rac-concept-1.herokuapp.com/) (April 2019)
+[Concept 1: Reporting cybercrime with a single identifier](https://rac-concept-1.herokuapp.com/) *(April 2019)*
 
-[Concept 2: Finding out where to report cybercrime](https://rac-concept-2.herokuapp.com/) (May 2019)
+[Concept 2: Finding out where to report cybercrime](https://rac-concept-2.herokuapp.com/) *(May 2019)*
 
-[Baseline fraud reporting form](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/)
+[Prototype 1: A simplified version of the baseline form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1) *(July 2019)*
 
-[Prototype 1: A simplified version of the baseline form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1) (July 2019)
-
-[Prototype 2: A more flexible version of prototype 1 with reassurance and guidance](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2) (August 2019)
+[Prototype 2: A more flexible version of prototype 1 with reassurance and guidance](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2) *(August 2019)*
 
 ---
 
@@ -63,7 +61,7 @@ A decision tree to find the most relevant reporting option
 
 ---
 
-# [Prototype 1: A simplified version of the baseline fraud reporting form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1)
+# [Prototype 1: Designing a simplified version of the baseline fraud reporting form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1)
 
 ## Goals
 This prototype was designed to test how victims of cybercrime engage with a form that asks preset questions. It was based on the closest online reporting service that exists in Canada, the [basline fraud reporting system](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/), and early learnings from Alpha. 
@@ -84,7 +82,7 @@ Re-designed baseline reporting form
 
 ---
 
-# [Prototype 2: A more flexible version of Prototype 1](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2)
+# [Prototype 2: Iterating on Prototype 1 to provide more flexibility, reassurance, and guidance](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2)
 
 ## Goals
 This prototype was designed to test how victims respond to an open form. It applies learnings from research with victims and police of jurisdiction, including the need to provide emotional reassurance, guidance, and setting clear expectations.
@@ -102,13 +100,3 @@ Iteration of Prototype 1
 ---
 
 # How these performed: Comparing Prototype 1 and Prototype 2 in a quantitative study
-
-## Goal
-The goal of this study was to evaluate which prototype performed better and which features and functions to carry forward. This will help plot the course for the earliest deliverable with the highest impact.
-
-## Purpose
- * quality of the users' experience reporting a cybercrime
- * users' trust and confidence in the form
- * quality and quantity of reports submitted
-
-## Results
