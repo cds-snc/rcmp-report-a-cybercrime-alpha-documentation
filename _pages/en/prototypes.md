@@ -6,11 +6,11 @@ permalink: "/prototypes/"
 trans_url: "/prototypes/"
 ---
 
-# Learning by building and testing
+# Learning by building and testing prototypes
 
-In Alpha, we focused on building prototypes, testing those with users, learning from them and iterating based on what we learned. By putting something tangible in front of people who have been affected by cybercrime or fraud in the past, we were able to learn about what they needed and adjust prototypes to address more of those needs. You can find an overview of the prototypes we've built, tested and iterated below.
+In Alpha, we focused on building prototypes, testing those with users, learning from them, and iterating based on what we learned. By putting something tangible in front of people who have been affected by cybercrime or fraud in the past, we were able to learn about what they needed and adjust prototypes to address more of those needs. You can find an overview of the prototypes we've built, tested, and iterated below.
 
-[![Timeline showing the prototypes over time](/assets/img/Alpha prototypes.png)]
+![Timeline showing the prototypes over time](/assets/img/Alpha prototypes.png)
 
 ---
 
@@ -23,16 +23,21 @@ In Alpha, we focused on building prototypes, testing those with users, learning 
 The first concept was based on the hypothesis that the effort it takes to submit information around a cybercrime event should be correlated to the impact of the crime. 
 
 ### Features
-A low-burden tool to alert the RCMP:
+A low-burden tool to alert the RCMP of a suspicious email address, phone number, or website:
  * Landing page that outlines the purpose
  * Omnibox input field that submits a single identifier
  * Data visualization that shows victims they are not alone
 
 ### Outcomes
- * Clarified the purpose of the prototype
- * Learned how victims expect to share their experiences
- * Revealed language that resonnates with victims
- 
+Testing the concept with seniors and newcomers to Canada, we learned about:
+ * Making the purpose and value of the service clear and having stronger calls to action
+ * Being explicit about which government or law enforcement entity is receiving the report
+ * Revealing how victims expect to share their experiences
+ * Using language that resonnates with victims
+   * Precise, direct instructions were more effective than conversational questions
+   * "Scams" were easier to recognize than "cybercrimes"
+   * "Sharing" had barriers associated with it, while "reporting" created an expectation for investigation or follow-up
+   
  ---
 
 ## Concept 2: Finding out where to report cybercrime
@@ -49,6 +54,7 @@ A decision tree to find the most relevant reporting option
  * Navigation to one clear option that aligns with choices made  
  
 ### Outcomes
+Testing the concept with library-goers, we learned about:
  * Learned about how victims think about cybercrime and make decisions about where to report
    * What constitutes an urgent situation
    * What type of information victims have to report
