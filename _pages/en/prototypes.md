@@ -53,12 +53,12 @@ A decision tree to find the most relevant reporting option
 
 ---
 
-## Prototype 1: Reporting with a simplified version of the baseline fraud reporting form
+## Prototype 1: Reporting in a structured form
 
 ### [See Prototype 1](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1) *(July 2019)*
 
 ### Goals
-This prototype was designed to test how victims of cybercrime engage with a form that asks preset questions. It was based on the closest online reporting service that exists in Canada, the [basline fraud reporting system](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/), and early learnings from Alpha. 
+This prototype was designed to test how victims of cybercrime engage with a form that asks preset questions. It was based on the closest online reporting service that exists in Canada, the [basline fraud reporting system](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/), that was redesigned with simplified layout, content, and interactions, and applying early learnings from Alpha. 
 
 ### Features
 Re-designed baseline reporting form
@@ -76,7 +76,7 @@ Re-designed baseline reporting form
 
 ---
 
-## Prototype 2: Reporting more flexibly with reassurance and guidance
+## Prototype 2: Reporting in an open form
 
 ### [See Prototype 2](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2) *(August 2019)*
 
