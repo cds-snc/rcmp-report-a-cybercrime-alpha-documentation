@@ -33,9 +33,9 @@ Testing the concept with seniors and newcomers to Canada, we learned about:
  * Making the purpose and value of the service clear and having a strong call to action
  * Being explicit about which government or law enforcement entity is receiving the report
  * Using language that resonnates with victims:
-   * Precise, direct, instructions
-   * "Scams" rather than "cybercrimes"
-   * "Reporting" rather than "sharing"
+  * Precise, direct, instructions
+  * "Scams" rather than "cybercrimes"
+  * "Reporting" rather than "sharing"
    
  ---
 
@@ -54,17 +54,16 @@ A decision tree to find the most relevant reporting option:
  
 ### Outcomes
 Testing the concept with library-goers, we learned about:
-   * How victims think about cybercrime and their reporting options
-   * Reasons why many victims prefer to talk to someone over the phone:
-    * Emotional reassurance
-    * Advice and guidance
-    * They believed it would result in action
-   * Expections victims have in receiving a follow-up:
-    * For validation
-    * To confirm their report was received
-    * In case more information is needed
-    * If it's life-threatening
-
+ * How victims think about cybercrime and their reporting options
+ * Reasons why many victims prefer to talk to someone over the phone:
+  * Emotional reassurance
+  * Advice and guidance
+  * They believed it would result in action
+ * Expections victims have in receiving a follow-up:
+  * For validation
+  * To confirm their report was received
+  * In case more information is needed
+  
 ---
 
 ## Prototype 1: Reporting in a structured form
