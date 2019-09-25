@@ -37,7 +37,7 @@ Testing the concept with seniors and newcomers to Canada, we learned about:
    
  ---
 
-## [Concept 2: Finding out where to report cybercrime](https://rac-concept-2.herokuapp.com/) 
+## [Concept 2: Finding out where to report scams and online crimes](https://rac-concept-2.herokuapp.com/) 
 *(Built in May 2019)*
 
 ### Goals
@@ -62,7 +62,7 @@ Testing the concept with library-goers, we learned about:
   
 ---
 
-## [Prototype 1: Reporting in a structured form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1) 
+## [Prototype 1: Reporting scams in a structured form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1) 
 *(Built in July 2019)*
 
 ### Goals
@@ -85,7 +85,7 @@ This prototype was designed to test how victims of cybercrime engage with a long
 
 ---
 
-## [Prototype 2: Reporting in an open form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2) 
+## [Prototype 2: Reporting scams in an open form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2) 
 *(Built in August 2019)*
 
 ### Goals
