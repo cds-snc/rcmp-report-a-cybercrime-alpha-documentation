@@ -86,7 +86,9 @@ More detailed Azure DevOps Pipeline doc: [Azure Pipeline](../assets/docs/azure-p
 
 ## Security Implications
 
-- Things we have done to make it more secure.
+- Using GraphQL to prevent hacking the database.
+- Using Kubernetes to against attacks by enforcing a single entrypoint into the service. 
+- Scrumbling the personal information in both protypes
 
 ## Next Steps
 
