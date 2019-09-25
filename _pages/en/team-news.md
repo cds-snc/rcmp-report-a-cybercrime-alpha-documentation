@@ -25,7 +25,7 @@ Throughout Alpha, the team worked in the open by sharing stories about the proce
 
 ### Blog posts
 * [Understanding the human needs of people impacted by cybercrime](https://digital.canada.ca/2019/05/06/understanding-the-human-needs-of-people-impacted-by-cybercrime/) 
-* [Ear to the groun: using the words people use](https://digital.canada.ca/2019/06/06/ear-to-the-ground-using-the-words-people-use/)
+* [Ear to the ground: using the words people use](https://digital.canada.ca/2019/06/06/ear-to-the-ground-using-the-words-people-use/)
 * [Qualitative data: uncomfortable, but worth it](https://digital.canada.ca/2019/07/11/qualitative-data-uncomfortable-but-worth-it/)
 * [Learning from the people who want to use our reporting service, but might not use it now](https://digital.canada.ca/2019/08/29/learning-from-the-people-who-want-to-use-our-reporting-service-but-might-not-use-it-now/)
 
