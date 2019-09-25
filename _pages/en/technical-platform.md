@@ -68,7 +68,7 @@ trans_url: "/platforme-technique/"
 
 ## Stack/Architecture diagram
 
-[RCMP Architecture Diagram](././assets/docs/rcmp-architecture-diagram.pdf)
+[RCMP Architecture Diagram](../assets/docs/rcmp-architecture-diagram.pdf)
 
 ## DevOps
 
@@ -76,7 +76,7 @@ We use GitOps. That essentially means GitHub is our "single source of truth" for
 
 When a dev makes a pull request to github and that PR is approved and merged, this triggers the pipeline (a .yaml file) in Azure. The pipeline runs a series of npm commands (lints the code, checks translations, compiles), builds a container of the respective repo area and pushes the container(s) to ACR (Azure Container Registry). We then have a program called Flux running in our AKS (Azure Kubernetes Service) cluster that watches the registry and pulls new images into the cluster.
 
-More detailed Azure DevOps Pipeline doc: [Azure Pipeline](././assets/docs/azure-pipeline.pdf)
+More detailed Azure DevOps Pipeline doc: [Azure Pipeline](../assets/docs/azure-pipeline.pdf)
 
 ## What does the victim get because of these choices
 
