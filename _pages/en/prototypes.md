@@ -8,7 +8,7 @@ trans_url: "/prototypes/"
 
 # Learning by building and testing prototypes
 
-In Alpha, we focused on building prototypes, testing those with users, learning from them, and iterating based on what we learned. By putting something tangible in front of people who have been affected by cybercrime or fraud in the past, we were able to learn about what they needed and adjust prototypes to address more of those needs. You can find an overview of the prototypes we've built, tested, and iterated below.
+In Alpha, the delivery team focused on building prototypes, testing those with users, learning from them, and iterating based on what we learned. By putting something tangible in front of people who have been affected by cybercrime or fraud, we were able to learn about what they needed and adjust prototypes to address more of those needs. You can find an overview of the prototypes we've built, tested, and iterated below.
 
 ![Timeline showing the prototypes over time](/assets/img/Alpha prototypes.png)
 
@@ -30,13 +30,12 @@ A low-burden tool to alert the RCMP of a suspicious email address, phone number,
 
 ### Outcomes
 Testing the concept with seniors and newcomers to Canada, we learned about:
- * Making the purpose and value of the service clear and having stronger calls to action
+ * Making the purpose and value of the service clear and having a stronger call to action
  * Being explicit about which government or law enforcement entity is receiving the report
- * Revealing how victims expect to share their experiences
  * Using language that resonnates with victims
-   * Precise, direct instructions were more effective than conversational questions
-   * "Scams" were easier to recognize than "cybercrimes"
-   * "Sharing" had barriers associated with it, while "reporting" created an expectation for investigation or follow-up
+   * Precise, direct instructions
+   * "Scams" rather than "cybercrimes"
+   * "Reporting" rather than "sharing"
    
  ---
 
