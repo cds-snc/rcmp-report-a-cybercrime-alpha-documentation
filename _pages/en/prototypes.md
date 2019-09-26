@@ -124,7 +124,7 @@ Testing the concept with library-goers, we learned about:
 *(Run in September 2019)*
 
 ### Goals
-To evaluate the effectiveness of an online service designed to help victims report a cybercrime to the police, three versions of the service were compared: the [baseline fraud reporting system](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/), [Prototype 1](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1), and [Prototype 2]((https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2).
+To evaluate the effectiveness of an online service designed to help victims report a cybercrime to the police, three versions of the service were compared: the [baseline fraud reporting system](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/), [Prototype 1](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1), and [Prototype 2](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2).
 
 
 
