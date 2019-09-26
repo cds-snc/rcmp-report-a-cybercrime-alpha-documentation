@@ -14,7 +14,7 @@ By putting something tangible in front of people who have been affected by cyber
 
 You can find an overview of the prototypes that have been built, tested, and iterated on, below.
 
-![Timeline showing the prototypes over time](/img/Alpha prototypes.png)
+![Timeline showing the prototypes over time](assets/img/Alpha prototypes.png)
 
 ---
 
