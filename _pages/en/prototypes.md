@@ -14,7 +14,7 @@ By putting something tangible in front of people who have been affected by cyber
 
 You can find an overview of the prototypes that have been built, tested, and iterated on, below.
 
-![Timeline showing the prototypes over time](rcmp-report-a-cybercrime-alpha-documentation/assets/img/Alpha prototypes.png)
+![Timeline showing the prototypes over time](assets/img/Alpha prototypes.png)
 
 ---
 
@@ -128,6 +128,3 @@ Testing the concept with library-goers, we learned about:
 
 ### Goals
 To evaluate the effectiveness of an online service designed to help victims report a cybercrime to the police, three versions of the service were compared: the [baseline fraud reporting system](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/), [Prototype 1](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1), and [Prototype 2](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2).
-
-
-
