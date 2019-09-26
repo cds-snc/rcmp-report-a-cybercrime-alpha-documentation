@@ -111,12 +111,17 @@ This prototype was designed to test how victims respond to an open form. It appl
 
 ### Outcomes
 Testing the concept with library-goers, we learned about:
- *
+ * Clarifying the purpose of reporting (what police would do with reports)
+ * How to add visual emphasis to action items related to people's goals
+ * Allowing for approximate date picking
+ * Providing examples to reduce ambiguity
+ * Words that reduce confusion in French
+ * Usability issues that could be fixed prior to large-scale usability testing
 
 ---
 
-## Putting prototypes to the test
-*(Quantitative study in September 2019)*
+## Putting prototypes to the test in a quantitative study
+*(Run in September 2019)*
 
 ### Goals
 To evaluate the effectiveness of an online service designed to help victims report a cybercrime to the police, three versions of the service were compared: the [baseline fraud reporting system](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/), [Prototype 1](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1), and [Prototype 2]((https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2).
