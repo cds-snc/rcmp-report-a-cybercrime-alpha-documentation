@@ -86,9 +86,15 @@ More detailed Azure DevOps Pipeline doc: [Azure Pipeline](../assets/docs/azure-p
 
 ## Security Implications
 
-- Using GraphQL to prevent hacking the database.
-- Using Kubernetes to against attacks by enforcing a single entrypoint into the service. 
-- Scrumbling the personal information in both protypes
+- Using GraphQL mobible friendly API with strong input validation to prevent hacking the database.
+- Using containers to minimize attack surface--less code bug, less chance to be attacked. 
+- Continuous deployement let us fix security problems quickly- pipleline has "npm install",  will check all the dependence security issue. 
+- Scrambling personal information in both protypes before saving to database.
+- Only the delivery team members can access to the data which gathered from protypes testing. 
+- Only the people with permission can access to RCMP Azure.
+- Weave Flux automatically trigerring deployments based on changes. This provides better security than most continous deployment tools by keeping prodution credentials out of the CI process-weave flux lie in cluster, doesn't need credential to log in.  
+- Plan for reacting to privacy/security incidents
+
 
 ## Next Steps
 
