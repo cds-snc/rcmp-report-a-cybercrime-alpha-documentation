@@ -104,10 +104,13 @@ This prototype was designed to test how victims respond to an open form. It appl
 
 ### Features
  * Mostly open text fields
+ * Timeframe as date range
+ * Reassuring language
  * Examples and prompts
- * Categorizing impact
- * Uses reassuring language
- * Next steps
+ * Clues about the suspect and evidence combined
+ * Asking about the impact of the scam
+ * Contact information (name, email, postal code)
+ * Next steps, recommended links to get help, other reporting options
 
 ### Outcomes
 Testing the concept with library-goers, we learned about:
