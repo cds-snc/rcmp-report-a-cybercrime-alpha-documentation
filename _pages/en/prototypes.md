@@ -8,7 +8,11 @@ trans_url: "/prototypes/"
 
 # Learning by building and testing prototypes
 
-In Alpha, the delivery team focused on building prototypes, testing those with users, learning from them, and iterating based on what we learned. By putting something tangible in front of people who have been affected by cybercrime or fraud, we were able to learn about what they needed and adjust prototypes to address more of those needs. You can find an overview of the prototypes we've built, tested, and iterated below.
+In Alpha, the delivery team focused on building prototypes, testing those with users, learning from them, and iterating based on what we learned. 
+
+By putting something tangible in front of people who have been affected by cybercrime or fraud, we were able to learn about what they needed and adjust prototypes to address more of those needs. 
+
+You can find an overview of the prototypes that have been built, tested, and iterated on, below.
 
 ![Timeline showing the prototypes over time](rcmp-report-a-cybercrime-alpha-documentation/assets/img/Alpha prototypes.png)
 
@@ -30,8 +34,8 @@ A low-burden tool to alert the RCMP of a suspicious email address, phone number,
 Testing the concept with seniors and newcomers to Canada, we learned about:
  * Making the purpose and value of the service clearer and having a strong call to action
  * Being explicit about which government or law enforcement entity is receiving the report
- * Using language that resonnates with victims:
-   * Precise, direct, instructions
+ * Using language that resonnates with victims
+   * Precise, direct, instructional language
    * "Scams" rather than "cybercrimes"
    * "Reporting" rather than "sharing"
    
@@ -50,12 +54,12 @@ A decision tree to find the most relevant reporting option:
  
 ### Outcomes
 Testing the concept with library-goers, we learned about:
- * How victims think about cybercrime and their reporting options
+ * How victims think about cybercrime, how they make decisions on reporting options and expectations from different channels
  * Reasons why many victims prefer to talk to someone over the phone:
    * Emotional reassurance
    * Advice and guidance
    * They believed it would result in action
- * Expections victims have in receiving a follow-up:
+ * Expectations victims have in receiving a follow-up:
    * For validation
    * To confirm their report was received
    * In case more information is needed
@@ -66,10 +70,10 @@ Testing the concept with library-goers, we learned about:
 *(Built in July 2019)*
 
 ### Goals
-This prototype was designed to test how victims of cybercrime engage with a longer form that asks preset questions. It was based on the [baseline fraud reporting system](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/), and was designed to lower the cognitive burden by simplifying layout, content, and interactions. 
+This prototype was designed to test how victims of cybercrime engage with a longer form that asks preset questions. It was based on the [baseline fraud reporting form](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/), and was re-designed to lower the cognitive load by simplifying layout, content, and interactions. It reduces content for easier reading and uses more accessible language.
 
 ### Features
- * Mostly structured input fields
+ * Structured input fields
  * Landing page with purpose and what to prepare
  * Divided into short skippable sections
    * Event description (what, when, how)
@@ -81,7 +85,14 @@ This prototype was designed to test how victims of cybercrime engage with a long
  * Reference number provided
 
 ### Outcomes
- * 
+Testing the concept with library-goers, we learned about:
+ * How to provide more direct and specific questions
+ * The need to contextualize the unknown National Cybercrime Coordination Unit (NC3)
+ * The need for victims to predict what they will be asked to do next, both at the onset and from page-to-page
+ * Dates are sometimes difficult to recall, especially if it was a long time ago or if it took place over a period of time
+ * That victims are unsure how they can provide scammer details if they do not know who the scammer is for certain
+ * How victims expect to share evidence, especially non-computer related evidence or multiple documents at a time
+ * Usability issues that could be fixed prior to large-scale usability testing
 
 ---
 
@@ -89,7 +100,7 @@ This prototype was designed to test how victims of cybercrime engage with a long
 *(Built in August 2019)*
 
 ### Goals
-This prototype was designed to test how victims respond to an open form. It applies learnings from research with both victims and police of jurisdiction, to learn about providing flexiblity, emotional reassurance, guidance, and clear expectations.
+This prototype was designed to test how victims respond to an open form. It applies learnings from research with both victims and police of jurisdiction, to learn about providing flexiblity, emotional reassurance, guidance/recommendations, and clear expectations.
 
 ### Features
  * Mostly open text fields
@@ -99,4 +110,16 @@ This prototype was designed to test how victims respond to an open form. It appl
  * Next steps
 
 ### Outcomes
+Testing the concept with library-goers, we learned about:
  *
+
+---
+
+## Putting prototypes to the test
+*(Quantitative study in September 2019)*
+
+### Goals
+To evaluate the effectiveness of an online service designed to help victims report a cybercrime to the police, three versions of the service were compared: the [baseline fraud reporting system](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/), [Prototype 1](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1), and [Prototype 2]((https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2).
+
+
+
