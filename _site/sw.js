@@ -1,17 +1,17 @@
-importScripts( '/cache-polyfill.js' );
+importScripts( '/rcmp-report-a-cybercrime-alpha-documentation/cache-polyfill.js' );
 
 var filesToCache = [
   // root
-  '/',
-  '/index.html',
+  '/rcmp-report-a-cybercrime-alpha-documentation/',
+  '/rcmp-report-a-cybercrime-alpha-documentation/index.html',
   // css
-  '/assets/css/main.css',
-  '/assets/css/normalize.css',
-  '/assets/css/syntax.css',
+  '/rcmp-report-a-cybercrime-alpha-documentation/assets/css/main.css',
+  '/rcmp-report-a-cybercrime-alpha-documentation/assets/css/normalize.css',
+  '/rcmp-report-a-cybercrime-alpha-documentation/assets/css/syntax.css',
   // images
-  '/assets/img/octocat.png',
+  '/rcmp-report-a-cybercrime-alpha-documentation/assets/img/octocat.png',
   // pages
-  '/alpha-research/','/background/','/contact/','/home/','/participate/','/prototypes/','/team-news/','/technical-platform/','/accueil/','/coordonnees/','/contexte/','/nouvelles-dequipe/','/participez/','/recherche-de-la-phase-decouverte/',
+  '/rcmp-report-a-cybercrime-alpha-documentation/alpha-research/','/rcmp-report-a-cybercrime-alpha-documentation/background/','/rcmp-report-a-cybercrime-alpha-documentation/contact/','/rcmp-report-a-cybercrime-alpha-documentation/home/','/rcmp-report-a-cybercrime-alpha-documentation/participate/','/rcmp-report-a-cybercrime-alpha-documentation/prototypes/','/rcmp-report-a-cybercrime-alpha-documentation/team-news/','/rcmp-report-a-cybercrime-alpha-documentation/technical-platform/','/rcmp-report-a-cybercrime-alpha-documentation/accueil/','/rcmp-report-a-cybercrime-alpha-documentation/coordonnees/','/rcmp-report-a-cybercrime-alpha-documentation/contexte/','/rcmp-report-a-cybercrime-alpha-documentation/nouvelles-dequipe/','/rcmp-report-a-cybercrime-alpha-documentation/participez/','/rcmp-report-a-cybercrime-alpha-documentation/recherche-de-la-phase-decouverte/',
   // posts
   
 ];

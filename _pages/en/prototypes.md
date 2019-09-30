@@ -12,9 +12,12 @@ In Alpha, the delivery team focused on building prototypes, testing those with u
 
 By putting something tangible in front of people who have been affected by cybercrime or fraud, we were able to learn about what they needed and adjust prototypes to address more of those needs. 
 
+
+-----
+
 You can find an overview of the prototypes that have been built, tested, and iterated on, below.
 
-![Timeline showing the prototypes over time]({{baseurl}}/assets/img/timeline.png)
+![Timeline showing the prototypes over time]({{ site.baseurl }}/assets/img/timeline.png)
 
 ---
 
