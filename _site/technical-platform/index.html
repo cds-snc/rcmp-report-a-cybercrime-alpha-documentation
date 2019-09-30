@@ -75,7 +75,9 @@
 <h3 id="choices">Choices</h3>
 
 <ul>
-  <li>Cloud
+  <li>
+    <p>Cloud</p>
+
     <ul>
       <li>we are deploying the product on RCMP’s Microsoft Azure AKS. The service can also be deployed on Google GKE or Amazon EKS.</li>
     </ul>
@@ -145,7 +147,9 @@
       <li>Kubernetes makes it easy to centralize logging and get a view into how well the system is running.</li>
     </ul>
   </li>
-  <li>System reliability
+  <li>
+    <p>System reliability</p>
+
     <ul>
       <li>Using React and GraphQL allows us to minimize the amount of network traffic required to use the application.</li>
       <li>The reliability guarentees from Microsoft together with Kubernetes’ robust architecture gives us confidence that the system will have high availability.</li>
@@ -170,14 +174,77 @@
 
 <h2 id="stackarchitecture-diagram">Stack/Architecture diagram</h2>
 
-<h2 id="what-does-the-victim-get-because-of-these-choices">What does the victim get because of these choices</h2>
+<p><a href="../assets/docs/rcmp-architecture-diagram.pdf">RCMP Architecture Diagram</a></p>
+
+<h2 id="devops">DevOps</h2>
+
+<p>We use GitOps. That essentially means GitHub is our “single source of truth” for our application.</p>
+
+<p>When a dev makes a pull request to github and that PR is approved and merged, this triggers the pipeline (a .yaml file) in Azure. The pipeline runs a series of npm commands (lints the code, checks translations, compiles), builds a container of the respective repo area and pushes the container(s) to ACR (Azure Container Registry). We then have a program called Flux running in our AKS (Azure Kubernetes Service) cluster that watches the registry and pulls new images into the cluster.</p>
+
+<p>More detailed Azure DevOps Pipeline doc: <a href="../assets/docs/azure-pipeline.pdf">Azure Pipeline</a></p>
+
+<h2 id="user-facing-gains">User facing gains</h2>
+
 <ul>
-  <li>Trust factors (https?)</li>
-  <li>Load Testing results?</li>
+  <li>
+    <p>Trust factors</p>
+
+    <ul>
+      <li>An RCMP domain name and the RCMP logo prominently displayed</li>
+      <li>Reassuring language used throughout</li>
+    </ul>
+  </li>
+  <li>
+    <p>Performance</p>
+
+    <p>We performed load testing to determine how the application behaves when multiple users access it simutaneously. We want to ensure that the application will perform well under its expected workload. We perform two load tests, one to test how long it takes users to initially fetch the web app, and the other one to test how long it takes for the user’s data to be submitted to the RCMP server. To do our load testing we used the <a href="https://docs.k6.io">k6</a> load testing tool.</p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Test</th>
+          <th style="text-align: center">Users / sec</th>
+          <th style="text-align: right">Average user wait</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>fetch web page</td>
+          <td style="text-align: center">100 / second</td>
+          <td style="text-align: right">149 milliseconds</td>
+        </tr>
+        <tr>
+          <td>submit data</td>
+          <td style="text-align: center">120 / second</td>
+          <td style="text-align: right">55 milliseconds</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>See the <a href="https://github.com/cds-snc/report-a-cybercrime/blob/master/frontend/utils/loadTesting.js">frontend</a> or <a href="https://github.com/cds-snc/report-a-cybercrime/blob/master/api/utils/loadTesting.js">api</a> utilities for more details.</p>
+
+    <p>Is 100 users/second enough?</p>
+
+    <ul>
+      <li>According to CAFC’s recording, they received more than 150,000 calls from around the world every year and receives approximately 1,200 e‑mails every day about suspected fraud[1].</li>
+      <li>Testing workload: 100x60x60x24x365=3,090,528,000 (numbers/annual)</li>
+      <li>Report fraud number: 150,000+1200x365= 588,000 (numbers/annual)</li>
+      <li>3,090,528,000/588,000= 5,256 times</li>
+    </ul>
+
+    <p>Since testing workload is 5,256 times more than currently actually report fraud number, this implies the application will behave well when multiple users access it simutaneously.</p>
+  </li>
+  <li>What did we do to achieve an app that is this fast?
+    <ul>
+      <li>We use google cloud and Azure kubernetes, which two main factors make the app run much faster than the traditional app.</li>
+    </ul>
+  </li>
   <li>Vulnerability Scanning?</li>
 </ul>
 
 <h2 id="security-implications">Security Implications</h2>
+
 <ul>
   <li>Things we have done to make it more secure.</li>
 </ul>
