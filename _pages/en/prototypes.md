@@ -123,7 +123,20 @@ Testing the concept with library-goers, we learned about:
  * Providing examples to reduce ambiguity
  * Words that reduce confusion in French
  * Usability issues that could be fixed prior to large-scale usability testing
+ 
+ ---
+ 
+ ## Making design decisions based on research
 
+ ![Blameless]({{ site.baseurl }}/assets/img/blameless.png)
+ 
+ ![Language]({{ site.baseurl }}/assets/img/language.png)
+ 
+ ![Guidance]({{ site.baseurl }}/assets/img/guidance.png)
+ 
+ ![Expectations]({{ site.baseurl }}/assets/img/expectations.png)
+ 
+ ![After]({{ site.baseurl }}/assets/img/after.png)
 ---
 
 ## Putting prototypes to the test in a quantitative study
@@ -131,3 +144,15 @@ Testing the concept with library-goers, we learned about:
 
 ### Goals
 To evaluate the effectiveness of an online service designed to help victims report a cybercrime to the police, three versions of the service were compared: the [baseline fraud reporting system](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/), [Prototype 1](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1), and [Prototype 2](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2).
+
+![Comparison of prototypes]({{ site.baseurl }}/assets/img/suspects.png)
+
+![Diagram showing quantity of reports submitted]({{ site.baseurl }}/assets/img/quantity.png)
+
+![Graph showing experience using the service]({{ site.baseurl }}/assets/img/experience.png)
+
+![Graph showing experience and intention to use the site]({{ site.baseurl }}/assets/img/intention.png)
+
+![Graph showing trust and confidence]({{ site.baseurl }}/assets/img/trust.png)
+
+![Graph showing report quality]({{ site.baseurl }}/assets/img/quality.png)
