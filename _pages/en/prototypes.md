@@ -136,26 +136,26 @@ Testing the concept with library-goers, we learned about:
  > "Victims visit the next day to ask for case updates or send emails to see if we received [their report]" 
  — Frontline staff
  
- ![Expectations]({{ site.baseurl }}/assets/img/expectations.png){:height="200 px"}
+ ![Expectations]({{ site.baseurl }}/assets/img/expectations.png){:width="500 px"}
  
- ![After]({{ site.baseurl }}/assets/img/after.png){:height="200 px"}
+ ![After]({{ site.baseurl }}/assets/img/after.png){:width="500 px"}
  
  #### Victims avoid reporting because they're ashamed and feel at fault.
  > "When [victims] felt safe, and felt that it wasn't their fault, they opened up more and provided more details" 
  — Officer taking reports over the phone
  
- ![Blameless]({{ site.baseurl }}/assets/img/blameless.png)
+ ![Blameless]({{ site.baseurl }}/assets/img/blameless.png){:width="500 px"}
  
  #### Victims use different language than law enforcement.
 Police reword required data fields so that victims understand them.
 
- ![Language]({{ site.baseurl }}/assets/img/language.png){:height="200 px"}
+ ![Language]({{ site.baseurl }}/assets/img/language.png){:width="500 px"}
 
  #### Victims need to protect themselves from ongoing or future attacks.
  > "I'm saying the same sentence day after day to these poor folks... there needs to be more preventative, proactive help. We get a lot of 'I don't know how I fell for this', after the fact" 
  — Officer taking reports over the phone
 
- ![Guidance]({{ site.baseurl }}/assets/img/guidance.png){:height="200 px"}
+ ![Guidance]({{ site.baseurl }}/assets/img/guidance.png){:width="500 px"}
  
 
 ---
@@ -173,7 +173,7 @@ We examined how the current iteration compared to other versions in terms of
 2. Users' trust and confidence in the form
 3. The quality and quantity of reports submitted
 
-![Comparison of prototypes]({{ site.baseurl }}/assets/img/suspects.png){:height="200 px"}
+![Comparison of prototypes]({{ site.baseurl }}/assets/img/suspects.png){:width="500 px"}
 
 ### Results
 
@@ -181,31 +181,31 @@ We examined how the current iteration compared to other versions in terms of
 
 People using Prototype 1 and Prototype 2 were more likely to complete and submit a report. Over 40% of people who used the baseline opted out of completing and submitting a report.
 
-![Diagram showing quantity of reports submitted]({{ site.baseurl }}/assets/img/quantity.png){:height="200 px"}
+![Diagram showing quantity of reports submitted]({{ site.baseurl }}/assets/img/quantity.png){:width="500 px"}
 
 #### Experience using the service
 
 People report higher levels of usablity for both Prototype 1 and Prototype 2 compared to the baseline form.
 
-![Graph showing experience using the service]({{ site.baseurl }}/assets/img/experience.png){:height="200 px"}
+![Graph showing experience using the service]({{ site.baseurl }}/assets/img/experience.png){:width="500 px"}
 
 #### Experience and intention to use the site
 
 People report greater intentions to use the current iteration (Prototype 2) than either the baseline form or Prototype 1.
 
-![Graph showing experience and intention to use the site]({{ site.baseurl }}/assets/img/intention.png){:height="200 px"}
+![Graph showing experience and intention to use the site]({{ site.baseurl }}/assets/img/intention.png){:width="500 px"}
 
 #### Trust and confidence
 
 People report equal ratings of trust and confidence in reporting for all three versions of the form. They are also equally likely to recommend each of them.
 
-![Graph showing trust and confidence]({{ site.baseurl }}/assets/img/trust.png){:height="200 px"}
+![Graph showing trust and confidence]({{ site.baseurl }}/assets/img/trust.png){:width="500 px"}
 
 #### Report quality
 
 Each report was rated by three RCMP staff members and averaged. Reports from the current iteration (Prototype 2) and the baseline rated as of the same quality.
 
-![Graph showing report quality]({{ site.baseurl }}/assets/img/quality.png){:height="200 px"}
+![Graph showing report quality]({{ site.baseurl }}/assets/img/quality.png){:width="500 px"}
 
 ### Conclusions
 
