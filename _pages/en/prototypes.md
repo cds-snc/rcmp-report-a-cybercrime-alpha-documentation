@@ -123,20 +123,41 @@ Testing the concept with library-goers, we learned about:
  * Providing examples to reduce ambiguity
  * Words that reduce confusion in French
  * Usability issues that could be fixed prior to large-scale usability testing
+  
+---  
+  
+### Designing based on what we learn from research
+  
+#### Victims cannot provide data all at once, or without structure.
+ > "Some people will only answer 1 of 6 questions. It's a lot for them to process." 
+ — Frontline staff
  
- ---
- 
- ## Making design decisions based on research
-
- ![Blameless]({{ site.baseurl }}/assets/img/blameless.png)
- 
- ![Language]({{ site.baseurl }}/assets/img/language.png)
- 
- ![Guidance]({{ site.baseurl }}/assets/img/guidance.png)
+#### Victims feel let down and stop reporting when what happens next is not what they expect.
+ > "Victims visit the next day to ask for case updates or send emails to see if we received [their report]" 
+ — Frontline staff
  
  ![Expectations]({{ site.baseurl }}/assets/img/expectations.png)
  
  ![After]({{ site.baseurl }}/assets/img/after.png)
+ 
+ #### Victims avoid reporting because they're ashamed and feel at fault.
+ > "When [victims] felt safe, and felt that it wasn't their fault, they opened up more and provided more details" 
+ — Officer taking reports over the phone
+ 
+ ![Blameless]({{ site.baseurl }}/assets/img/blameless.png)
+ 
+ #### Victims use different language than law enforcement.
+Police reword required data fields so that victims understand them.
+
+ ![Language]({{ site.baseurl }}/assets/img/language.png)
+
+ #### Victims need to protect themselves from ongoing or future attacks.
+ > "I'm saying the same sentence day after day to these poor folks... there needs to be more preventative, proactive help. We get a lot of 'I don't know how I fell for this', after the fact" 
+ — Officer taking reports over the phone
+
+ ![Guidance]({{ site.baseurl }}/assets/img/guidance.png)
+ 
+
 ---
 
 ## Putting prototypes to the test in a quantitative study
