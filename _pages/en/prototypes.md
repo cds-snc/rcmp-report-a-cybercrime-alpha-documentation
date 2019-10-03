@@ -166,14 +166,60 @@ Police reword required data fields so that victims understand them.
 ### Goals
 To evaluate the effectiveness of an online service designed to help victims report a cybercrime to the police, three versions of the service were compared: the [baseline fraud reporting system](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/), [Prototype 1](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1), and [Prototype 2](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2).
 
+The purpose was to test whether the current iteration of the reporting form meets the needs of victims and police of jurisdiction (on a larger scale).
+
+We examined how the current iteration compared to other versions in terms of 
+1. the quality of users' experience reporting a cybercrime
+2. Users' trust and confidence in the form
+3. The quality and quantity of reports submitted
+
 ![Comparison of prototypes]({{ site.baseurl }}/assets/img/suspects.png)
+
+### Results
+
+#### Quantity of reports submitted
+
+People using Prototype 1 and Prototype 2 were more likely to complete and submit a report. Over 40% of people who used the baseline opted out of completing and submitting a report.
 
 ![Diagram showing quantity of reports submitted]({{ site.baseurl }}/assets/img/quantity.png)
 
+#### Experience using the service
+
+People report higher levels of usablity for both Prototype 1 and Prototype 2 compared to the baseline form.
+
 ![Graph showing experience using the service]({{ site.baseurl }}/assets/img/experience.png)
+
+#### Experience and intention to use the site
+
+People report greater intentions to use the current iteration (Prototype 2) than either the baseline form or Prototype 1.
 
 ![Graph showing experience and intention to use the site]({{ site.baseurl }}/assets/img/intention.png)
 
+#### Trust and confidence
+
+People report equal ratings of trust and confidence in reporting for all three versions of the form. They are also equally likely to recommend each of them.
+
 ![Graph showing trust and confidence]({{ site.baseurl }}/assets/img/trust.png)
 
+#### Report quality
+
+Each report was rated by three RCMP staff members and averaged. Reports from the current iteration (Prototype 2) and the baseline rated as of the same quality.
+
 ![Graph showing report quality]({{ site.baseurl }}/assets/img/quality.png)
+
+### Conclusions
+
+We found that participants were more likely to:
+- Complete and submit a report when using the prototypes
+- Rate the prototypes as more usable
+- Use the current iteration prototype 
+
+We achieved these results by:
+- Reducing the number of form fields
+- Writing easy-to-read questions
+- Providing clarity on purpose and next steps
+- Including emotional reassurance and guidance
+
+The current iteration (Prototype 2): 
+- Maintains quality with improved usability and loyalty
+- Increases the quantity of reports submitted
