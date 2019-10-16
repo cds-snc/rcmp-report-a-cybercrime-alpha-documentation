@@ -13,13 +13,14 @@ trans_url: "/prototypes/"
 In Alpha, we focused on building prototypes, testing those with users, learning from them, and iterating based on what we learned. By putting something tangible in front of people who have been affected by cybercrime or fraud, we were able to learn about what they needed and adjust prototypes to address more of those needs. 
 
 You can find an overview of the prototypes that have been built, tested, and iterated on, below:
+
 ![Timeline showing the prototypes over time]({{ site.baseurl }}/assets/img/timeline.png){:height="200 px"}
 
- * [Concept 1: Reporting cybercrime with a single identifier](https://rac-concept-1.herokuapp.com/) *(Built in April 2019)*
- * [Concept 2: Finding out where to report scams and online crimes](https://rac-concept-2.herokuapp.com/) *(Built in May 2019)*
+ * [Concept 1: Reporting cybercrime with a single identifier](https://rac-concept-1.herokuapp.com/) *(April 2019)*
+ * [Concept 2: Finding out where to report scams and online crimes](https://rac-concept-2.herokuapp.com/) *(May 2019)*
  
- * [Prototype 1: Reporting scams in a structured form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1) *(Built in July 2019)*
- * [Prototype 2: Reporting scams in an open form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2) *(Built in August 2019)*
+ * [Prototype 1: Reporting scams in a structured form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1) *(July 2019)*
+ * [Prototype 2: Reporting scams in an open form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2) *(August 2019)*
  
 ## What we learned from testing early concepts
 
