@@ -14,4 +14,4 @@ decisions (content, design, technical, etc.) made over the course
 of the Alpha phase.
 
 The team intends to deploy a minimal viable product before the
-end of 2019 and continue to prototype in the Beta phase from November 2019-April 2020.
+end of 2019 and continue to prototype in the Beta phase from November 2019 to April 2020.
