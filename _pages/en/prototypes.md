@@ -1,44 +1,45 @@
 ---
 layout: page
-title:  "Prototypes"
+title:  "Alpha research and prototypes"
 lang: en
 permalink: "/prototypes/"
 trans_url: "/les-prototypes/"
 ---
 
-# Prototypes
+# Learning by building and testing prototypes
 
-In Alpha, we learned by building and testing prototypes with users, learning from them, and iterating based on what we learned. By putting something tangible in front of people who have been affected by cybercrime or fraud, we were able to learn about what they needed and adjust prototypes to address more of those needs. 
+In Alpha, we focused primarily on building and testing prototypes with users, learning from them, and iterating based on what we learned. By putting something tangible in front of people who have been affected by cybercrime or fraud, we were able to learn about what they need and adjust prototypes to address more of those needs. 
 
-You can find an overview of the prototypes that have been built, tested, and iterated on, below:
+You can find an overview of the prototypes built, tested, and iterated on, below:
 
 ![Timeline showing the prototypes over time]({{ site.baseurl }}/assets/img/timeline.png){:height="200 px"}
 
  * [Concept 1: Reporting cybercrime with a single identifier](https://rac-concept-1.herokuapp.com/) *(April 2019)*
  * [Concept 2: Finding out where to report scams and online crimes](https://rac-concept-2.herokuapp.com/) *(May 2019)*
- 
  * [Prototype 1: Reporting scams in a structured form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1) *(July 2019)*
  * [Prototype 2: Reporting scams in an open form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2) *(August 2019)*
  
 ## What we learned from testing early concepts
 
-Early on, we built and tested low-fidelity concepts. This was a quick way to test different directions. We learned a lot by putting these in front of seniors, library-goers, and newcomers to Canada. Here are a few of the insights we learned:
+Early on, we built low-fidelity concepts as a quick way to test different directions. We put these in front of seniors, library-goers, and newcomers to Canada. Here are a few of the insights we learned:
  * Make the purpose and value of the service clear and have a strong call to action.
  * Be explicit about which government or law enforcement entity will receive the report.
  * Use language that resonnates with victims:
-   * Precise, direct, instructional language.
-   * "Scams" rather than "cybercrimes".
-   * "Reporting" rather than "sharing".
+   * Precise, direct, instructional language
+   * "Scams" rather than "cybercrimes"
+   * "Reporting" rather than "sharing"
  * Victims may prefer to talk to someone over the phone for:
-   * Emotional reassurance.
-   * Advice and guidance.
-   * They believed it would result in action.
+   * Emotional reassurance
+   * Advice and guidance
+   * They believed it would result in action
  * Victims expect to receive a follow-up:
    * For validation
    * To confirm their report was received
    * In case more information is needed
 
 ## Barriers to reporting
+
+
 
 ## What we learned from Police of Jurisdiction
 
