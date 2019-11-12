@@ -12,9 +12,12 @@ trans_url: "/contexte/"
 Cybercrime costs the Canadian economy between $3 billion and $5
 billion a year.[^estimatedcosts]
 
+But, the impacts go beyond economics. Millions suffer the emotional impacts of cybercrime, including feelings of shame, vulnerability, fear, and confusion.
+
 [^estimatedcosts]: https://www.cbc.ca/news/business/ai-hacking-canada-1.4437427
 
-## Cybercrime is underreported
+## Cybercrime is underreported and often invisible
+
 - Only 32,968 cases of cybercrime were filed in 2018 and most are not solved.[^unsolvedcybercrimes]
 
 - 1 in 5 Canadian businesses were impacted by cybercrime events in
