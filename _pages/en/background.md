@@ -6,7 +6,7 @@ permalink: "/background/"
 trans_url: "/contexte/"
 ---
 
-# Background
+# About this project
 
 ## Cybercrime's impact
 Cybercrime costs the Canadian economy between $3 billion and $5
