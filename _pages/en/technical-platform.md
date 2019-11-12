@@ -6,9 +6,9 @@ permalink: "/technical-platform/"
 trans_url: "/platforme-technique/"
 ---
 
-## Engineering details
+# Technical Platform 
 
-### Choices
+## Engineering choices
 
 - Cloud
 
@@ -35,7 +35,7 @@ trans_url: "/platforme-technique/"
 
   - Kubernetes is an open-source platform for running microservices together.
 
-### Gains from these choices
+## Gains from these choices
 
 - Security
 
