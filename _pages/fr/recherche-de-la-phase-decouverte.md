@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  "Recherche"
+title:  "Prototypes"
 lang: fr
-permalink: "/recherche/"
-trans_url: "/research/"
+permalink: "/prototypes/"
+trans_url: "/prototypes/"
 ---
 
