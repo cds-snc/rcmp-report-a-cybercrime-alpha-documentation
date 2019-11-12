@@ -20,7 +20,7 @@ trans_url: "/platforme-technique/"
 ## What do we gain from these tech choices
 
 - **Security**
-  - Using GraphQL allows us to prevent attackers are not able to use data to hack the database (for example, by using a SQL injection attack).
+  - Using GraphQL allows us to prevent attackers so that they are not able to use data to hack the database (for example, by using a SQL injection attack).
   - Using Kubernetes makes it easy to harden the service against attacks by enforcing a single entrypoint into the service.
 
 - **Code maintainability**
@@ -32,7 +32,6 @@ trans_url: "/platforme-technique/"
   - Kubernetes makes it easy to centralize logging and get a view into how well the system is running.
 
 - **System reliability**
-
   - Using React and GraphQL allows us to minimize the amount of network traffic required to use the application.
   - The reliability guarantees from Microsoft, together with Kubernetes' robust architecture, gives us confidence that the system will have high availability.
 
@@ -66,8 +65,7 @@ We've also performed load testing to determine how the application behaves when 
 
   See the [frontend](https://github.com/cds-snc/report-a-cybercrime/blob/master/frontend/utils/loadTesting.js) or [api](https://github.com/cds-snc/report-a-cybercrime/blob/master/api/utils/loadTesting.js) utilities for more details.
 
- **Is 100 users per second enough?**
-
+ Is 100 users per second enough?
   - According to the Canadian Anti-Fraud Centre (CAFC), they received more than 150,000 calls every year and approximately 1,200 e‑mails every day about suspected fraud[1].
   - Testing workload: 100x60x60x24x365 = 3,090,528,000 (numbers/annual)
   - Report fraud number: 150,000+1200x365 = 588,000 (numbers/annual)
