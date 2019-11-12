@@ -6,7 +6,9 @@ permalink: "/technical-platform/"
 trans_url: "/platforme-technique/"
 ---
 
-# Engineering choices
+# A modern, secure, scalable tech stack
+
+## Engineering choices
 
 - **Cloud:**: We are deploying the product on RCMP's Microsoft Azure AKS. The service can also be deployed on Google GKE or Amazon EKS.
 - **JavaScript:** This is a programming language that web browsers use to build web pages.
