@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Technical Platform"
+title: "Technical platform"
 lang: en
 permalink: "/technical-platform/"
 trans_url: "/platforme-technique/"
