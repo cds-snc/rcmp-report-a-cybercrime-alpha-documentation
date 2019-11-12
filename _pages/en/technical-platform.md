@@ -52,15 +52,15 @@ This means we have built and tested the prototypes in the cloud, the report are 
   - This allows us to test and refine the experience in French as easily as we can that in English.
   
 - **Performance**
-  - To achieve an app that is this fast, we used Google Cloud and Azure Kubernetes.
-  - We performed load testing using the [k6](https://docs.k6.io) load testing tool. This allowed us to  determine how the application behaves when multiple users access it simutaneously. 
+  - To achieve an app that is fast, we used Google Cloud and Azure Kubernetes. But how fast is fast?
+  - We performed load testing using the [k6](https://docs.k6.io) load testing tool. This allowed us to simulate people filling out the form and see how the application behaves when users access it simutaneously. 
   - We determined how long it takes to initially fetch the web app, and how long it takes for the users' data to be submitted to the RCMP server. 
-  - Load tested showed that the application was 5,256 times faster than the current fraud reporting (150,000 calls and 1,200 emails are received by the Canadian Anti-Fraud Centre[1]), therefore the application should be able to handle multiple users, when they access it simutaneously.
+  - Load tested showed that the application can handle 120 reports per second (~430,000 per hour). This was 5,000 times faster than the current fraud reporting system (The Canadian Anti-Fraud Centre received 150,000 calls and 1,200 emails[1]). 
   - See the [frontend](https://github.com/cds-snc/report-a-cybercrime/blob/master/frontend/utils/loadTesting.js) or [api](https://github.com/cds-snc/report-a-cybercrime/blob/master/api/utils/loadTesting.js) utilities for more details.
 
 ## DevOps
 
-We use GitOps. That essentially means [GitHub](https://github.com/cds-snc/report-a-cybercrime) is the "single source of truth" for our application.
+We use GitOps. That essentially means [GitHub](https://github.com/cds-snc/report-a-cybercrime) is the "single source of truth" for our application. This allows us to iterate quickly, by deploying multiple times per days.
 
 When a developer makes a pull request (PR) to GitHub and that PR is approved and merged, this triggers the pipeline (a .yaml file) in Azure. The pipeline runs a series of npm commands (lints the code, checks translations, compiles), builds a container of the respective repo area and pushes the container(s) to ACR (Azure Container Registry). We then have a program called Flux running in our AKS (Azure Kubernetes Service) cluster that watches the registry and pulls new images into the cluster.
 
