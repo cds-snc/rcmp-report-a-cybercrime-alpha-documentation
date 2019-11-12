@@ -8,6 +8,14 @@ trans_url: "/platforme-technique/"
 
 # A modern, secure, scalable tech stack
 
+## Architecture diagram
+
+[RCMP Architecture Diagram](../assets/docs/rcmp-architecture-diagram.pdf)
+
+Each layer, or service is secure not only because of the choice of technology but due to the process and methodology. The team has tried and adopted modern and security-first technologies and practices from large companies like Facebook, Microsoft, and Google. This tech stack was tested not just once, but multiple times.
+
+This means we have built and tested the prototypes in the cloud, the report are stored in a modern graph database to allow for changing formats and needs, and a bilingual component library. This stack has been running since the beginning of summer 2019 and allows RCMP to be safe and fast.
+
 ## Engineering choices
 
 - **Cloud:**: We are deploying the product on RCMP's Microsoft Azure AKS. The service can also be deployed on Google GKE or Amazon EKS.
@@ -17,11 +25,12 @@ trans_url: "/platforme-technique/"
 - **Microservices:** These are a software architectural style that structure an application as a collection of separate services.
 - **Kubernetes:** This is an open-source platform for running microservices together.
 
-## What do we gain from these choices
+## What do we gain from these tech choices
 
 - **Security**
-  - Using GraphQL allows us to prevent attackers so that they are not able to use data to hack the database (for example, by using a SQL injection attack).
-  - Using Kubernetes makes it easy to harden the service against attacks by enforcing a single entrypoint into the service.
+  - GraphQL API is strictly-typed. Using GraphQL allows us to prevent attackers so that they are not able to use data to hack the database (for example, by using a SQL injection attack).
+  - Docker containers use only what's needed to operate, nothing more. Using Kubernetes makes it easy to harden the service against attacks by enforcing a single entrypoint into the service.
+  - The package manager has buit-in vulnerability scanning.
 
 - **Code maintainability**
   - A central tenet of React is the practice of writing your web application in separate blocks called _components_. This entails grouping together all the code and styling needed to create a UI element (for example, the phase banner).
@@ -48,10 +57,6 @@ trans_url: "/platforme-technique/"
   - We determined how long it takes to initially fetch the web app, and how long it takes for the users' data to be submitted to the RCMP server. 
   - Load tested showed that the application was 5,256 times faster than the current fraud reporting (150,000 calls and 1,200 emails are received by the Canadian Anti-Fraud Centre[1]), therefore the application should be able to handle multiple users, when they access it simutaneously.
   - See the [frontend](https://github.com/cds-snc/report-a-cybercrime/blob/master/frontend/utils/loadTesting.js) or [api](https://github.com/cds-snc/report-a-cybercrime/blob/master/api/utils/loadTesting.js) utilities for more details.
-
-## Stack/Architecture diagram
-
-[RCMP Architecture Diagram](../assets/docs/rcmp-architecture-diagram.pdf)
 
 ## DevOps
 
