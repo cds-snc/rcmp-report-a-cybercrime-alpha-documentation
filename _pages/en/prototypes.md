@@ -37,73 +37,96 @@ Early on, we built low-fidelity concepts as a quick way to test different direct
    * To confirm their report was received
    * In case more information is needed
 
-## What people need from a reporting system
+## What we learned from speaking to victims of cybercrime and police
 
-In Alpha we interviewed victims, including small- and medium-sized businesses, and police of jurisdiction to learn about barriers to reporting.
+In Alpha we listened to what people need in a reporting system by interviewing victims of cybercrime (including small- and medium-sized businesses and the general public) and police of jurisdiction (including frontline staff, sergeants, investigators, call takers and victim services).
 
-As we learned more about what both victims and police need, we addressed more of those needs in the prototypes. 
+In total we spoke with 60 victims and 14 police. As we learned more about what both victims and police need, we were able to address more of those needs in the prototypes we built.
 
-Some needs manifested themselves as barriers that prevent people from reporting to police:
+We also began to understand barriers that prevent people from reporting to police: 
   - r
   - r
   - r
-
-"When [victims] felt safe, and felt that it wasn't their fault, **they opened up more and provided more details.**" 
-*– Police of jurisdiction*
-
-
-
-### Victim
-
-### Police
-
-
 
 ## How we applied what we learned
 
-### Victims cannot provide data all at once, or without structure.
+We took learnings from each interview and applied them to the prototypes through incremental, but informed changes.
+
+### Simply asking for data is *not* enough
+There are many barriers that affect victims' ability to provide information especially without face-to-face interactions with someone who can empathize, provide context, and help a victim orient themselves in their situation. We found that many of the things victims struggle with, police are burdened by as well.
+
+### Victims cannot provide data all at once, or without structure
+
+Because they're upset or confused victims find reporting can get overwhelming very quickly. Police see a lot of incomplete reports, or lack of detail in reports because victims are too overwhelmed to answer all their questions.
+
  > "Some people will only answer 1 of 6 questions. It's a lot for them to process." 
- — Frontline staff
+ *— Frontline staff*
  
-### Victims feel let down and stop reporting when what happens next is not what they expect.
+We addressed this in the prototype by dividing the current iteration into short sections that are easily digestible.
+ 
+### Victims feel let down and stop reporting when what happens next is not what they expect
+
+Because this is a new experience for victims, they expect a follow-up phone call, an interview, or some kind of written confirmation that something was received. When next steps are not clear, victims might get anxious and call or vicit the police in person to ask for updates.
+
  > "Victims visit the next day to ask for case updates or send emails to see if we received [their report]" 
  — Frontline staff
  
+ In many cases, victims lose faith and stop reporting altogether because the process is not clear to them. They feel they were let down, when in reality they were not clearly informed at the source.
+ 
+ In response to this, we used simple, clear language to let people know why reports are being collected and to inform them of what to expect after reporting.
+ 
  ![Expectations]({{ site.baseurl }}/assets/img/expectations.png){:width="500 px"}
+ 
+ We made sure to also be clear on the final page that the goal of reporting is to stop cybercriminals. This sheds some light on where the report will go next and helps mitigate confusion about the next steps to prevent unnecessary follow-up with local police. We tried to avoid ambiguity as much as possible.
  
  ![After]({{ site.baseurl }}/assets/img/after.png){:width="500 px"}
  
- ### Victims avoid reporting because they're ashamed and feel at fault.
+ ### Victims avoid reporting because they're ashamed and feel at fault
+ 
+ When people become a victim of cybercrime, especially for the first time, they often feel embarrassed or afraid. They might think it's their fault, especially if they're not tech-savvy. Because of shame, guilt and embarrassment, victims avoid telling friends, family and police about what happened. 
+ 
+ Police also put in extra time to reassure victims of cybercrime that it is not their fault. When victims feel comfortable enough to reach out and report, police are able to help them better understand what happened to them.
+ 
  > "When [victims] felt safe, and felt that it wasn't their fault, they opened up more and provided more details" 
  — Officer taking reports over the phone
  
+We try to use blameless words and a blameless tone to acknowledge that people are in a difficult situation, that we're there to listen, and that they're not alone. It's something that frontline staff and call takers do on a daily basis. 
+
  ![Blameless]({{ site.baseurl }}/assets/img/blameless.png){:width="500 px"}
  
  ### Victims use different language than law enforcement.
-Police reword required data fields so that victims understand them.
+
+The public does not have the same definitions for words that people in law enforcement do. Police reword required data fields so that victims understand them. Words like "evidence", "suspect", "fraud", "cybercrime" have different definitions depending who you ask. Police often give guidance to people and explain what these terms mean.
+
+Instead of relying on those words alone, we add context and provide examples and guidance. This helps to reduce the mental work that people have to do to fill out the form.
 
  ![Language]({{ site.baseurl }}/assets/img/language.png){:width="500 px"}
 
  ### Victims need to protect themselves from ongoing or future attacks.
+ 
+ We also learned that the biggest problem for victims and the biggest problem for police is the lack of preventative guidance and education around protecting oneself.
+ 
+ When people report to the police they expect and hope that the police can help them. When police take calls, or help people in person, they try not to leave them hanging.
+ 
  > "I'm saying the same sentence day after day to these poor folks... there needs to be more preventative, proactive help. We get a lot of 'I don't know how I fell for this', after the fact" 
  — Officer taking reports over the phone
+ 
+Victims are in a state of distress and confusion. They need clear next steps related to getting immediate help and protecting themselves in the future built into the service. When that help is found, they feel safer and more satisfied.
 
  ![Guidance]({{ site.baseurl }}/assets/img/guidance.png){:width="500 px"}
 
-## How users responded in a quantitative experiment
+## How users responded to prototypes in a quantitative experiment
 
-To evaluate the effectiveness of an online service designed to help victims report a cybercrime to the police, three versions of the service were compared: the [baseline fraud reporting system](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/), [Prototype 1](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1), and [Prototype 2](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2).
-
-The purpose was to test whether the current iteration (Prototype 2) of the reporting form meets the needs of victims and police of jurisdiction (on a larger scale).
-
-We examined how the current iteration compared to other versions in terms of 
-1. the quality of users' experience reporting a cybercrime
-2. Users' trust and confidence in the form
-3. The quality and quantity of reports submitted
+To test whether our latest iteration of the reporting form [Prototype 2](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2) met the needs of victims and police, we examined how the current iteration compared to other versions including the [baseline fraud reporting system](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/) and an earlier version [Prototype 1](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1). 
 
 ![Comparison of prototypes]({{ site.baseurl }}/assets/img/suspects.png){:width="500 px"}
 
-### Prototype 1
+The purpose was to test whether the current iteration (Prototype 2) of the reporting form meets the needs of victims and police of jurisdiction (on a larger scale) and to see how it compared in terms of:
+1. the quality of users' experience reporting a cybercrime
+2. Users' trust and confidence in the form
+3. The quality and quantity of reports submitted
+ 
+  ### Prototype 1 (P1)
 This prototype was designed to test how victims of cybercrime engage with a longer form that asks preset questions. It was based on the [baseline fraud reporting form](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/), and was re-designed to lower the cognitive load by simplifying layout, content, and interactions. It reduces content for easier reading and uses more accessible language.
 
 Features:
@@ -118,7 +141,7 @@ Features:
  * Review report information
  * Reference number provided
  
-### Prototype 2
+### Prototype 2 (P2)
 This prototype was designed to test how victims respond to an open form. It applies learnings from research with both victims and police of jurisdiction, to learn about providing flexiblity, emotional reassurance, guidance/recommendations, and clear expectations.
 
 Features:
@@ -130,8 +153,8 @@ Features:
  * Asking about the impact of the scam
  * Contact information (name, email, postal code)
  * Next steps, recommended links to get help, other reporting options
-
-### Recommendations from usability testing 
+ 
+### Recommendations from usability testing P1 and P2
  
  * Contextualize the unknown National Cybercrime Coordination Unit (NC3).
  * Allow victims to predict what they will be asked to do next, both at the onset and from page-to-page.
@@ -142,31 +165,33 @@ Features:
  * Allow for approximate date picking, since dates can be difficult to recall, especially if it was a long time ago or if it took place over a period of time.
  * Provide examples to reduce ambiguity and add visual emphasis to action items related to people's goals.
 
-### Quantity of reports submitted
+### Learnings from the experiment
+
+#### Quantity of reports submitted
 
 People using Prototype 1 and Prototype 2 were more likely to complete and submit a report. Over 40% of people who used the baseline opted out of completing and submitting a report.
 
 ![Diagram showing quantity of reports submitted]({{ site.baseurl }}/assets/img/quantity.png){:width="500 px"}
 
-### Experience using the service
+#### Experience using the service
 
 People report higher levels of usablity for both Prototype 1 and Prototype 2 compared to the baseline form.
 
 ![Graph showing experience using the service]({{ site.baseurl }}/assets/img/experience.png){:width="500 px"}
 
-### Experience and intention to use the site
+#### Experience and intention to use the site
 
 People report greater intentions to use the current iteration (Prototype 2) than either the baseline form or Prototype 1.
 
 ![Graph showing experience and intention to use the site]({{ site.baseurl }}/assets/img/intention.png){:width="500 px"}
 
-### Trust and confidence
+#### Trust and confidence
 
 People report equal ratings of trust and confidence in reporting for all three versions of the form. They are also equally likely to recommend each of them.
 
 ![Graph showing trust and confidence]({{ site.baseurl }}/assets/img/trust.png){:width="500 px"}
 
-### Report quality
+#### Report quality
 
 Each report was rated by three RCMP staff members and averaged. Reports from the current iteration (Prototype 2) and the baseline rated as of the same quality.
 
@@ -187,7 +212,3 @@ We achieved these results by:
 The current iteration (Prototype 2): 
 - Maintains quality with improved usability and loyalty
 - Increases the quantity of reports submitted
-
-### What we're working on next
-
-
