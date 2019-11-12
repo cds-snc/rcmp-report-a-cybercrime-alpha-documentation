@@ -6,9 +6,7 @@ permalink: "/technical-platform/"
 trans_url: "/platforme-technique/"
 ---
 
-# Technical Platform 
-
-## Engineering choices
+# Engineering choices
 
 - **Cloud:**: We are deploying the product on RCMP's Microsoft Azure AKS. The service can also be deployed on Google GKE or Amazon EKS.
 - **JavaScript:** This is a programming language that web browsers use to build web pages.
@@ -17,7 +15,7 @@ trans_url: "/platforme-technique/"
 - **Microservices:** These are a software architectural style that structure an application as a collection of separate services.
 - **Kubernetes:** This is an open-source platform for running microservices together.
 
-## What do we gain from these tech choices
+## What do we gain from these choices
 
 - **Security**
   - Using GraphQL allows us to prevent attackers so that they are not able to use data to hack the database (for example, by using a SQL injection attack).
@@ -41,6 +39,13 @@ trans_url: "/platforme-technique/"
 - **Bilingualism**
   - We have used a React library called `lingui` to make the application bilingual from the start of the project.
   - This allows us to test and refine the experience in French as easily as we can that in English.
+  
+- **Performance**
+  - To achieve an app that is this fast, we used Google Cloud and Azure Kubernetes.
+  - We performed load testing using the [k6](https://docs.k6.io) load testing tool. This allowed us to  determine how the application behaves when multiple users access it simutaneously. 
+  - We determined how long it takes to initially fetch the web app, and how long it takes for the users' data to be submitted to the RCMP server. 
+  - Load tested showed that the application was 5,256 times faster than the current fraud reporting (150,000 calls and 1,200 emails are received by the Canadian Anti-Fraud Centre[1]), therefore the application should be able to handle multiple users, when they access it simutaneously.
+  - See the [frontend](https://github.com/cds-snc/report-a-cybercrime/blob/master/frontend/utils/loadTesting.js) or [api](https://github.com/cds-snc/report-a-cybercrime/blob/master/api/utils/loadTesting.js) utilities for more details.
 
 ## Stack/Architecture diagram
 
@@ -53,24 +58,3 @@ We use GitOps. That essentially means [GitHub](https://github.com/cds-snc/report
 When a developer makes a pull request (PR) to GitHub and that PR is approved and merged, this triggers the pipeline (a .yaml file) in Azure. The pipeline runs a series of npm commands (lints the code, checks translations, compiles), builds a container of the respective repo area and pushes the container(s) to ACR (Azure Container Registry). We then have a program called Flux running in our AKS (Azure Kubernetes Service) cluster that watches the registry and pulls new images into the cluster.
 
 More detailed Azure DevOps Pipeline doc: [Azure Pipeline](../assets/docs/azure-pipeline.pdf)
-
-## Performance
-
-We've also performed load testing to determine how the application behaves when multiple users access it simutaneously. We want to ensure that the application will perform well under its expected workload. We performed two load tests, one to test how long it takes users to initially fetch the web app, and the other one to test how long it takes for the user's data to be submitted to the RCMP server. To do our load testing we used the [k6](https://docs.k6.io) load testing tool.
-
-  | Test           | Users / sec  | Average user wait |
-  | -------------- | :----------: | ----------------: |
-  | fetch web page | 100 / second |  149 milliseconds |
-  | submit data    | 120 / second |   55 milliseconds |
-
-  See the [frontend](https://github.com/cds-snc/report-a-cybercrime/blob/master/frontend/utils/loadTesting.js) or [api](https://github.com/cds-snc/report-a-cybercrime/blob/master/api/utils/loadTesting.js) utilities for more details.
-
- Is 100 users per second enough?
-  - According to the Canadian Anti-Fraud Centre (CAFC), they received more than 150,000 calls every year and approximately 1,200 e‑mails every day about suspected fraud[1].
-  - Testing workload: 100x60x60x24x365 = 3,090,528,000 (numbers/annual)
-  - Report fraud number: 150,000+1200x365 = 588,000 (numbers/annual)
-  - 3,090,528,000/588,000= 5,256 times
-
-Since the load tested is 5,256 times more than the current fraud reporting, the application should be able to handle multiple users well, when they access it simutaneously.
-
-To achieve an app that is this fast, we used Google Cloud and Azure Kubernetes.
