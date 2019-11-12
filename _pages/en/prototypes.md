@@ -6,11 +6,9 @@ permalink: "/prototypes/"
 trans_url: "/les-prototypes/"
 ---
 
-# Learning by building and testing prototypes
+# Prototypes
 
-## What we did
-
-In Alpha, we focused on building prototypes, testing those with users, learning from them, and iterating based on what we learned. By putting something tangible in front of people who have been affected by cybercrime or fraud, we were able to learn about what they needed and adjust prototypes to address more of those needs. 
+In Alpha, we learned by building and testing prototypes with users, learning from them, and iterating based on what we learned. By putting something tangible in front of people who have been affected by cybercrime or fraud, we were able to learn about what they needed and adjust prototypes to address more of those needs. 
 
 You can find an overview of the prototypes that have been built, tested, and iterated on, below:
 
@@ -24,7 +22,7 @@ You can find an overview of the prototypes that have been built, tested, and ite
  
 ## What we learned from testing early concepts
 
-The low-fidelity concepts we built were a quick way to test different directions. We learned a lot by testing these with seniors, library-goers, and newcomers to Canada:
+Early on, we built and tested low-fidelity concepts. This was a quick way to test different directions. We learned a lot by putting these in front of seniors, library-goers, and newcomers to Canada. Here are a few of the insights we learned:
  * Make the purpose and value of the service clear and have a strong call to action.
  * Be explicit about which government or law enforcement entity will receive the report.
  * Use language that resonnates with victims:
@@ -174,3 +172,5 @@ The current iteration (Prototype 2):
 - Increases the quantity of reports submitted
 
 ### What we're working on next
+
+
