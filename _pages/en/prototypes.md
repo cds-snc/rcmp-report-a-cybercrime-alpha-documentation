@@ -37,11 +37,27 @@ Early on, we built low-fidelity concepts as a quick way to test different direct
    * To confirm their report was received
    * In case more information is needed
 
-## Barriers to reporting
+## What people need from a reporting system
+
+In Alpha we interviewed victims, including small- and medium-sized businesses, and police of jurisdiction to learn about barriers to reporting.
+
+As we learned more about what both victims and police need, we addressed more of those needs in the prototypes. 
+
+Some needs manifested themselves as barriers that prevent people from reporting to police:
+  - r
+  - r
+  - r
+
+"When [victims] felt safe, and felt that it wasn't their fault, **they opened up more and provided more details.**" 
+*– Police of jurisdiction*
 
 
 
-## What we learned from Police of Jurisdiction
+### Victim
+
+### Police
+
+
 
 ## How we applied what we learned
 
@@ -74,7 +90,7 @@ Police reword required data fields so that victims understand them.
 
  ![Guidance]({{ site.baseurl }}/assets/img/guidance.png){:width="500 px"}
 
-## What we learned from running a quantitative experiment
+## How users responded in a quantitative experiment
 
 To evaluate the effectiveness of an online service designed to help victims report a cybercrime to the police, three versions of the service were compared: the [baseline fraud reporting system](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/), [Prototype 1](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1), and [Prototype 2](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2).
 
