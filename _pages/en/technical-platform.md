@@ -55,10 +55,6 @@ When a developer makes a pull request (PR) to GitHub and that PR is approved and
 
 More detailed Azure DevOps Pipeline doc: [Azure Pipeline](../assets/docs/azure-pipeline.pdf)
 
-## Building trust with users
-
-An RCMP domain name and the RCMP logo prominently displayed and reassuring language used throughout help to build trust in the service.
-
 ## Performance
 
 We've also performed load testing to determine how the application behaves when multiple users access it simutaneously. We want to ensure that the application will perform well under its expected workload. We performed two load tests, one to test how long it takes users to initially fetch the web app, and the other one to test how long it takes for the user's data to be submitted to the RCMP server. To do our load testing we used the [k6](https://docs.k6.io) load testing tool.
