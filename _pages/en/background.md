@@ -16,7 +16,7 @@ But, the impacts go beyond economics. Millions suffer the emotional impacts of c
 
 [^estimatedcosts]: https://www.cbc.ca/news/business/ai-hacking-canada-1.4437427
 
-## Cybercrime is underreported and often invisible
+## Cybercrime is underreported
 
 - Only 32,968 cases of cybercrime were filed in 2018 and most are not solved.[^unsolvedcybercrimes]
 
@@ -53,7 +53,7 @@ to report cybercrime online
 
 [^NC3]: http://www.rcmp.gc.ca/en/the-national-cybercrime-coordination-unit-nc3
 
-## A Partnership between RCMP and the Canadian Digital Service
+## Partnership between RCMP/NC3 and CDS
 The Canadian Digital Service (CDS) embarked on a partnership with the RCMP to deliver a public reporting tool for victims of cybercrime and fraud. This tool, the National Cybercrime and Fraud Reporting System (NCFRS), will eventually feed reports into the National Cybercrime System (NCS) for triage, analysis, and dissemination to respective police of jurisdiction.
 
 CDS's role goes beyond typical delivery, however. CDS partners with departments to build capacity in terms of the utilization of modern processes and technology. This is achieved through the adoption of agile software development techniques, product management, design research, iteration, working in the open, and service design. A primary goal being the hope that partner departments will work with these tools and methods once the partnership concludes - and continue to iterate on a digital product.
