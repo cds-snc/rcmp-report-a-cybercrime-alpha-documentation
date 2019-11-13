@@ -8,9 +8,13 @@ trans_url: "/decouverte/"
 
 # Who the users are and what they need
 
-In Discovery, the main goal is understanding who might need to use this service. One-on-one conversations with potential users are at the centre of this. 
+In Discovery, the main goal is understanding who might need to use this service. One-on-one conversations with potential users are at the centre of this, test and broaden our assumptions about what reporters need. We conducted 20 interviews with potential and actual victims of cybercrime, we observed 24 phone calls at the Canadian Anti-Fraud Centre (CAFC), and we collected 41 accounts of witnessing and falling victim to cybercrime through a [story gathering tool](https://tell-us.cds-snc.ca).
 
-Ultimately we know everyone's affected by cybercrime. To test and broaden our assumptions about what reporters need, we started by listening to people talk about what they think, feel, and do. Since everyone is a potential victim, we focused on two groups:
+## Who's likely to be a victim
+
+Ultimately we know everyone's affected by cybercrime.  
+
+Since everyone is a potential victim, we focused on two groups:
   - 18-35 year olds, who are most likely to be victims of cybercrime
   - Over 55 year olds, who lose the most from cybercrime and fraud
   
@@ -18,18 +22,20 @@ As we moved further, we shifted the focus from demographic groups and started or
  
 ## What are the motivations of people who do report?
 
+Our research suggested that people who report cybercrime fall into several "archetypes". Not all people fall into these categories and some fall into multiple.
+
 ### Altruists
-They want to report crime to help prevent it from happening to others. 
+They want to report crime to help prevent it from happening to others. They are trying to protect others by helping the authorities. They report because "it's the right thing to do". 
 > "I bet someday, somehow this will help someone else from getting ensnared in the crime."
 *- Altruists*
 
 ### Solvers
-They're trying to solve the problems crime poses for them or their friends and family. They want to recover money, clean computers, stop anything else bad from happening.
+They're trying to solve the problems crime poses for them or their friends and family. They want to recover money, clean computers, stop anything else bad from happening. They report to police, but only if they believe the police can help them mitigate the damage of the crime.
 > "I just don't think they'd have time to read this, so why should I spend time writing it?"
 *- Solvers*
 
 ### Justice seekers
-They want the criminals caught. They might want their money recovered, but they really want justice done.
+They want the criminals caught. They're looking for "hands in cuffs". They might want their money recovered, but they really want justice done. They collect and submit evidence about the crime and are sometimes disappointed when no investigation proceeds.
 > "Get [my report] in quick so we can get the guy in cuffs."
 *- Justice seekers*
 
