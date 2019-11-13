@@ -11,14 +11,9 @@ Throughout the Alpha phase, the team worked in the open by sharing stories about
 
 ## Objectives   		
 * Tell compelling stories about the partnership. 
-* Show how the team is learning from people and testing ideas.
-* Show what’s possible and share insights and resources others can use.
-
-## Audiences
-* Canadian public service
-* Federal departments interested in working with us (potential partners); or working like us (capacity building)
-* Service actors/stakeholders (CSE/CCCS, StatsCan, Public Safety, etc.)
-* People who might participate in research or testing
+* Show interested stakeholders how the team is learning from people and testing ideas.
+* Show the what’s possible and share insights and resources others can use.
+* Recruit people who might want to work with us or participate in research or testing
  
 ## Blog posts
 * [Understanding the human needs of people impacted by cybercrime](https://digital.canada.ca/2019/05/06/understanding-the-human-needs-of-people-impacted-by-cybercrime/) 
