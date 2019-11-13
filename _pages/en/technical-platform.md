@@ -12,7 +12,7 @@ trans_url: "/platforme-technique/"
 
 This is a diagram of the tech stack.
 
-
+ ![Stack]({{ site.baseurl }}/assets/img/tech.png){:width="500 px"}
 
 Each layer, or service is secure not only because of the choice of technology but due to the process and methodology. The team has tried and adopted modern and security-first technologies and practices from large companies like Facebook, Microsoft, and Google. This tech stack was tested not just once, but multiple times.
 
@@ -61,6 +61,8 @@ This means we have built and tested the prototypes in the cloud, the report are 
   - We determined how long it takes to initially fetch the web app, and how long it takes for the users' data to be submitted to the RCMP server. 
   - Load tested showed that the application can handle 120 reports per second (~430,000 per hour). This was 5,000 times faster than the current fraud reporting system (The Canadian Anti-Fraud Centre received 150,000 calls and 1,200 emails[1]). 
   - See the [frontend](https://github.com/cds-snc/report-a-cybercrime/blob/master/frontend/utils/loadTesting.js) or [api](https://github.com/cds-snc/report-a-cybercrime/blob/master/api/utils/loadTesting.js) utilities for more details.
+  
+ ![Load]({{ site.baseurl }}/assets/img/load.png){:width="500 px"}
 
 ## DevOps
 
