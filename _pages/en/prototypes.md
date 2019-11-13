@@ -1,12 +1,12 @@
 ---
 layout: page
-title:  "Prototypes"
+title:  "Alpha research and prototypes"
 lang: en
 permalink: "/prototypes/"
 trans_url: "/prototypes/"
 ---
 
-# Learning by building and testing prototypes
+# Learning by building and testing
 
 In Alpha, we focused primarily on building and testing prototypes with users, learning from them, and iterating based on what we learned. By putting something tangible in front of people who have been affected by cybercrime or fraud, we were able to learn about what they need and adjust prototypes to address more of those needs. 
 
@@ -18,7 +18,18 @@ You can find an overview of the prototypes built, tested, and iterated on, below
  * [Concept 2: Finding out where to report scams and online crimes](https://rac-concept-2.herokuapp.com/) *(May 2019)*
  * [Prototype 1: Reporting scams in a structured form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1) *(July 2019)*
  * [Prototype 2: Reporting scams in an open form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2) *(August 2019)*
- 
+
+## What we learned from speaking to victims of cybercrime and police
+
+In Alpha we listened to what people need in a reporting system by interviewing victims of cybercrime (including small- and medium-sized businesses and the general public) and police of jurisdiction (including frontline staff, sergeants, investigators, call takers and victim services).
+
+In total we spoke with 60 victims and 14 police. As we learned more about what both victims and police need, we were able to address more of those needs in the prototypes we built.
+
+We also began to understand reasons why victims don't report cybercrime: 
+  - Victims feel embarrassed, ashamed, at fault
+  - Victims don’t know what their options are for reporting
+  - Victims had been disappointed or intimidated by law enforcement in the past
+
 ## What we learned from testing early concepts
 
 Early on, we built low-fidelity concepts as a quick way to test different directions. We put these in front of seniors, library-goers, and newcomers to Canada. Here are a few of the insights we learned:
@@ -37,22 +48,11 @@ Early on, we built low-fidelity concepts as a quick way to test different direct
    * To confirm their report was received
    * In case more information is needed
 
-## What we learned from speaking to victims of cybercrime and police
-
-In Alpha we listened to what people need in a reporting system by interviewing victims of cybercrime (including small- and medium-sized businesses and the general public) and police of jurisdiction (including frontline staff, sergeants, investigators, call takers and victim services).
-
-In total we spoke with 60 victims and 14 police. As we learned more about what both victims and police need, we were able to address more of those needs in the prototypes we built.
-
-We also began to understand barriers that prevent people from reporting to police: 
-  - r
-  - r
-  - r
-
 ## How we applied what we learned
 
 We took learnings from each interview and applied them to the prototypes through incremental, but informed changes.
 
-### Simply asking for data is *not* enough
+### Simply asking for data is not enough
 There are many barriers that affect victims' ability to provide information especially without face-to-face interactions with someone who can empathize, provide context, and help a victim orient themselves in their situation. We found that many of the things victims struggle with, police are burdened by as well.
 
 ### Victims cannot provide data all at once, or without structure
