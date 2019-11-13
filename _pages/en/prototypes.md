@@ -3,7 +3,7 @@ layout: page
 title:  "Prototypes"
 lang: en
 permalink: "/prototypes/"
-trans_url: "/les-prototypes/"
+trans_url: "/prototypes/"
 ---
 
 # Learning by building and testing prototypes
