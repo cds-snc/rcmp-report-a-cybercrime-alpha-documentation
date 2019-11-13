@@ -6,9 +6,9 @@ permalink: "/principles/"
 trans_url: "/principes/"
 ---
 
-# Build trust with victims by shouldering the burden
+# Build trust by shouldering the burden
 
-Design principles guide the delivery team in making informed decisions grounded in research. They also provide a framwork to measure decisions against.
+Design principles guide the delivery team in making informed decisions grounded in research. They also provide a framework to measure decisions against.
 
 The following experience principles should be applied to decisions beyond serving victims. They should be applied to benefit all actors in the system.
 
