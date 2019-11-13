@@ -16,8 +16,6 @@ The following experience principles should be applied to decisions beyond servin
 
 ## Support
 Support me by listening without judgement, responding with care, and showing me that I'm not alone.
-
-### This could look like:
   - Acknowledge me and believe me
   - Use clear but empathetic language
   - Only ask me what is necessary
@@ -27,8 +25,6 @@ Support me by listening without judgement, responding with care, and showing me 
 
 ## Guidance
 Guide me through this process to confirm that I am on the right path for me.
-
-### This could look like:
   - Provide clear instructions and examples
   - Point me towards the next steps
   - Do the heavy lifting in the background
@@ -38,8 +34,6 @@ Guide me through this process to confirm that I am on the right path for me.
 
 ## Transparency
 Be transparent so that I can have realistic expectations and understand the value of reporting.
-
-### This could look like:
   - Give me immediate feedback
   - Provide me with a way to track progress
   - Explain what you need from me and why
@@ -49,8 +43,6 @@ Be transparent so that I can have realistic expectations and understand the valu
 
 ## Flexibility
 Offer me flexibility to ensure I'm served the best way, while keeping up with the ever-changing landscape.
-
-### This could look like:
   - Offer the right channel for my needs
   - Let me tell my story at my own pace
   - Use words that resonnate with me
