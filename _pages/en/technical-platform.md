@@ -16,7 +16,7 @@ This means we have built and tested the prototypes in the cloud, the report are 
 
 [RCMP Architecture Diagram](../assets/docs/rcmp-architecture-diagram.pdf)
 
-## Technology choices
+## Engineering choices
 
 When chosing technologies for service delivery, CDS uses open source solutions that are widely used, frequently updated and which work on both server and client, user focus, iterative development and continuous testing, to make the product more likely to ship on time with a high level of security and fewer bugs. Using the following technologies and standards aligns with the [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html).
 
