@@ -16,8 +16,8 @@ You can find an overview of the prototypes built, tested, and iterated on, below
 
  * [Concept 1: Reporting cybercrime with a single identifier](https://rac-concept-1.herokuapp.com/) *(April 2019)*
  * [Concept 2: Finding out where to report scams and online crimes](https://rac-concept-2.herokuapp.com/) *(May 2019)*
- * [Prototype 1: Reporting scams in a structured form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1) *(July 2019)*
- * [Prototype 2: Reporting scams in an open form](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2) *(August 2019)*
+ * [Prototype 1: Reporting scams in a structured form](https://testing-sep6.herokuapp.com/p1) *(July 2019)*
+ * [Prototype 2: Reporting scams in an open form](https://testing-sep6.herokuapp.com/p2) *(August 2019)*
 
 ## What we learned from speaking to victims of cybercrime and police
 
@@ -33,17 +33,24 @@ We also began to understand reasons why victims don't report cybercrime:
 ## What we learned from testing early concepts
 
 Early on, we built low-fidelity concepts as a quick way to test different directions. We put these in front of seniors, library-goers, and newcomers to Canada. Here are a few of the insights we learned:
- * Make the purpose and value of the service clear and have a strong call to action.
+
+### Make the purpose and value of the service clear and have a strong call to action:
  * Be explicit about which government or law enforcement entity will receive the report.
- * Use language that resonnates with victims:
-   * Precise, direct, instructional language
+ * Reassure victims that this is not a scam
+ * Make the service accessible where people already report cybercrime and seek help.
+
+### Use language that resonnates with victims:
+   * Precise, direct, instructional, plain language
+   * Clearly define terms: "cybercrime", "evidence", etc.
    * "Scams" rather than "cybercrimes"
    * "Reporting" rather than "sharing"
- * Victims may prefer to talk to someone over the phone for:
+
+### Victims may prefer to talk to someone over the phone for:
    * Emotional reassurance
    * Advice and guidance
-   * They believed it would result in action
- * Victims expect to receive a follow-up:
+   * They believe it will result in action
+
+### Victims expect to receive a follow-up:
    * For validation
    * To confirm their report was received
    * In case more information is needed
@@ -69,7 +76,7 @@ We addressed this in the prototype by dividing the current iteration into short 
 Because this is a new experience for victims, they expect a follow-up phone call, an interview, or some kind of written confirmation that something was received. When next steps are not clear, victims might get anxious and call or vicit the police in person to ask for updates.
 
  > "Victims visit the next day to ask for case updates or send emails to see if we received [their report]" 
- — Frontline staff
+ *— Frontline staff*
  
  In many cases, victims lose faith and stop reporting altogether because the process is not clear to them. They feel they were let down, when in reality they were not clearly informed at the source.
  
@@ -88,7 +95,7 @@ Because this is a new experience for victims, they expect a follow-up phone call
  Police also put in extra time to reassure victims of cybercrime that it is not their fault. When victims feel comfortable enough to reach out and report, police are able to help them better understand what happened to them.
  
  > "When [victims] felt safe, and felt that it wasn't their fault, they opened up more and provided more details" 
- — Officer taking reports over the phone
+* — Officer taking reports over the phone*
  
 We try to use blameless words and a blameless tone to acknowledge that people are in a difficult situation, that we're there to listen, and that they're not alone. It's something that frontline staff and call takers do on a daily basis. 
 
@@ -109,7 +116,7 @@ Instead of relying on those words alone, we add context and provide examples and
  When people report to the police they expect and hope that the police can help them. When police take calls, or help people in person, they try not to leave them hanging.
  
  > "I'm saying the same sentence day after day to these poor folks... there needs to be more preventative, proactive help. We get a lot of 'I don't know how I fell for this', after the fact" 
- — Officer taking reports over the phone
+ *— Officer taking reports over the phone*
  
 Victims are in a state of distress and confusion. They need clear next steps related to getting immediate help and protecting themselves in the future built into the service. When that help is found, they feel safer and more satisfied.
 
@@ -129,7 +136,7 @@ The purpose was to test whether the current iteration (Prototype 2) of the repor
 ### Prototype 1 (P1)
 This prototype was designed to test how victims of cybercrime engage with a longer form that asks preset questions. It was based on the [baseline fraud reporting form](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/), and was re-designed to lower the cognitive load by simplifying layout, content, and interactions. It reduces content for easier reading and uses more accessible language.
 
-Features:
+**Features:**
  * Structured input fields
  * Landing page with purpose and what to prepare
  * Divided into short skippable sections
@@ -144,7 +151,7 @@ Features:
 ### Prototype 2 (P2)
 This prototype was designed to test how victims respond to an open form. It applies learnings from research with both victims and police of jurisdiction, to learn about providing flexiblity, emotional reassurance, guidance/recommendations, and clear expectations.
 
-Features:
+**Features:**
  * Mostly open text fields
  * Timeframe as date range
  * Reassuring language
@@ -154,7 +161,7 @@ Features:
  * Contact information (name, email, postal code)
  * Next steps, recommended links to get help, other reporting options
  
-### Recommendations from usability testing P1 and P2
+### Learning from qualitative usability testing
  
  * Contextualize the unknown National Cybercrime Coordination Unit (NC3).
  * Allow victims to predict what they will be asked to do next, both at the onset and from page-to-page.
@@ -165,7 +172,7 @@ Features:
  * Allow for approximate date picking, since dates can be difficult to recall, especially if it was a long time ago or if it took place over a period of time.
  * Provide examples to reduce ambiguity and add visual emphasis to action items related to people's goals.
 
-### Learnings from the experiment
+### Learning from a quantitative experiment
 
 #### Quantity of reports submitted
 
