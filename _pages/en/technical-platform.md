@@ -6,9 +6,7 @@ permalink: "/technical-platform/"
 trans_url: "/platforme-technique/"
 ---
 
-# Modern, secure, and scalable
-
-## Tech stack
+# A modern, secure, and scalable tech stack
 
 Each layer, or service is secure not only because of the choice of technology but due to the process and methodology. The team has tried and adopted modern and security-first technologies and practices from large companies like Facebook, Microsoft, and Google. This tech stack was tested not just once, but multiple times.
 
