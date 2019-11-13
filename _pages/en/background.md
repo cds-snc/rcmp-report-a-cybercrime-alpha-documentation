@@ -56,6 +56,8 @@ to report cybercrime online
 ## Partnership between RCMP/NC3 and CDS
 The Canadian Digital Service (CDS) embarked on a partnership with the RCMP to deliver a public reporting tool for victims of cybercrime and fraud. This tool, the National Cybercrime and Fraud Reporting System (NCFRS), will eventually feed reports into the National Cybercrime System (NCS) for triage, analysis, and dissemination to respective police of jurisdiction.
 
-CDS's role goes beyond typical delivery, however. CDS partners with departments to build capacity in terms of the utilization of modern processes and technology. This is achieved through the adoption of agile software development techniques, product management, design research, iteration, working in the open, and service design. A primary goal being the hope that partner departments will work with these tools and methods once the partnership concludes - and continue to iterate on a digital product.
+## The role of CDS
+
+CDS's role goes beyond typical service delivery. CDS partners with departments to build capacity in terms of the use of modern processes and technology. This is achieved through the adoption of agile software development techniques, product management, design research, iteration, working in the open, and service design. A primary goal being the hope that partner departments will work with these tools and methods once the partnership concludes - and continue to iterate on a digital product.
 
 ---
