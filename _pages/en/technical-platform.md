@@ -16,11 +16,9 @@ This means we have built and tested the prototypes in the cloud, the report are 
 
 [RCMP Architecture Diagram](../assets/docs/rcmp-architecture-diagram.pdf)
 
-Using these technologies and standards brings RCMP in alignment with the [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
-
 ## Technology choices
 
-When chosing technologies for service delivery, CDS uses open source solutions that are widely used, frequently updated and which work on both server and client, user focus, iterative development and continuous testing, to make the product more likely to ship on time with a high level of security and fewer bugs.
+When chosing technologies for service delivery, CDS uses open source solutions that are widely used, frequently updated and which work on both server and client, user focus, iterative development and continuous testing, to make the product more likely to ship on time with a high level of security and fewer bugs. Using the following technologies and standards aligns with the [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html).
 
 - **JavaScript:** This is effectively the only programming language that web browsers can  run to build web pages. It is the language of the browser, which allows the team to use a single language across both the frontend and backend of the system. It has security and efficiency backed in.
 - **React:** This is a JavaScript library created by Facebook. It allows developers to build high-quality robust applications, resources and tools quickly by composing components together.
@@ -29,7 +27,7 @@ When chosing technologies for service delivery, CDS uses open source solutions t
 - **Kubernetes:** This is an open-source platform for running microservices together. It provides performance and scalability from the start. 
 - **Cloud:**: Using Kubernetes as our platform means our application runs wherever Kubernetes runs. During the life of the project, this portability let us move between the RCMP's Microsoft Azure AKS as well as Google's GKE and Amazon's EKS.
 
-## What do we gain from these tech choices
+## Benefits of these choices
 
 - **Cost**
   - Keeping the cost of change low is an important theme across the tech choices we have made.
@@ -61,13 +59,14 @@ When chosing technologies for service delivery, CDS uses open source solutions t
   
 - **Performance**
   - To achieve an app that is fast, we used Google Cloud and Azure Kubernetes. But how fast is fast?
+  
+   ![Load]({{ site.baseurl }}/assets/img/load.png){:width="500 px"}
+   
   - We performed load testing using the [k6](https://docs.k6.io) load testing tool. This allowed us to simulate people filling out the form and see how the application behaves when users access it simutaneously. 
   - We determined how long it takes to initially fetch the web app, and how long it takes for the users' data to be submitted to the RCMP server. 
   - Load tested showed that the application can handle 120 reports per second (~430,000 per hour). This was 5,000 times faster than the current fraud reporting system (The Canadian Anti-Fraud Centre received 150,000 calls and 1,200 emails[1]). 
   - See the [frontend](https://github.com/cds-snc/report-a-cybercrime/blob/master/frontend/utils/loadTesting.js) or [api](https://github.com/cds-snc/report-a-cybercrime/blob/master/api/utils/loadTesting.js) utilities for more details.
   
- ![Load]({{ site.baseurl }}/assets/img/load.png){:width="500 px"}
-
 ## DevOps
 
 We use GitOps. That essentially means [GitHub](https://github.com/cds-snc/report-a-cybercrime) is the "single source of truth" for our application. This allows us to iterate quickly, by deploying multiple times per days.
