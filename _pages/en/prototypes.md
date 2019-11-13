@@ -19,29 +19,6 @@ You can find an overview of the prototypes built, tested, and iterated on, below
  * [Prototype 1: Reporting scams in a structured form](https://testing-sep6.herokuapp.com/p1) *(July 2019)*
  * [Prototype 2: Reporting scams in an open form](https://testing-sep6.herokuapp.com/p2) *(August 2019)*
 
-## What we learned from speaking to victims of cybercrime and police
-
-In Alpha we listened to what people need in a reporting system by interviewing victims of cybercrime (including small- and medium-sized businesses and the general public) and police of jurisdiction (including frontline staff, sergeants, investigators, call takers and victim services).
-
-In total we spoke with 60 victims and 14 police. As we learned more about what both victims and police need, we were able to address more of those needs in the prototypes we built.
-
-We began to understand reasons why victims don't report cybercrime: 
-  - Victims feel embarrassed, ashamed, at fault
-  - Victims don’t know what their options are for reporting
-  - Victims had been disappointed or intimidated by law enforcement in the past
-  
-We also learned about what data police need from a report to investigate:
-  - Suspect details
-  - Reporter contact information
-  - Dates, times and locations of the events
-  - How people where contacted
-  - What kind of technology was affected
-  - What was lost or damaged
-  - What was said or done for this to happen
-  - A statement in the first person
-  - A linear story and timeline
-  - Any supporting evidence
-
 ## What we learned from testing early concepts
 
 Early on, we built low-fidelity concepts as a quick way to test different directions. We put these in front of seniors, library-goers, and newcomers to Canada. Here are a few of the insights we learned:
