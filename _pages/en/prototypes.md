@@ -25,10 +25,22 @@ In Alpha we listened to what people need in a reporting system by interviewing v
 
 In total we spoke with 60 victims and 14 police. As we learned more about what both victims and police need, we were able to address more of those needs in the prototypes we built.
 
-We also began to understand reasons why victims don't report cybercrime: 
+We began to understand reasons why victims don't report cybercrime: 
   - Victims feel embarrassed, ashamed, at fault
   - Victims don’t know what their options are for reporting
   - Victims had been disappointed or intimidated by law enforcement in the past
+  
+We also learned about what data police need from a report to investigate:
+  - Suspect details
+  - Reporter contact information
+  - Dates, times and locations of the events
+  - How people where contacted
+  - What kind of technology was affected
+  - What was lost or damaged
+  - What was said or done for this to happen
+  - A statement in the first person
+  - A linear story and timeline
+  - Any supporting evidence
 
 ## What we learned from testing early concepts
 
