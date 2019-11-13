@@ -48,12 +48,12 @@ Early on, we built low-fidelity concepts as a quick way to test different direct
 
 In Alpha, we continued research by speaking with owners and employees at small- and medium-sized businesses. We also interviewed police of jurisdiction (including frontline staff, sergeants, investigators, call takers and victim services). In total, we spoke with 60 victims and 14 police. As we learned more about what both victims and police need, we were able to address more of those needs in the prototypes we built.
 
-We began to understand reasons why victims don't report cybercrime: 
+### Reasons why victims don't report cybercrime: 
   - Victims feel embarrassed, ashamed, at fault
   - Victims don’t know what their options are for reporting
   - Victims had been disappointed or intimidated by law enforcement in the past
   
-We also learned about what data police need from a report to investigate:
+### What data police need to investigate:
   - Suspect details
   - Reporter contact information
   - Dates, times and locations of the events
