@@ -16,13 +16,17 @@ This means we have built and tested the prototypes in the cloud, the report are 
 
 [RCMP Architecture Diagram](../assets/docs/rcmp-architecture-diagram.pdf)
 
-## Engineering choices
+Using these technologies and standards brings RCMP in alignment with the [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html)
 
-- **JavaScript:** This is a programming language that web browsers use to build web pages. It is the language of the browser, which allows the team to use a single language across both the frontend and backend of the system.
+## Technology choices
+
+When chosing technologies for service delivery, CDS uses open source solutions that are widely used, frequently updated and which work on both server and client, user focus, iterative development and continuous testing, to make the product more likely to ship on time with a high level of security and fewer bugs.
+
+- **JavaScript:** This is effectively the only programming language that web browsers can  run to build web pages. It is the language of the browser, which allows the team to use a single language across both the frontend and backend of the system. It has security and efficiency backed in.
 - **React:** This is a JavaScript library created by Facebook. It allows developers to build high-quality robust applications, resources and tools quickly by composing components together.
 - **GraphQL API:** GraphQL is a user/client-centric interface between the web app and the databases. It provides powerful data validation and allows users to get the data they want in a single request.
 - **Microservices:** These are a software architectural style that structure an application as a collection of separate services. Building larger services out of smaller services make these more resilient and easier to change over time since a microservice is a stand-alone service that can be (re)built in just a couple of weeks.
-- **Kubernetes:** This is an open-source platform for running microservices together.
+- **Kubernetes:** This is an open-source platform for running microservices together. It provides performance and scalability from the start. 
 - **Cloud:**: Using Kubernetes as our platform means our application runs wherever Kubernetes runs. During the life of the project, this portability let us move between the RCMP's Microsoft Azure AKS as well as Google's GKE and Amazon's EKS.
 
 ## What do we gain from these tech choices
