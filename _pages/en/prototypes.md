@@ -81,7 +81,7 @@ Because this is a new experience for victims, they expect a follow-up phone call
  
  ![After]({{ site.baseurl }}/assets/img/after.png){:width="500 px"}
  
- ### Victims avoid reporting because they're ashamed and feel at fault
+### Victims avoid reporting because they're ashamed and feel at fault
  
  When people become a victim of cybercrime, especially for the first time, they often feel embarrassed or afraid. They might think it's their fault, especially if they're not tech-savvy. Because of shame, guilt and embarrassment, victims avoid telling friends, family and police about what happened. 
  
@@ -94,7 +94,7 @@ We try to use blameless words and a blameless tone to acknowledge that people ar
 
  ![Blameless]({{ site.baseurl }}/assets/img/blameless.png){:width="500 px"}
  
- ### Victims use different language than law enforcement.
+### Victims use different language than law enforcement.
 
 The public does not have the same definitions for words that people in law enforcement do. Police reword required data fields so that victims understand them. Words like "evidence", "suspect", "fraud", "cybercrime" have different definitions depending who you ask. Police often give guidance to people and explain what these terms mean.
 
@@ -102,7 +102,7 @@ Instead of relying on those words alone, we add context and provide examples and
 
  ![Language]({{ site.baseurl }}/assets/img/language.png){:width="500 px"}
 
- ### Victims need to protect themselves from ongoing or future attacks.
+### Victims need to protect themselves from ongoing or future attacks.
  
  We also learned that the biggest problem for victims and the biggest problem for police is the lack of preventative guidance and education around protecting oneself.
  
@@ -126,7 +126,7 @@ The purpose was to test whether the current iteration (Prototype 2) of the repor
 2. Users' trust and confidence in the form
 3. The quality and quantity of reports submitted
  
-  ### Prototype 1 (P1)
+### Prototype 1 (P1)
 This prototype was designed to test how victims of cybercrime engage with a longer form that asks preset questions. It was based on the [baseline fraud reporting form](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/), and was re-designed to lower the cognitive load by simplifying layout, content, and interactions. It reduces content for easier reading and uses more accessible language.
 
 Features:
