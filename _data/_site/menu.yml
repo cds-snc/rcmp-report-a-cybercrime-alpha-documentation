@@ -29,7 +29,7 @@ fr:
     url: "/contexte/"
   prototypes:
     name: "Prototypes"
-    url: "/prototypes/"
+    url: "/les-prototypes/"
   technical:
     name: "Platforme technique"
     url: "/platforme-technique/"
