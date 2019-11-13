@@ -6,7 +6,7 @@ permalink: "/discovery/"
 trans_url: "/decouverte/"
 ---
 
-# Who the users are and what do they need?
+# Who the users are and what they need
 
 In Discovery, the main goal is understanding who might need to use this service. One-on-one conversations with potential users are at the centre of this. 
 
