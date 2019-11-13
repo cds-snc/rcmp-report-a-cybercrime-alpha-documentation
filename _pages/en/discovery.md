@@ -8,15 +8,13 @@ trans_url: "/decouverte/"
 
 # Who the users are and what do they need?
 
-In Discovery, the main goal is understanding the "who". Who might need to use this tool?
+In Discovery, the main goal is understanding who might need to use this service. One-on-one conversations with potential users are at the centre of this. 
 
-One-on-one conversations with potential users are at the centre of this. Ultimately we know everyone's affected by cybercrime. To test and broaden our assumptions about what reporters need, we started by listening to people talk about what they think, feel, and do.
-
-Since everyone is a potential victim, we focused on two groups:
+Ultimately we know everyone's affected by cybercrime. To test and broaden our assumptions about what reporters need, we started by listening to people talk about what they think, feel, and do. Since everyone is a potential victim, we focused on two groups:
   - 18-35 year olds, who are most likely to be victims of cybercrime
   - Over 55 year olds, who lose the most from cybercrime and fraud
   
-As we move further, we'll stop focusing on demographic groups and start organizing the audience by motivations are.
+As we moved further, we shifted the focus from demographic groups and started organizing the audience by motivations.
  
 ## What are the motivations of people who do report?
 
