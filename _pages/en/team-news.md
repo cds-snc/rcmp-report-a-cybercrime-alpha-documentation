@@ -6,8 +6,7 @@ permalink: "/team-news/"
 trans_url: "/nouvelles-dequipe/"
 ---
 
-# Team News
-Throughout the Alpha phase, the team worked in the open by sharing stories about the process of building and testing prototypes. Here are those stories and why we wanted to tell them. 
+# Stories about the partnership
 
 ## Objectives   		
 * Tell compelling stories about the partnership. 
