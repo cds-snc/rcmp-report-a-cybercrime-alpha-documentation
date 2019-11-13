@@ -22,14 +22,18 @@ This means we have built and tested the prototypes in the cloud, the report are 
 
 ## Engineering choices
 
-- **Cloud:**: We are deploying the product on RCMP's Microsoft Azure AKS. The service can also be deployed on Google GKE or Amazon EKS.
-- **JavaScript:** This is a programming language that web browsers use to build web pages.
-- **React:** This a JavaScript library created by Facebook. It contains resources and tools for building fast, robust, and network sensitive web applications.
-- **GraphQL API:** GraphQL is the interface between the web app and the databases
-- **Microservices:** These are a software architectural style that structure an application as a collection of separate services.
+- **JavaScript:** This is a programming language that web browsers use to build web pages. It is the language of the browser, which allows the team to use a single language across both the frontend and backend of the system.
+- **React:** This is a JavaScript library created by Facebook. It allows developers to build high-quality robust applications, resources and tools quickly by composing components together.
+- **GraphQL API:** GraphQL is a user/client-centric interface between the web app and the databases. It provides powerful data validation and allows users to get the data they want in a single request.
+- **Microservices:** These are a software architectural style that structure an application as a collection of separate services. Building larger services out of smaller services make these more resilient and easier to change over time since a microservice is a stand-alone service that can be (re)built in just a couple of weeks.
 - **Kubernetes:** This is an open-source platform for running microservices together.
+- **Cloud:**: Using Kubernetes as our platform means our application runs wherever Kubernetes runs. During the life of the project, this portability let us move between the RCMP's Microsoft Azure AKS as well as Google's GKE and Amazon's EKS.
 
 ## What do we gain from these tech choices
+
+- **Cost**
+  - Keeping the cost of change low is an important theme across the tech choices we have made.
+  - Managing switching cost allows us to move along with industry or switch providers as the market evolves.
 
 - **Security**
   - GraphQL API is strictly-typed. Using GraphQL allows us to prevent attackers so that they are not able to use data to hack the database (for example, by using a SQL injection attack).
