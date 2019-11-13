@@ -6,9 +6,9 @@ permalink: "/technical-platform/"
 trans_url: "/platforme-technique/"
 ---
 
-# A modern, secure, scalable tech stack
+# Modern, secure, and scalable
 
-## Architecture diagram
+## Tech stack
 
 [RCMP Architecture Diagram](../assets/docs/rcmp-architecture-diagram.pdf)
 
