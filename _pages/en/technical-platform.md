@@ -10,11 +10,15 @@ trans_url: "/platforme-technique/"
 
 ## Tech stack
 
-[RCMP Architecture Diagram](../assets/docs/rcmp-architecture-diagram.pdf)
+This is a diagram of the tech stack.
+
+
 
 Each layer, or service is secure not only because of the choice of technology but due to the process and methodology. The team has tried and adopted modern and security-first technologies and practices from large companies like Facebook, Microsoft, and Google. This tech stack was tested not just once, but multiple times.
 
 This means we have built and tested the prototypes in the cloud, the report are stored in a modern graph database to allow for changing formats and needs, and a bilingual component library. This stack has been running since the beginning of summer 2019 and allows RCMP to be safe and fast.
+
+[RCMP Architecture Diagram](../assets/docs/rcmp-architecture-diagram.pdf)
 
 ## Engineering choices
 
