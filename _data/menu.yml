@@ -5,6 +5,9 @@ en:
   background:
     name: "Background"
     url: "/background/"
+  discovery:
+    name: "Discovery research"
+    url: "/discovery/"
   prototypes:
     name: "Alpha prototypes"
     url: "/prototypes/"
@@ -30,6 +33,9 @@ fr:
   background:
     name: "Contexte"
     url: "/contexte/"
+  discovery:
+    name: "Recherche de découverte"
+    url: "/decouverte/"
   prototypes:
     name: "Prototypes de la phase Alpha"
     url: "/prototypes/"
