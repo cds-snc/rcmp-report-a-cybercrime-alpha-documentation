@@ -6,7 +6,7 @@ permalink: "/participate/"
 trans_url: "/participez/"
 ---
 
-# Help us make Canadians safer online and offline
+# Help us improve this service
 
 We’d like to speak to you if you have recently experienced a
 cybercrime, fraud, or been impacted by having one of your devices hacked or
