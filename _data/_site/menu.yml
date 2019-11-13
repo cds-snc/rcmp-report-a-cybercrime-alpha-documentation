@@ -6,8 +6,11 @@ en:
     name: "Background"
     url: "/background/"
   prototypes:
-    name: "Prototypes"
+    name: "Alpha prototypes"
     url: "/prototypes/"
+  principles:
+    name: "Design principles"
+    url: "/principles/"
   technical:
     name: "Technical platform"
     url: "/technical-platform/"
@@ -28,8 +31,11 @@ fr:
     name: "Contexte"
     url: "/contexte/"
   prototypes:
-    name: "Prototypes"
-    url: "/les-prototypes/"
+    name: "Prototypes de la phase Alpha"
+    url: "/prototypes/"
+  principles:
+    name: "Principes de conception"
+    url: "/principes/"
   technical:
     name: "Platforme technique"
     url: "/platforme-technique/"
