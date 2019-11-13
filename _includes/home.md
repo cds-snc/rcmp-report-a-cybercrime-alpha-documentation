@@ -2,11 +2,11 @@
 
 The [Canadian Digital Service](https://digital.canada.ca) (CDS) partnered with [Royal Canadian Mounted Police](http://www.rcmp.gc.ca/) (RCMP) to improve the delivery of the [National Cybercrime Coordination Unit](http://www.rcmp.gc.ca/en/the-national-cybercrime-coordination-unit-nc3) (NC3).
 
-A [Discovery](_pages/en/discovery.md) was conducted from November to December, 2018,
+A <a href="/discovery/">Discovery</a></li> was conducted from November to December, 2018,
 where the team understood the motivations for reporting cybercrime and fraud to the
 police.
 
-The team built and tested several concepts and prototypes in [Alpha]((_pages/en/prototypes.md)
+The team built and tested several concepts and prototypes in <a href="/prototypes/">Alpha</a></li>
 between February and August, 2019, to understand the barriers
 victims face when reporting and what the police need to help
 victims.
