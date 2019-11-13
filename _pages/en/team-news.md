@@ -6,10 +6,10 @@ permalink: "/team-news/"
 trans_url: "/nouvelles-dequipe/"
 ---
 
-# Stories about the partnership
+# Stories from the partnership
 
 ## Objectives   		
-* Tell compelling stories about the partnership. 
+* Tell compelling stories about the partnership and product. 
 * Show interested stakeholders how the team is learning from people and testing ideas.
 * Show the what’s possible and share insights and resources others can use.
 * Recruit people who might want to work with us or participate in research or testing
