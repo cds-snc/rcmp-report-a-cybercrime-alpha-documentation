@@ -46,7 +46,7 @@ Early on, we built low-fidelity concepts as a quick way to test different direct
 
 ## How we applied what we learned
 
-We took learnings from each interview and applied them to the prototypes through incremental, but informed changes.
+We took learnings from interviews and early concept testing and applied them to prototypes through incremental, but informed changes.
 
 ### Simply asking for data is not enough
 There are many barriers that affect victims' ability to provide information especially without face-to-face interactions with someone who can empathize, provide context, and help a victim orient themselves in their situation. We found that many of the things victims struggle with, police are burdened by as well.
