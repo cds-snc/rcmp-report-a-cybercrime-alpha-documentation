@@ -15,10 +15,18 @@ trans_url: "/nouvelles-dequipe/"
 * Recruit people who might want to work with us or participate in research or testing
  
 ## Blog posts
-* [Understanding the human needs of people impacted by cybercrime](https://digital.canada.ca/2019/05/06/understanding-the-human-needs-of-people-impacted-by-cybercrime/) 
-* [Ear to the ground: using the words people use](https://digital.canada.ca/2019/06/06/ear-to-the-ground-using-the-words-people-use/)
-* [Qualitative data: uncomfortable, but worth it](https://digital.canada.ca/2019/07/11/qualitative-data-uncomfortable-but-worth-it/)
-* [Learning from the people who want to use our reporting service, but might not use it now](https://digital.canada.ca/2019/08/29/learning-from-the-people-who-want-to-use-our-reporting-service-but-might-not-use-it-now/)
+
+[Understanding the human needs of people impacted by cybercrime](https://digital.canada.ca/2019/05/06/understanding-the-human-needs-of-people-impacted-by-cybercrime/) 
+Daniel Tse, Product management
+
+[Ear to the ground: using the words people use](https://digital.canada.ca/2019/06/06/ear-to-the-ground-using-the-words-people-use/)
+Anik Brazeau, Content design
+
+[Qualitative data: uncomfortable, but worth it](https://digital.canada.ca/2019/07/11/qualitative-data-uncomfortable-but-worth-it/)
+Lucas Cherkewski, Policy
+
+[Learning from the people who want to use our reporting service, but might not use it now](https://digital.canada.ca/2019/08/29/learning-from-the-people-who-want-to-use-our-reporting-service-but-might-not-use-it-now/)
+Mel Banyard, Design research and Charlotte Pedersen, Outreach
 
 ## Twitter Campaigns
 * [Agile and DevOps workshop](https://twitter.com/CDS_GC/status/1133728212708671488)
