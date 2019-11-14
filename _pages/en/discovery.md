@@ -8,11 +8,11 @@ trans_url: "/decouverte/"
 
 # Who the users are and what they need
 
-In Discovery, the main goal is understanding who might need to use this service. One-on-one conversations with potential users are at the centre of this, test and broaden our assumptions about what reporters need. We conducted 20 interviews with potential and actual victims of cybercrime, we observed 24 phone calls at the Canadian Anti-Fraud Centre (CAFC), and we collected 41 accounts of witnessing and falling victim to cybercrime through a [story gathering tool](https://tell-us.cds-snc.ca).
+In Discovery, the main goal is understanding who might need to use this service. One-on-one conversations with potential users are at the centre of this, to test and broaden our assumptions about what reporters need. We conducted 20 interviews with potential and actual victims of cybercrime, we observed 24 phone calls at the Canadian Anti-Fraud Centre (CAFC), and we collected 41 accounts of witnessing and falling victim to cybercrime through a [story gathering tool](https://tell-us.cds-snc.ca). Our goal was to determine if there was a need for a reporting service. We determined that yes, there is a need, but that victims of cybercrime expect help beyond reporting itself.
 
 ## Who's likely to be a victim
 
-Ultimately we know everyone's affected by cybercrime.  
+Ultimately we know everyone's affected by cybercrime. Most victims don't identify themselves as victims of "cybercrime". They might use more specific terms like "identity theft" or "romance scam" or they might be most comfortable describing it. They do not use the same categories to describe a cybercrime event that law enforcement use. 
 
 Since everyone is a potential victim, we focused on two groups:
   - 18-35 year olds, who are most likely to be victims of cybercrime
@@ -22,7 +22,7 @@ As we moved further, we shifted the focus from demographic groups and started or
  
 ## What are the motivations of people who do report?
 
-Our research suggested that people who report cybercrime fall into several "archetypes". Not all people fall into these categories and some fall into multiple.
+Our research suggested that people who report cybercrime fall into several "archetypes". Not all people fall into these categories and some fall into multiple, having mmore of these motivations.
 
 ### Altruists
 They want to report crime to help prevent it from happening to others. They are trying to protect others by helping the authorities. They report because "it's the right thing to do". 
