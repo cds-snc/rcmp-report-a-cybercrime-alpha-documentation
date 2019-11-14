@@ -25,7 +25,7 @@ When chosing technologies for service delivery, CDS uses open source solutions t
 - **GraphQL API:** GraphQL is a user/client-centric interface between the web app and the databases. It provides powerful data validation and allows users to get the data they want in a single request.
 - **Microservices:** These are a software architectural style that structure an application as a collection of separate services. Building larger services out of smaller services make these more resilient and easier to change over time since a microservice is a stand-alone service that can be (re)built in just a couple of weeks.
 - **Kubernetes:** This is an open-source platform for running microservices together. It provides performance and scalability from the start. 
-- **Cloud:**: Using Kubernetes as our platform means our application runs wherever Kubernetes runs. During the life of the project, this portability let us move between the RCMP's Microsoft Azure AKS as well as Google's GKE and Amazon's EKS.
+- **Cloud:** Using Kubernetes as our platform means our application runs wherever Kubernetes runs. During the life of the project, this portability let us move between the RCMP's Microsoft Azure AKS as well as Google's GKE and Amazon's EKS.
 
 ## Benefits of these choices
 
