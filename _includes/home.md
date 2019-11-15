@@ -16,4 +16,13 @@ decisions (content, design, technical, etc.) made over the course
 of the Alpha phase.
 
 The team intends to deploy a minimal viable product before the
-end of 2019 and continue to prototype in the Beta phase from November 2019 to April 2020. Follow along on [GitHub](https://github.com/cds-snc/report-a-cybercrime).
+end of 2019 and continue to prototype in the Beta phase from November 2019 to April 2020. 
+
+During the Beta phase, the team will:
+* Publicly deploy a pilot of the National Cybercrime and Fraud Reporting System.
+* Offer the pilot to a small percentage of daily traffic and gradually increase exposure through improving the quality of the report.
+* Iterate on the intake form to improve quality and usefulness.
+* Build capacity with an RCMP delivery team to increasingly take on responsibility for the iterative design and development of the service.
+
+Follow along on [GitHub](https://github.com/cds-snc/report-a-cybercrime).
+
