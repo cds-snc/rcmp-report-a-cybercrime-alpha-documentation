@@ -36,6 +36,8 @@ data.[^concernedcanadians]
 A recent survey showed that 20% of Canadians give themselves a
 failing grade when it comes to internet hygiene.[^staysafe]
 
+People need support. Alongside any service that helps people report should be guidance that helps them deal with the impacts — if not help reduce their changes of falling victim in the first place.
+
 [^concernedcanadians]: https://cira.ca/resources/state-internet/report/canadians-deserve-a-better-internet
 [^staysafe]: https://www.ctvnews.ca/sci-tech/safer-internet-day-how-to-protect-yourself-against-hackers-and-stay-safe-online-1.4284471
 
@@ -50,6 +52,9 @@ incidents
 - Produce cybercrime intelligence for Canadian police
 - Create a single point of contact for individuals and businesses
 to report cybercrime online
+
+Any individual or organization can fall victim to cybercrime
+Therefore, every person and every business in Canada can benefit from the availability of an online 'report a cybercrime' service and the nationally-coordinated response that it enables from NC3.
 
 [^NC3]: http://www.rcmp.gc.ca/en/the-national-cybercrime-coordination-unit-nc3
 
