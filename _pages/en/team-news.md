@@ -6,7 +6,7 @@ permalink: "/team-news/"
 trans_url: "/nouvelles-dequipe/"
 ---
 
-# Stories from the team
+# Stories from delivery
 
 ## Objectives   		
 * Tell compelling stories about the partnership and product. 
