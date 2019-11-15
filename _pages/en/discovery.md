@@ -10,10 +10,7 @@ trans_url: "/decouverte/"
 
 In Discovery, the main goal is understanding who might need to use this service. One-on-one conversations with potential users are at the centre of this, to test and broaden our assumptions about what reporters need. Our goal was to determine if there was a need for a reporting service. We determined that yes, there is a need, but that victims of cybercrime expect help beyond reporting itself.
 
-Most victims don't identify themselves as victims of "cybercrime". They might use more specific terms like "identity theft" or "romance scam" or they might be most comfortable describing it. They do not use the same categories to describe a cybercrime event that law enforcement use. 
-
-We observed phone calls at the CAFC, interviewed potential and actual victims of cybercrime and also collected accounts of witnessing and falling victim to cybercrime through a [story gathering tool](https://tell-us.cds-snc.ca). 
-
+We observed phone calls at the CAFC, interviewed potential and actual victims of cybercrime and also collected accounts of witnessing and falling victim to cybercrime through a [story gathering tool](https://tell-us.cds-snc.ca). We learned that most victims don't identify themselves as victims of "cybercrime". They might use more specific terms like "identity theft" or "romance scam" or they might be most comfortable describing it. They do not use the same categories to describe a cybercrime event that law enforcement use. 
 
 Ultimately we know everyone's affected by cybercrime. Since everyone is a potential victim, we focused on two groups:
   - 18-35 year olds, who are most likely to be victims of cybercrime
