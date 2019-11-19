@@ -1,8 +1,6 @@
 # Introduction
 
-The [Canadian Digital Service](https://digital.canada.ca) (CDS) is partnering with [Royal Canadian Mounted Police](http://www.rcmp.gc.ca/) (RCMP) to improve the delivery of the [National Cybercrime Coordination Unit](http://www.rcmp.gc.ca/en/the-national-cybercrime-coordination-unit-nc3) (NC3).
-
-This site documents findings from research and the decisions (content, design, technical, etc.) made over the course of the project so far. 
+The [Canadian Digital Service](https://digital.canada.ca) (CDS) is partnering with [Royal Canadian Mounted Police](http://www.rcmp.gc.ca/) (RCMP) to improve the delivery of the [National Cybercrime Coordination Unit](http://www.rcmp.gc.ca/en/the-national-cybercrime-coordination-unit-nc3) (NC3). This site documents findings from research and the decisions (content, design, technical, etc.) made over the course of the project so far. 
 
 ## The story so far
 
