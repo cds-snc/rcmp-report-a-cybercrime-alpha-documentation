@@ -14,7 +14,7 @@ Design principles guide the delivery team in making informed decisions grounded 
 
 # Support
 
- * Support me by listening without judgement, responding with care, and showing me that I'm not alone.
+Support me by listening without judgement, responding with care, and showing me that I'm not alone.
  
   >  * Acknowledge me and believe me
   >  * Use clear but empathetic language
@@ -25,33 +25,33 @@ Design principles guide the delivery team in making informed decisions grounded 
 
 # Guidance
 
- * Guide me through this process to confirm that I am on the right path for me.
+Guide me through this process to confirm that I am on the right path for me.
  
   >  * Provide clear instructions and examples
-    * Point me towards the next steps
-    * Do the heavy lifting in the background
-    * Give me advice on how to stay safe
-    * Help me stop ongoing losses
-    * Confirm I am on the right path
+  >  * Point me towards the next steps
+  >  * Do the heavy lifting in the background
+  >  * Give me advice on how to stay safe
+  >  * Help me stop ongoing losses
+  >  * Confirm I am on the right path
 
 # Transparency
 
- * Be transparent so that I can have realistic expectations and understand the value of reporting.
+Be transparent so that I can have realistic expectations and understand the value of reporting.
  
-    * Give me immediate feedback
-    * Provide me with a way to track progress
-    * Explain what you need from me and why
-    * Give me a reason to report
-    * Be open about the process and follow-up
-    * Give me a reason to tell others to use this
+  >  * Give me immediate feedback
+  >  * Provide me with a way to track progress
+  >  * Explain what you need from me and why
+  >  * Give me a reason to report
+  >  * Be open about the process and follow-up
+  >  * Give me a reason to tell others to use this
 
 # Flexibility
 
- * Offer me flexibility to ensure I'm served the best way, while keeping up with the ever-changing landscape.
+Offer me flexibility to ensure I'm served the best way, while keeping up with the ever-changing landscape.
  
-    * Offer the right channel for my needs
-    * Let me tell my story at my own pace
-    * Use words that resonnate with me
-    * Accept my feedback and suggestions
-    * Iterate with trends and new learnings
-    * Evolve the service ahead of criminals
+  >  * Offer the right channel for my needs
+  >  * Let me tell my story at my own pace
+  >  * Use words that resonnate with me
+  >  * Accept my feedback and suggestions
+  >  * Iterate with trends and new learnings
+  >  * Evolve the service ahead of criminals
