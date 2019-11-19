@@ -8,15 +8,15 @@ At CDS, we build software in progressively larger and more complex phases, until
 
 ![Delivery phases]({{ site.baseurl }}/assets/img/delivery.png){:height="200 px"}
 
-## Discovery
+### Discovery
 
 From November to December 2018, the team did research to understand the experiences of people affected by cybercrime and fraud and the technology landscape for reporting to the police. 
 
-## Alpha
+### Alpha
 
 From February to August 2019, the team built and tested several concepts and prototypes to understand the barriers victims face when reporting and researched what the police need to help victims.
 
-## Beta
+### Beta
 
 From November 2019 to April 2020, the team intends to publicly deploy a pilot of the National Cybercrime and Fraud Reporting System and build capacity with an RCMP delivery team that will take on the iterative design and development of the service going forward.
 
