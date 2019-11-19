@@ -15,7 +15,7 @@ police. Even fewer businesses reported any measures to protect themselves, their
 
 The public is concerned but unprotected. They need support to deal with the impact and reduce their chances of falling victim in the first place. [^concernedcanadians]
 
-# The partnership with RCMP
+# Partnership with RCMP/NC3
 
 In 2018, the Canadian Government set aside budget to create the RCMP's National Cybercrime Coordination Unit.[^NC3] 
 
