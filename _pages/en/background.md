@@ -8,7 +8,7 @@ trans_url: "/contexte/"
 
 # About cybercrime in Canada
 
-Cybercrime costs the Canadian economy between $3 billion and $5 billion a year.[^estimatedcosts]. But, the impacts go beyond economics. Millions suffer the emotional impacts of cybercrime, including feelings of shame, vulnerability, fear, and confusion. [^humanimpact]
+Cybercrime costs the Canadian economy between $3 billion and $5 billion a year.[^estimatedcosts]. But, the impacts go beyond economics. Millions suffer the emotional impacts of cybercrime, including feelings of shame, vulnerability, fear, and confusion.[^humanimpact]
 
 Cybercrime is vastly underreported. In 2018, only 32,968 cases were filed and most are not solved.[^unsolvedcybercrimes] In addition, only 10% of Canadian businesses impacted  by cybercrime events reported the crime to
 police. Even fewer businesses reported any measures to protect themselves, their customers, and their partners.[^statscancybercrimeandbusinesses]
@@ -20,11 +20,10 @@ The public is concerned but unprotected. They need support to deal with the impa
 In 2018, the Canadian Government set aside budget to create the RCMP's National Cybercrime Coordination Unit.[^NC3] 
 
 The role of the unit is to:
- *  Coordinate cybercrime investigations in Canada and work with partners internationally to combat a wide range of cybercrime
-incidents
- *  Provide investigative advice and guidance to Canadian police
- *  Produce cybercrime intelligence for Canadian police
- *  Create a single point of contact for individuals and businesses to report cybercrime online
+ > *  Coordinate cybercrime investigations in Canada and work with partners internationally to combat a wide range of cybercrime incidents
+ > *  Provide investigative advice and guidance to Canadian police
+ > *  Produce cybercrime intelligence for Canadian police
+ > *  Create a single point of contact for individuals and businesses to report cybercrime online
 
 In October 2018, the Canadian Digital Service (CDS) embarked on a partnership with the RCMP/NC3 to deliver a public reporting tool for victims of cybercrime and fraud. This tool, the National Cybercrime and Fraud Reporting System (NCFRS), will eventually feed reports into the National Cybercrime System (NCS) for triage, analysis, and dissemination to respective police of jurisdiction. 
 
