@@ -14,7 +14,12 @@ To test and broaden our assumptions about what people need, we held one-on-one c
 
 We learned that most victims don't identify themselves as victims of "cybercrime". They might use more specific terms like "identity theft" or might be most comfortable describing their experience. They do not use the same categories to describe a cybercrime event that law enforcement use. 
 
-Their needs include: low-burden reporting, nudges to report, mitigation advice, emotional reassurance, and evidence sharing.
+Their needs include: 
+> * Low-burden reporting
+> * Nudges to report
+> * Mitigation advice
+> * Emotional reassurance
+> * Evidence sharing
 
 # Why people report cybercrime
 
