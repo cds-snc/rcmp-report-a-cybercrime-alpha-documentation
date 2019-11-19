@@ -15,9 +15,9 @@ police. Even fewer businesses reported any measures to protect themselves, their
 
 The public is concerned but unprotected. They need support to deal with the impact and reduce their chances of falling victim in the first place. [^concernedcanadians]
 
-# A partnership with the RCMP's National Cybercrime Coordination Unit (NC3)
+# The partnership with RCMP
 
-In 2018, the Canadian Government set aside budget to create the National Cybercrime Coordination Unit.[^NC3] 
+In 2018, the Canadian Government set aside budget to create the RCMP's National Cybercrime Coordination Unit.[^NC3] 
 
 The role of the unit is to:
  *  Coordinate cybercrime investigations in Canada and work with partners internationally to combat a wide range of cybercrime
@@ -26,11 +26,9 @@ incidents
  *  Produce cybercrime intelligence for Canadian police
  *  Create a single point of contact for individuals and businesses to report cybercrime online
 
-In October 2018, the Canadian Digital Service (CDS) embarked on a partnership with the RCMP to deliver a public reporting tool for victims of cybercrime and fraud. This tool, the National Cybercrime and Fraud Reporting System (NCFRS), will eventually feed reports into the National Cybercrime System (NCS) for triage, analysis, and dissemination to respective police of jurisdiction. 
+In October 2018, the Canadian Digital Service (CDS) embarked on a partnership with the RCMP/NC3 to deliver a public reporting tool for victims of cybercrime and fraud. This tool, the National Cybercrime and Fraud Reporting System (NCFRS), will eventually feed reports into the National Cybercrime System (NCS) for triage, analysis, and dissemination to respective police of jurisdiction. 
 
-CDS's role in this partnership goes beyond typical service delivery. CDS works with departments to build capacity and to put in place modern processes and technology, including agile software development techniques, product management, design research, iteration, working in the open, and service design. 
-
-Our primary goal is that partner departments will continue to work with these tools and methods once the partnership concludes - and that they will continue to iterate on the digital product we create.
+CDS's role in this partnership goes beyond typical service delivery. CDS works with departments to build capacity and to put in place modern processes and technology, including: agile software development techniques, product management, design research, iteration, working in the open, and service design. Our primary goal is that partner departments will continue to work with these tools and methods once the partnership concludes - and  continue to iterate on digital products.
 
 ---
 [^estimatedcosts]: https://www.cbc.ca/news/business/ai-hacking-canada-1.4437427
