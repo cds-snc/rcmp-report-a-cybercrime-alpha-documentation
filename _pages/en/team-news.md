@@ -8,7 +8,7 @@ trans_url: "/nouvelles-dequipe/"
 
 # Sharing stories from delivery
 
-Our goal is to tell compelling stories about the partnership and product. This helps show interested stakholders how the team is learning from people and testing ideas and shows other public servants what is possible. Here are the insights and resources we've shared so far.  		
+Our goal is to tell compelling stories about the partnership and product. This helps show interested stakholders how the team is learning from people and testing ideas and helps show other public servants what's possible. Here are the insights and resources we've shared so far.  		
 
 # Blog posts
   >  * [Understanding the human needs of people impacted by cybercrime](https://digital.canada.ca/2019/05/06/understanding-the-human-needs-of-people-impacted-by-cybercrime/), Daniel Tse, Product management
