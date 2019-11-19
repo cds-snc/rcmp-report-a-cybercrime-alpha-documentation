@@ -12,11 +12,11 @@ Ultimately we know everyone's affected by cybercrime.
 
 To test and broaden our assumptions about what people need, we held one-on-one conversations with potential and actual victims of cybercrime and collected stories from people who've witnessed and fallen victim to cybercrime through a [story gathering tool](https://tell-us.cds-snc.ca). 
 
-We learned that most victims don't identify themselves as victims of "cybercrime". They might use more specific terms like "identity theft" or might be most comfortable describing their experience. 
+We learned that most victims don't identify themselves as victims of "cybercrime". They might use more specific terms like "identity theft" or might be most comfortable describing their experience. They do not use the same categories to describe a cybercrime event that law enforcement use. 
 
-They also do not use the same categories to describe a cybercrime event that law enforcement use. Their needs include: low-burden reporting, nudges to report, mitigation advice, emotional reassurance, and evidence sharing.
+Their needs include: low-burden reporting, nudges to report, mitigation advice, emotional reassurance, and evidence sharing.
 
-# Why people choose to report cybercrime
+# Why people report cybercrime
 
 ## Altruism
 
