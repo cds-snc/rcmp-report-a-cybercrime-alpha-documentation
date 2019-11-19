@@ -16,7 +16,7 @@ We learned that most victims don't identify themselves as victims of "cybercrime
 
 Their needs include: low-burden reporting, nudges to report, mitigation advice, emotional reassurance, and evidence sharing.
 
-# Reasons why do people report cybercrime
+# Reasons why people report cybercrime
 
 **Altruism**
 They want to report crime to help prevent it from happening to others. They are trying to protect others by helping the authorities. They report because "it's the right thing to do". 
