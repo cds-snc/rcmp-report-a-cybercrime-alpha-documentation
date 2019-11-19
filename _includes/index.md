@@ -4,7 +4,7 @@ The [Canadian Digital Service](https://digital.canada.ca) (CDS) is partnering wi
 
 ## How we work
 
-At CDS, we build software in progressively larger and more complex phases, until we know it works and it's made available to everyone. This helps us minimise risks and costs and maximise the delivery of benefits to the public at the earliest opportunity.
+At CDS, we build software in progressively larger and more complex phases, until we know it works and it's made available to everyone. This helps us minimize risks and costs and maximize the delivery of benefits to the public at the earliest opportunity.
 
 ![Phases of delivery]({{ site.baseurl }}/assets/img/delivery.png){:height="200 px"}
 
@@ -14,10 +14,10 @@ From November to December 2018, the team did research to understand the experien
 
 ### Alpha
 
-From February to August 2019, the team built and tested several concepts and prototypes to understand the barriers victims face when reporting and researched what the police need to help victims.
+From February to August 2019, the team built and tested several concepts and prototypes to understand the barriers victims face when reporting and what the police need to help victims.
 
 ### Beta
 
-From November 2019 to April 2020, the team intends to publicly deploy a pilot of the National Cybercrime and Fraud Reporting System and build capacity with an RCMP delivery team that will take on the iterative design and development of the service.
+From November 2019 to April 2020, the team intends to publicly deploy a pilot of the National Cybercrime and Fraud Reporting System and to build capacity with an RCMP delivery team that will take on the iterative design and development of the service.
 
 Follow along on [GitHub](https://github.com/cds-snc/report-a-cybercrime).
