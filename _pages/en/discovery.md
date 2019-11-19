@@ -8,8 +8,6 @@ trans_url: "/decouverte/"
 
 # Who the users are and what they need
 
-## Understanding who might need to use this service
-
 Ultimately we know everyone's affected by cybercrime. 
 
 Since everyone is a potential victim, we focused on two groups:
