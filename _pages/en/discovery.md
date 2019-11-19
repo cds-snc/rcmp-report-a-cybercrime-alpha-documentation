@@ -14,7 +14,7 @@ To test and broaden our assumptions about what people need, we held one-on-one c
 
 We learned that most victims don't identify themselves as victims of "cybercrime". They might use more specific terms like "identity theft" or might be most comfortable describing their experience. They do not use the same categories to describe a cybercrime event that law enforcement use. 
 
-Their needs include: 
+The needs of the public include: 
 > * Low-burden reporting
 > * Nudges to report
 > * Mitigation advice
