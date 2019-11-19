@@ -6,9 +6,7 @@ permalink: "/background/"
 trans_url: "/contexte/"
 ---
 
-# About this project
-
-## Cybercrime in Canada
+# About cybercrime in Canada
 
 Cybercrime costs the Canadian economy between $3 billion and $5 billion a year.[^estimatedcosts]. 
 
@@ -23,13 +21,15 @@ The public is concerned but unprotected. They need support to deal with the impa
 
 Any individual or organization can fall victim to cybercrime. Therefore, every person and every business in Canada can benefit from the availability of an online 'report a cybercrime' service and the nationally-coordinated response it would enable. 
 
-## A partnership with the RCMP's National Cybercrime Coordination Unit (NC3)
-In 2018, the Canadian Government set aside budget to create the National Cybercrime Coordination Unit.[^NC3] The role of the unit is to:
-- Coordinate cybercrime investigations in Canada and work with partners internationally to combat a wide range of cybercrime
+# A partnership with the RCMP's National Cybercrime Coordination Unit (NC3)
+In 2018, the Canadian Government set aside budget to create the National Cybercrime Coordination Unit.[^NC3] 
+
+The role of the unit is to:
+ *  Coordinate cybercrime investigations in Canada and work with partners internationally to combat a wide range of cybercrime
 incidents
-- Provide investigative advice and guidance to Canadian police
-- Produce cybercrime intelligence for Canadian police
-- Create a single point of contact for individuals and businesses to report cybercrime online
+ *  Provide investigative advice and guidance to Canadian police
+ *  Produce cybercrime intelligence for Canadian police
+ *  Create a single point of contact for individuals and businesses to report cybercrime online
 
 In October 2018, the Canadian Digital Service (CDS) embarked on a partnership with the RCMP to deliver a public reporting tool for victims of cybercrime and fraud. This tool, the National Cybercrime and Fraud Reporting System (NCFRS), will eventually feed reports into the National Cybercrime System (NCS) for triage, analysis, and dissemination to respective police of jurisdiction. 
 
