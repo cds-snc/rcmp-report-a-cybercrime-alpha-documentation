@@ -6,7 +6,7 @@ The [Canadian Digital Service](https://digital.canada.ca) (CDS) is partnering wi
 
 At CDS, we build software in progressively larger and more complex phases, until we know it works and it's made available to everyone. This helps us minimise risks and costs and maximise the delivery of benefits to the public at the earliest opportunity.
 
-![Delivery phases]({{ site.baseurl }}/assets/img/delivery.png){:height="200 px"}
+![Phases of delivery]({{ site.baseurl }}/assets/img/delivery.png){:height="200 px"}
 
 ### Discovery
 
