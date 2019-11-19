@@ -8,9 +8,10 @@ trans_url: "/principes/"
 
 # Build trust by shouldering the burden
 
-Design principles guide the delivery team in making informed decisions grounded in research. They also provide a framework to measure decisions against. These principles are based on research with victims of cybercrime and fraud, and should be applied to decisions throughout the 'report a cybercrime' service:
 
 ![Design principles]({{ site.baseurl }}/assets/img/principles.png){:height="200 px"}
+
+These design principles guide our delivery team in making informed decisions grounded in research. They also provide a framework to measure decisions against based on research we've done with victims of cybercrime and fraud.
 
 # Support
 
