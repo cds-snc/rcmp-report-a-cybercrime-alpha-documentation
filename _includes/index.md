@@ -4,7 +4,7 @@ The [Canadian Digital Service](https://digital.canada.ca) (CDS) is partnering wi
 
 This site documents findings from research and the decisions (content, design, technical, etc.) made over the course of the project so far.
 
-![Delivery phases]({{ site.baseurl }}/assets/img/phases.png){:height="200 px"}
+![Delivery phases]({{ site.baseurl }}/assets/img/delivery.png){:height="200 px"}
 
 ## Discovery
 
@@ -12,7 +12,7 @@ From November to December 2018, the team did research to understand the experien
 
 ## Alpha
 
-From February to August 2019, the team continued research to understand the barriers victims face when reporting and what the police need to help victims. They also built and tested several concepts and prototypes.
+From February to August 2019, the team built and tested several concepts and prototypes to understand the barriers victims face when reporting and researched what the police need to help victims.
 
 ## Beta
 
