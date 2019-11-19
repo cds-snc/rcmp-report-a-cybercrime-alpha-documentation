@@ -22,7 +22,7 @@ Support me by listening without judgement, responding with care, and showing me 
  + Connect me to the other services I need
 
 # Guidance
-Guide me through this process to confirm that I am on the right path for me.
+ * Guide me through this process to confirm that I am on the right path for me.
     * Provide clear instructions and examples
     * Point me towards the next steps
     * Do the heavy lifting in the background
