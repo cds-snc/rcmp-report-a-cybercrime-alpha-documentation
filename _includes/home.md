@@ -16,10 +16,6 @@ From February to August 2019, the team built and tested several concepts and pro
 
 ## Beta
 
-From November 2019 to April 2020, the team intends to:
-* Publicly deploy a pilot of the National Cybercrime and Fraud Reporting System.
-* Offer the pilot to a small percentage of daily traffic and gradually increase exposure through improving the quality of the report.
-* Iterate on the intake form to improve its quality and usefulness.
-* Build capacity with an RCMP delivery team to increasingly take on responsibility for the iterative design and development of the service.
+From November 2019 to April 2020, the team intends to publicly deploy a pilot of the National Cybercrime and Fraud Reporting System, offering it to a small percentage of daily traffic, gradually increasing exposure and improving the quality of the report. The team will also build capacity with an RCMP delivery team that will take on responsibility for the iterative design and development of the service going forward.
 
-You can follow along on [GitHub](https://github.com/cds-snc/report-a-cybercrime).
+Follow along on [GitHub](https://github.com/cds-snc/report-a-cybercrime).
