@@ -8,15 +8,13 @@ trans_url: "/platforme-technique/"
 
 # A modern, secure, and scalable tech stack
 
+![Stack]({{ site.baseurl }}/assets/img/tech.png){:width="500 px"}
+
 Each layer, or service is secure not only because of the choice of technology but due to the process and methodology. The team has tried and adopted modern and security-first technologies and practices from large companies like Facebook, Microsoft, and Google. This tech stack was tested not just once, but multiple times.
 
 This means we have built and tested the prototypes in the cloud, the report are stored in a modern graph database to allow for changing formats and needs, and a bilingual component library. This stack has been running on RCMP's infrastructure since the beginning of summer 2019 and allows RCMP to be safe and fast.
 
- ![Stack]({{ site.baseurl }}/assets/img/tech.png){:width="500 px"}
-
-[RCMP Architecture Diagram](../assets/docs/rcmp-architecture-diagram.pdf)
-
-## Engineering choices
+# Engineering choices
 
 When chosing technologies for service delivery, CDS uses open source solutions that are widely used, frequently updated and which work on both server and client, user focus, iterative development and continuous testing, to make the product more likely to ship on time with a high level of security and fewer bugs. Using the following technologies and standards aligns with the [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html).
 
@@ -27,7 +25,7 @@ When chosing technologies for service delivery, CDS uses open source solutions t
 - **Kubernetes:** This is an open-source platform for running microservices together. It provides performance and scalability from the start. 
 - **Cloud:** Using Kubernetes as our platform means our application runs wherever Kubernetes runs. During the life of the project, this portability let us move between the RCMP's Microsoft Azure AKS as well as Google's GKE and Amazon's EKS.
 
-## Benefits of these choices
+# Benefits of these choices
 
 <script>
       var data = [
@@ -215,7 +213,7 @@ When chosing technologies for service delivery, CDS uses open source solutions t
   - Load tested showed that the application can handle 120 reports per second (~430,000 per hour). This was 5,000 times faster than the current fraud reporting system (The Canadian Anti-Fraud Centre received 150,000 calls and 1,200 emails[1]). 
   - See the [frontend](https://github.com/cds-snc/report-a-cybercrime/blob/master/frontend/utils/loadTesting.js) or [api](https://github.com/cds-snc/report-a-cybercrime/blob/master/api/utils/loadTesting.js) utilities for more details.
   
-## DevOps
+# DevOps
 
 We use GitOps. That essentially means [GitHub](https://github.com/cds-snc/report-a-cybercrime) is the "single source of truth" for our application. This allows us to iterate quickly, by deploying multiple times per days.
 
