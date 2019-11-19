@@ -23,12 +23,12 @@ Support me by listening without judgement, responding with care, and showing me 
 
 # Guidance
 Guide me through this process to confirm that I am on the right path for me.
-  * Provide clear instructions and examples
+    * Provide clear instructions and examples
     * Point me towards the next steps
- * Do the heavy lifting in the background
- * Give me advice on how to stay safe
- * Help me stop ongoing losses
- * Confirm I am on the right path
+    * Do the heavy lifting in the background
+    * Give me advice on how to stay safe
+    * Help me stop ongoing losses
+    * Confirm I am on the right path
 
 # Transparency
 Be transparent so that I can have realistic expectations and understand the value of reporting.
