@@ -16,18 +16,18 @@ Design principles guide the delivery team in making informed decisions grounded 
 
  * Support me by listening without judgement, responding with care, and showing me that I'm not alone.
  
-    * Acknowledge me and believe me
-    * Use clear but empathetic language
-    * Only ask me what is necessary
-    * Tailor responses to my situation
-    * Reassure me that it's not my fault
-    * Connect me to the other services I need
+  >  * Acknowledge me and believe me
+  >  * Use clear but empathetic language
+  >  * Only ask me what is necessary
+  >  * Tailor responses to my situation
+  >  * Reassure me that it's not my fault
+  >  * Connect me to the other services I need
 
 # Guidance
 
  * Guide me through this process to confirm that I am on the right path for me.
  
-    * Provide clear instructions and examples
+  >  * Provide clear instructions and examples
     * Point me towards the next steps
     * Do the heavy lifting in the background
     * Give me advice on how to stay safe
