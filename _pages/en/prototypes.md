@@ -99,18 +99,18 @@ We took what we learned from both victims and police and applied it to prototype
 ![Comparison of prototypes]({{ site.baseurl }}/assets/img/suspects.png){:width="600 px"}
  
  **Prototype 1 features:**
- * Reduced content based on the baseline fraud reporting form
- * Structured input fields re-designed to lower cognitive load
- * Simplified layout, content, and interactions
- * More accessible language
+ > * Reduced content based on the baseline fraud reporting form
+ > * Structured input fields re-designed to lower cognitive load
+ > * Simplified layout, content, and interactions
+ > * More accessible language
 
 **Prototype 2 features:**
- * Open fields that provide flexibility
- * Language that provides emotional reassurance
- * Examples and prompts that provide guidance
- * Clarity on purpose, next steps, and other options
+ > * Open fields that provide flexibility
+ > * Language that provides emotional reassurance
+ > * Examples and prompts that provide guidance
+ > * Clarity on purpose, next steps, and other options
 
-## Learning from a quantitative experiment
+## Learning from the quantitative experiment
 
 The purpose was to test whether the current iteration compared in terms of:
 > 1. Quality of users' experience reporting a cybercrime
