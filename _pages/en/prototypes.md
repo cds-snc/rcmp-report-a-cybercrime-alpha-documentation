@@ -12,13 +12,13 @@ By putting something tangible in front of people who've been affected by cybercr
 
 You can find an overview of the prototypes built, tested, and iterated on, below:
 
-![Timeline showing the prototypes over time]({{ site.baseurl }}/assets/img/timeline.png#center){:height="350 px"}
-
  * [Concept 1: Reporting cybercrime with a single identifier](https://rac-concept-1.herokuapp.com/) *(April 2019)*
  * [Concept 2: Finding out where to report scams and online crimes](https://rac-concept-2.herokuapp.com/) *(May 2019)*
  * [Prototype 1: Reporting scams in a structured form](https://testing-sep6.herokuapp.com/p1) *(July 2019)*
  * [Prototype 2: Reporting scams in an open form](https://testing-sep6.herokuapp.com/p2) *(August 2019)*
-    
+
+![Timeline showing the prototypes over time]({{ site.baseurl }}/assets/img/timeline.png#center){:height="350 px"}
+
 # Applying what we learned to prototypes
 
 Early on, we built low-fidelity concepts as a quick way to test different directions. We put these in front of seniors, library-goers, and newcomers to Canada. Here are some of the insights we learned:
