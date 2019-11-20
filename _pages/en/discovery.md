@@ -6,7 +6,7 @@ permalink: "/discovery/"
 trans_url: "/decouverte/"
 ---
 
-# Who might report cybercrime are and what they need
+# Who might report cybercrime and what they need
 
 Ultimately we know everyone's affected by cybercrime. 
 
