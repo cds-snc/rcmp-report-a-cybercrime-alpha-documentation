@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Prototypes"
+title:  "Prototyping"
 lang: en
 permalink: "/prototypes/"
 trans_url: "/prototypes/"
