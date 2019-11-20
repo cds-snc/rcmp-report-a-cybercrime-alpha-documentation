@@ -12,7 +12,7 @@ By putting something tangible in front of people who've been affected by cybercr
 
 You can find an overview of the prototypes built, tested, and iterated on, below:
 
-![Timeline showing the prototypes over time]({{ site.baseurl }}/assets/img/timeline.png){:height="200 px"}
+![Timeline showing the prototypes over time]({{ site.baseurl }}/assets/img/timeline.png){:height="500 px"}
 
  * [Concept 1: Reporting cybercrime with a single identifier](https://rac-concept-1.herokuapp.com/) *(April 2019)*
  * [Concept 2: Finding out where to report scams and online crimes](https://rac-concept-2.herokuapp.com/) *(May 2019)*
@@ -89,7 +89,7 @@ Victims are in a state of distress and confusion. They need clear next steps rel
 
  ![Guidance]({{ site.baseurl }}/assets/img/guidance.png){:width="600 px"}
 
-# Testing prototypes with many users
+# Putting prototypes in front of many users
 
 We took what we learned from both victims and police and applied it to prototypes through incremental, but informed changes. To test whether our latest iteration of the reporting form [Prototype 2](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2) met the needs of victims and police, we examined how the current iteration compared to other versions including the [baseline fraud reporting system](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/) and an earlier iteration [Prototype 1](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1) in a quantitative experiment. 
 
@@ -107,7 +107,7 @@ We took what we learned from both victims and police and applied it to prototype
   > * Examples and prompts that provide guidance
   > * Clarity on purpose, next steps, and other options
 
-## Putting prototypes in front of many users in a quantitative experiment
+## Comparing prototypes in a quantitative experiment
 
 The purpose of this large-scale test was to know how the current iteration compared in terms of:
 > 1. Quality of users' experience reporting a cybercrime
