@@ -6,23 +6,23 @@ en:
     name: "Background"
     url: "/background/"
   discovery:
-    name: "Discovery research"
+    name: "Discovery Research"
     url: "/discovery/"
   prototypes:
-    name: "Prototyping"
+    name: "Prototyping and testing"
     url: "/prototypes/"
   principles:
     name: "Design principles"
     url: "/principles/"
   technical:
     name: "Technical platform"
-    url: "/technical-platform/"
+    url: "/platform/"
   participate:
     name: "Participate in research"
     url: "/participate/"
   team-news:
     name: "Team news"
-    url: "/team-news/"
+    url: "/news/"
   contact:
     name: "Contact"
     url: "/contact/"
@@ -44,13 +44,13 @@ fr:
     url: "/principes/"
   technical:
     name: "Platforme technique"
-    url: "/platforme-technique/"
+    url: "/platforme/"
   participate:
     name: "Participez à notre recherche"
     url: "/participez/"
   team-news:
     name: "Nouvelles d'équipe"
-    url: "/nouvelles-dequipe/"
+    url: "/nouvelles/"
   contact:
     name: "Coordonnées"
     url: "/coordonnees/"
