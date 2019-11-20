@@ -12,7 +12,7 @@ By putting something tangible in front of people who've been affected by cybercr
 
 You can find an overview of the prototypes built, tested, and iterated on, below:
 
-![Timeline showing the prototypes over time]({{ site.baseurl }}/assets/img/timeline.png){:height="350 px"}
+![Timeline showing the prototypes over time]({{ site.baseurl }}/assets/img/timeline.png#center){:height="350 px"}
 
  * [Concept 1: Reporting cybercrime with a single identifier](https://rac-concept-1.herokuapp.com/) *(April 2019)*
  * [Concept 2: Finding out where to report scams and online crimes](https://rac-concept-2.herokuapp.com/) *(May 2019)*
