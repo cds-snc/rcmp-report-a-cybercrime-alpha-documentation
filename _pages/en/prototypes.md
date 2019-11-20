@@ -67,8 +67,7 @@ We made sure to also be clear on the final page that the goal of reporting is to
  
 When people become a victim of cybercrime, especially for the first time, they often feel embarrassed or afraid. They might think it's their fault, especially if they're not tech-savvy. Because of shame, guilt, and embarrassment, victims avoid telling friends, family and police about what happened. Police also put in extra time to reassure victims of cybercrime that it is not their fault. When victims feel comfortable enough to reach out and report, police are able to help them better understand what happened to them.
  
- > "When [victims] felt safe, and felt that it wasn't their fault, they opened up more and provided more details" 
-* — Officer taking reports over the phone*
+ > "When [victims] felt safe, and felt that it wasn't their fault, they opened up more and provided more details" * — Officer taking reports over the phone*
  
 We try to use blameless words and a blameless tone to acknowledge that people are in a difficult situation, that we're there to listen, and that they're not alone. It's something that frontline staff and call takers do on a daily basis. 
 
@@ -99,16 +98,16 @@ We took what we learned from both victims and police and applied it to prototype
 ![Comparison of prototypes]({{ site.baseurl }}/assets/img/suspects.png){:width="600 px"}
  
  **Prototype 1 features:**
- > * Reduced content based on the baseline fraud reporting form
- > * Structured input fields re-designed to lower cognitive load
- > * Simplified layout, content, and interactions
- > * More accessible language
+  > * Reduced content based on the baseline fraud reporting form
+  > * Structured input fields re-designed to lower cognitive load
+  > * Simplified layout, content, and interactions
+  > * More accessible language
 
 **Prototype 2 features:**
- > * Open fields that provide flexibility
- > * Language that provides emotional reassurance
- > * Examples and prompts that provide guidance
- > * Clarity on purpose, next steps, and other options
+  > * Open fields that provide flexibility
+  > * Language that provides emotional reassurance
+  > * Examples and prompts that provide guidance
+  > * Clarity on purpose, next steps, and other options
 
 ## Learning from the quantitative experiment
 
