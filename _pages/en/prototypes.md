@@ -33,27 +33,20 @@ Early on, we built low-fidelity concepts as a quick way to test different direct
     * Clearly define terms: "cybercrime", "evidence", etc.
     * "Scams" rather than "cybercrimes"
     * "Reporting" rather than "sharing"
-    
-# Testing early concepts
-
-
+  
 # Applying what we learned
 
-As we learned more about what both victims and police need, we were able to address more of those needs in the prototypes we built. We interviewed owners and employees at small- and medium-sized businesses and spoke with police in different jurisdictions.
-  
-
-  
-We then took what we learned and applied it to prototypes through incremental, but informed changes.
+As we learned more about what victims and police need, we were able to address more of those needs in the prototypes we built. We then took what we learned and applied it to prototypes through incremental, but informed changes.
 
 ## Simply asking for data is not enough
+
 There are many barriers that affect victims' ability to provide information especially without face-to-face interactions with someone who can empathize, provide context, and help a victim orient themselves in their situation. We found that many of the things victims struggle with, police are burdened by as well.
 
 ## Victims cannot provide data all at once, or without structure
 
 Because they're upset or confused victims find reporting can get overwhelming very quickly. Police see a lot of incomplete reports, or lack of detail in reports because victims are too overwhelmed to answer all their questions.
 
- > "Some people will only answer 1 of 6 questions. It's a lot for them to process." 
- *— Frontline staff*
+ > "Some people will only answer 1 of 6 questions. It's a lot for them to process." *— Frontline staff*
  
 We addressed this in the prototype by dividing the current iteration into short sections that are easily digestible.
  
@@ -61,18 +54,17 @@ We addressed this in the prototype by dividing the current iteration into short 
 
 Because this is a new experience for victims, they expect a follow-up phone call, an interview, or some kind of written confirmation that something was received. When next steps are not clear, victims might get anxious and call or vicit the police in person to ask for updates.
 
- > "Victims visit the next day to ask for case updates or send emails to see if we received [their report]" 
- *— Frontline staff*
+ > "Victims visit the next day to ask for case updates or send emails to see if we received [their report]" *— Frontline staff*
  
  In many cases, victims lose faith and stop reporting altogether because the process is not clear to them. They feel they were let down, when in reality they were not clearly informed at the source.
  
  In response to this, we used simple, clear language to let people know why reports are being collected and to inform them of what to expect after reporting.
  
- ![Expectations]({{ site.baseurl }}/assets/img/expectations.png){:width="500 px"}
+ ![Expectations]({{ site.baseurl }}/assets/img/expectations.png){:width="600 px"}
  
  We made sure to also be clear on the final page that the goal of reporting is to stop cybercriminals. This sheds some light on where the report will go next and helps mitigate confusion about the next steps to prevent unnecessary follow-up with local police. We tried to avoid ambiguity as much as possible.
  
- ![After]({{ site.baseurl }}/assets/img/after.png){:width="500 px"}
+ ![After]({{ site.baseurl }}/assets/img/after.png){:width="600 px"}
  
 ## Victims avoid reporting because they're ashamed and feel at fault
  
@@ -85,7 +77,7 @@ Because this is a new experience for victims, they expect a follow-up phone call
  
 We try to use blameless words and a blameless tone to acknowledge that people are in a difficult situation, that we're there to listen, and that they're not alone. It's something that frontline staff and call takers do on a daily basis. 
 
- ![Blameless]({{ site.baseurl }}/assets/img/blameless.png){:width="500 px"}
+ ![Blameless]({{ site.baseurl }}/assets/img/blameless.png){:width="600 px"}
  
 ## Victims use different language than law enforcement.
 
@@ -93,7 +85,7 @@ The public does not have the same definitions for words that people in law enfor
 
 Instead of relying on those words alone, we add context and provide examples and guidance. This helps to reduce the mental work that people have to do to fill out the form.
 
- ![Language]({{ site.baseurl }}/assets/img/language.png){:width="500 px"}
+ ![Language]({{ site.baseurl }}/assets/img/language.png){:width="600 px"}
 
 ## Victims need to protect themselves from ongoing or future attacks.
  
@@ -106,13 +98,13 @@ Instead of relying on those words alone, we add context and provide examples and
  
 Victims are in a state of distress and confusion. They need clear next steps related to getting immediate help and protecting themselves in the future built into the service. When that help is found, they feel safer and more satisfied.
 
- ![Guidance]({{ site.baseurl }}/assets/img/guidance.png){:width="500 px"}
+ ![Guidance]({{ site.baseurl }}/assets/img/guidance.png){:width="600 px"}
 
 # Putting prototypes in front of many users
 
 To test whether our latest iteration of the reporting form [Prototype 2](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2) met the needs of victims and police, we examined how the current iteration compared to other versions including the [baseline fraud reporting system](https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/) and an earlier version [Prototype 1](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1) in a quantitative experiment. 
 
-![Comparison of prototypes]({{ site.baseurl }}/assets/img/suspects.png){:width="500 px"}
+![Comparison of prototypes]({{ site.baseurl }}/assets/img/suspects.png){:width="600 px"}
 
 The purpose was to test whether the current iteration compared in terms of:
 > 1. the quality of users' experience reporting a cybercrime
