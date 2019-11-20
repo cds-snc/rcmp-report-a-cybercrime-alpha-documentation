@@ -8,7 +8,7 @@ trans_url: "/platforme-technique/"
 
 # A modern, secure, and scalable tech stack
 
-![Stack]({{ site.baseurl }}/assets/img/tech.png){:width="500 px"}
+![Stack]({{ site.baseurl }}/assets/img/tech.png){:height="500 px"}
 
 When chosing technologies for service delivery, CDS uses open-source solutions, which are widely used, frequently updated,  work on both server and client, focused on the user, iterative development and continuous testing. This makes the product more likely to ship on time with a high level of security and fewer bugs. Using the following technologies and standards aligns with the [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html).
 
