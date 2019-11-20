@@ -6,10 +6,10 @@ en:
     name: "Background"
     url: "/background/"
   discovery:
-    name: "Discovery Research"
+    name: "Discovery research"
     url: "/discovery/"
   prototypes:
-    name: "Prototyping and testing"
+    name: "Prototyping"
     url: "/prototypes/"
   principles:
     name: "Design principles"
