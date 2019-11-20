@@ -18,8 +18,8 @@ You can find an overview of the prototypes built, tested, and iterated on, below
  * [Concept 2: Finding out where to report scams and online crimes](https://rac-concept-2.herokuapp.com/) *(May 2019)*
  * [Prototype 1: Reporting scams in a structured form](https://testing-sep6.herokuapp.com/p1) *(July 2019)*
  * [Prototype 2: Reporting scams in an open form](https://testing-sep6.herokuapp.com/p2) *(August 2019)*
-
-# Testing early concepts and prototypes
+    
+# Applying what we learned to prototypes
 
 Early on, we built low-fidelity concepts as a quick way to test different directions. We put these in front of seniors, library-goers, and newcomers to Canada. Here are some of the insights we learned:
 
@@ -32,8 +32,6 @@ Early on, we built low-fidelity concepts as a quick way to test different direct
     * Clearly define terms: "cybercrime", "evidence", etc.
     * "Scams" rather than "cybercrimes"
     * "Reporting" rather than "sharing"
-    
-# Applying what we learned to prototypes
 
 As we learned more about what victims and police need, we were able to address more of those needs in the prototypes we built. 
 
@@ -109,9 +107,9 @@ We took what we learned from both victims and police and applied it to prototype
   > * Examples and prompts that provide guidance
   > * Clarity on purpose, next steps, and other options
 
-## Learning from the quantitative experiment
+## Putting prototypes in front of many users in a quantitative experiment
 
-The purpose was to test whether the current iteration compared in terms of:
+The purpose of this large-scale test was to know how the current iteration compared in terms of:
 > 1. Quality of users' experience reporting a cybercrime
 > 2. Users' trust and confidence in the form
 > 3. The quality and quantity of reports submitted
