@@ -8,7 +8,7 @@ trans_url: "/prototypes/"
 
 # Learning by building and testing
 
-By putting something tangible in front of people who have been affected by cybercrime or fraud, we were able to learn about what they need and adjust prototypes to address more of those needs. 
+By putting something tangible in front of people who've been affected by cybercrime or fraud, we were able to learn about what they need and adjust prototypes to address more of those needs. 
 
 You can find an overview of the prototypes built, tested, and iterated on, below:
 
@@ -33,27 +33,15 @@ Early on, we built low-fidelity concepts as a quick way to test different direct
     * Clearly define terms: "cybercrime", "evidence", etc.
     * "Scams" rather than "cybercrimes"
     * "Reporting" rather than "sharing"
+    
+# Testing early concepts
+
 
 # Applying what we learned
 
 As we learned more about what both victims and police need, we were able to address more of those needs in the prototypes we built. We interviewed owners and employees at small- and medium-sized businesses and spoke with police in different jurisdictions.
   
-**Reasons why victims don't report cybercrime:** 
- > * Victims feel embarrassed, ashamed, at fault
- > * Victims don’t know what their options are for reporting
- > * Victims had been disappointed or intimidated by law enforcement in the past
-  
-**What data police need to investigate:**
- > * Suspect details
- > * Reporter contact information
- > * Dates, times and locations of the events
- > * How people where contacted
- > * What kind of technology was affected
- > * What was lost or damaged
- > * What was said or done for this to happen
- > * A statement in the first person
- > * A linear story and timeline
- > * Any supporting evidence
+
   
 We then took what we learned and applied it to prototypes through incremental, but informed changes.
 
