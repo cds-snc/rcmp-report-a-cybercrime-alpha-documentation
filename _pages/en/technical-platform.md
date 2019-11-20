@@ -12,8 +12,6 @@ trans_url: "/platforme-technique/"
 
 When chosing technologies for service delivery, CDS uses open-source solutions, which are widely used, frequently updated,  work on both server and client, focused on the user, iterative development and continuous testing. This makes the product more likely to ship on time with a high level of security and fewer bugs. Using the following technologies and standards aligns with the [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html).
 
-You can see the [frontend](https://github.com/cds-snc/report-a-cybercrime/blob/master/frontend/utils/loadTesting.js) and [api](https://github.com/cds-snc/report-a-cybercrime/blob/master/api/utils/loadTesting.js) utilities and [Azure Pipeline](../assets/docs/azure-pipeline.pdf)for more details.
-
 # Engineering choices
  > * **JavaScript:** This is effectively the only programming language that web browsers can  run to build web pages. It is the language of the browser, which allows the team to use a single language across both the frontend and backend of the system. It has security and efficiency backed in.
  > * **React:** This is a JavaScript library created by Facebook. It allows developers to build high-quality robust applications, resources and tools quickly by composing components together.
@@ -31,10 +29,12 @@ You can see the [frontend](https://github.com/cds-snc/report-a-cybercrime/blob/m
 > *  **System reliability:** Using React and GraphQL allows us to minimize the amount of network traffic required to use the application. The reliability guarantees from Microsoft, together with Kubernetes' robust architecture, gives us confidence that the system will have high availability.
 > *  **Accessibility:** Building our application out of React components has allowed us to ensure and test for basic accessibility requirements from the start of the project (for example, keyboard navigation and screen reader usage) and to work towards conforming with at least WCAG 2.1AA.
 > *  **Bilingualism:** We have used a React library called `lingui` to help make the application bilingual from the start of the project. This allows us to test and refine the experience in French, as easily as we can that in English.
-> *  **Performance:** To achieve an app that is fast, we used Google Cloud and Azure Kubernetes. But how fast is fast? Load tested showed that the application can handle 120 reports per second (~430,000 per hour). This was 5,000 times faster than the current fraud reporting system (The Canadian Anti-Fraud Centre received 150,000 calls and 1,200 emails[1]). We performed load testing using the [k6](https://docs.k6.io) load testing tool. This allowed us to simulate people filling out the form and see how the application behaves when users access it simutaneously. 
+> *  **Performance:** To achieve an app that is fast, we used Google Cloud and Azure Kubernetes. But how fast is fast? Load tested showed that the application can handle 120 reports per second (~430,000 per hour). This was 5,000 times faster than the current fraud reporting system (The Canadian Anti-Fraud Centre received 150,000 calls and 1,200 emails[1]). We performed load testing using the [k6](https://docs.k6.io) load testing tool. This allowed us to simulate people filling out the form and see how the application behaves when users access it simutaneously. You can see the [frontend](https://github.com/cds-snc/report-a-cybercrime/blob/master/frontend/utils/loadTesting.js) and [api](https://github.com/cds-snc/report-a-cybercrime/blob/master/api/utils/loadTesting.js) utilities for more details.
   
 # DevOps
 
 We use GitOps. That essentially means [GitHub](https://github.com/cds-snc/report-a-cybercrime) is the "single source of truth" for our application. This allows us to iterate quickly, by deploying multiple times per days.
 
 When a developer makes a pull request (PR) to GitHub and that PR is approved and merged, this triggers the pipeline (a .yaml file) in Azure. The pipeline runs a series of npm commands (lints the code, checks translations, compiles), builds a container of the respective repo area and pushes the container(s) to ACR (Azure Container Registry). We then have a program called Flux running in our AKS (Azure Kubernetes Service) cluster that watches the registry and pulls new images into the cluster.
+
+See the [Azure Pipeline](../assets/docs/azure-pipeline.pdf).
