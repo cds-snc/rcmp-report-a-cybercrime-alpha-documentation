@@ -2,8 +2,8 @@
 layout: page
 title: "Technical platform"
 lang: en
-permalink: "/technical-platform/"
-trans_url: "/platforme-technique/"
+permalink: "/platform/"
+trans_url: "/platforme/"
 ---
 
 # A modern, secure, and scalable tech stack
