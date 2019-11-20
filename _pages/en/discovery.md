@@ -14,12 +14,24 @@ To test and broaden our assumptions about what people need, we held one-on-one c
 
 We learned that most victims don't identify themselves as victims of "cybercrime". They might use more specific terms like "identity theft" or might be most comfortable describing their experience. They do not use the same categories to describe a cybercrime event that law enforcement use. 
 
-The needs of the public include: 
+**Public needs:** 
 > * Low-burden reporting
 > * Nudges to report
 > * Mitigation advice
 > * Emotional reassurance
 > * Evidence sharing
+ 
+**Police needs:**
+ > * Suspect details
+ > * Reporter contact information
+ > * Dates, times and locations of events
+ > * How people where contacted
+ > * What kind of technology was affected
+ > * What was lost or damaged
+ > * What was said or done for this to happen
+ > * A statement in the first person
+ > * A linear story and timeline
+ > * Supporting evidence
 
 # Why people report cybercrime
 
@@ -35,9 +47,17 @@ Solvers try to fix the problems the crime poses for them or their friends and fa
 
 > *"I just don't think they'd have time to read this, so why should I spend time writing it?"*
 
-
 ## Justice seeking
 
 Justice seekers want the criminals caught; they look for "hands in cuffs". They might want their money recovered, but they really want justice done. They collect and submit evidence about the crime and are sometimes disappointed when no investigation proceeds.
 
 > *"Get [my report] in quick so we can get the guy in cuffs."*
+
+# Why people don't report cybercrime
+
+## Feeling embarrassed, ashamed, at fault
+
+## Not knowing what the options are for reporting
+
+## Being disappointed or intimidated by law enforcement in the past
+
