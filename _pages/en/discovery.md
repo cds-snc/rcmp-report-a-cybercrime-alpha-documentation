@@ -57,7 +57,13 @@ Justice seekers want the criminals caught; they look for "hands in cuffs". They 
 
 ## Feeling embarrassed, ashamed, at fault
 
+If a victim feels like they did something wrong, they will not share crucial details about their experience. People don't report when they are not aware that what they experienced warrants finding help.
+
 ## Not knowing what the options are for reporting
 
+Because victims don't know what a cybercrime is (in legal terms), they don't know who to turn to for help, and are often unable to find help to begin with. They stop reporting when they are overwhelmed by an ambiguous process. 
+
 ## Being disappointed or intimidated by law enforcement in the past
+
+If this doesn't happen their faith becomes mistrust and they are not likely to report in the future. For those who have had negative interactions with the police before,  reporting a cybercrime to the police can feel like a dead-end. When victims complete a report, they expect follow-up and respect from the police. If police are not responsive to victims, victims avoid going to them for help when another incident occurs. 
 
