@@ -9,7 +9,7 @@ en:
     name: "Discovery research"
     url: "/discovery/"
   prototypes:
-    name: "Alpha prototypes"
+    name: "Prototyping"
     url: "/prototypes/"
   principles:
     name: "Design principles"
@@ -37,7 +37,7 @@ fr:
     name: "Recherche de découverte"
     url: "/decouverte/"
   prototypes:
-    name: "Prototypes de la phase Alpha"
+    name: "Prototypes"
     url: "/prototypes/"
   principles:
     name: "Principes de conception"
