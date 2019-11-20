@@ -2,8 +2,8 @@
 layout: page
 title:  "Team news"
 lang: en
-permalink: "/team-news/"
-trans_url: "/nouvelles-dequipe/"
+permalink: "/news/"
+trans_url: "/nouvelles/"
 ---
 
 # Sharing stories from delivery
