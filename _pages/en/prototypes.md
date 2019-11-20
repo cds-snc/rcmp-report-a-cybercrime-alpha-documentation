@@ -24,10 +24,9 @@ You can find an overview of the prototypes built, tested, and iterated on, below
 Early on, we built low-fidelity concepts as a quick way to test different directions. We put these in front of seniors, library-goers, and newcomers to Canada. Here are some of the insights we learned:
 
 > * **Make the purpose and value of the service clear and have a strong call to action:**
-    * Be explicit about which government or law enforcement entity will receive the report.
+    * Be explicit about which government or law enforcement entity will receive the report
     * Reassure victims that this is not a scam
-    * Make the service accessible where people already report cybercrime and seek help.
-
+    * Make the service accessible where people already report cybercrime and seek help
 > * **Use language that resonnates with victims:**
     * Precise, direct, instructional, plain language
     * Clearly define terms: "cybercrime", "evidence", etc.
