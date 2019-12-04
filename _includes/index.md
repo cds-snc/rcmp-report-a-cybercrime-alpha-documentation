@@ -1,4 +1,4 @@
-# The story so far
+# The story so far...
 
 The [Canadian Digital Service](https://digital.canada.ca) (CDS) has started a partnership with the [Royal Canadian Mounted Police](http://www.rcmp.gc.ca/) (RCMP) to improve the delivery of the new [National Cybercrime Coordination Unit](http://www.rcmp.gc.ca/en/the-national-cybercrime-coordination-unit-nc3) (NC3). This site documents what we've learned so far in terms of research, content, design, and tech through different phases of delivery. 
 
