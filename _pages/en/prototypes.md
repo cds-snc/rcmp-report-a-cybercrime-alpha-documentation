@@ -8,9 +8,9 @@ trans_url: "/prototypes/"
 
 # Learning by building and testing
 
-By putting something tangible in front of people who've been affected by cybercrime or fraud, we were able to learn about what they need and adjust prototypes to address more of those needs. 
+By putting tangible things in front of people who've been affected by cybercrime or fraud, we are learning about what they need and adjusting our prototypes to address more of those needs. 
 
-You can find an overview of the prototypes built, tested, and iterated on, below:
+You can find an overview of the prototypes built, tested, and iterated on, so far, below:
 
  * [Concept 1: Reporting cybercrime with a single identifier](https://rac-concept-1.herokuapp.com/) *(April 2019)*
  * [Concept 2: Finding out where to report scams and online crimes](https://rac-concept-2.herokuapp.com/) *(May 2019)*
@@ -19,9 +19,9 @@ You can find an overview of the prototypes built, tested, and iterated on, below
 
 ![Timeline showing the prototypes over time]({{ site.baseurl }}/assets/img/timeline.png#center){:height="350 px"}
 
-# Applying what we learned to prototypes
+# Applying what we are learning to prototypes
 
-Early on, we built low-fidelity concepts as a quick way to test different directions. We put these in front of seniors, library-goers, and newcomers to Canada. Here are some of the insights we learned:
+Early on, we started building low-fidelity concepts as a quick way to test different directions. We put these in front of seniors, library-goers, and newcomers to Canada. Here are some of the insights we learned:
 
 > * **Make the purpose and value of the service clear and have a strong call to action:**
     * Be explicit about which government or law enforcement entity will receive the report
