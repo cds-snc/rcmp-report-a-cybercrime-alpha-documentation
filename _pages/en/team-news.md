@@ -8,7 +8,7 @@ trans_url: "/nouvelles/"
 
 # Sharing stories from delivery
 
-Our goal is to tell compelling stories about the partnership and product. This helps show interested stakeholders how the team is learning from people and testing ideas and helps show other public servants what's possible. Here are the insights and resources we've shared so far.  		
+Our goal is to keep telling compelling stories about the partnership and product to show stakeholders how the team is learning from people and testing ideas and to help show other public servants what's possible. Here are the insights and resources we've shared so far.  		
 
 # Blog posts
   >  * [Understanding the human needs of people impacted by cybercrime](https://digital.canada.ca/2019/05/06/understanding-the-human-needs-of-people-impacted-by-cybercrime/)
@@ -18,5 +18,5 @@ Our goal is to tell compelling stories about the partnership and product. This h
 
 # Twitter campaigns
   >  * [Agile and DevOps workshop](https://twitter.com/CDS_GC/status/1133728212708671488)
-  >  * [Observations and learnings from a co-located developper from RCMP](https://twitter.com/CDS_GC/status/1139155596547170306)
+  >  * [Observations and learnings from a co-located developer from RCMP](https://twitter.com/CDS_GC/status/1139155596547170306)
   >  * [How we've applied design recommendations to the prototype](https://twitter.com/CDS_GC/status/1169675152000507904)
