@@ -34,23 +34,23 @@ fr:
     name: "Contexte"
     url: "/contexte/"
   discovery:
-    name: "Recherche de découverte"
+    name: "Recherche axée sur la découverte"
     url: "/decouverte/"
   prototypes:
-    name: "Prototypes"
+    name: "Prototypage"
     url: "/prototypes/"
   principles:
     name: "Principes de conception"
     url: "/principes/"
   technical:
-    name: "Platforme technique"
-    url: "/platforme/"
+    name: "Plate-forme technique"
+    url: "/plateforme/"
   participate:
-    name: "Participez à notre recherche"
+    name: "Participer à la recherche"
     url: "/participez/"
   team-news:
-    name: "Nouvelles d'équipe"
+    name: "Nouvelles de l'équipe"
     url: "/nouvelles/"
   contact:
-    name: "Coordonnées"
+    name: "Nous joindre"
     url: "/coordonnees/"
