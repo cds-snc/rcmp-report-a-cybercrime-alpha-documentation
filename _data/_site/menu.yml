@@ -38,7 +38,7 @@ fr:
     url: "/decouverte/"
   prototypes:
     name: "Prototypage"
-    url: "/prototypes/"
+    url: "/prototypage/"
   principles:
     name: "Principes de conception"
     url: "/principes/"
@@ -46,11 +46,11 @@ fr:
     name: "Plate-forme technique"
     url: "/plateforme/"
   participate:
-    name: "Participer à la recherche"
+    name: "Participez à la recherche"
     url: "/participez/"
   team-news:
     name: "Nouvelles de l'équipe"
     url: "/nouvelles/"
   contact:
     name: "Nous joindre"
-    url: "/coordonnees/"
+    url: "/nous-joindre/"
