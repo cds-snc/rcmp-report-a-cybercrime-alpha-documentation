@@ -1,6 +1,6 @@
 # Le récit jusqu’à maintenant.....
 
-Le [Service numérique canadien] (https://numerique.canada.ca) (SNC) a entrepris un partenariat avec la [Gendarmerie royale du Canada] (http://www.grc.gc.ca/) (GRC) pour améliorer le déploiement du nouveau [Groupe national de coordination de la cybercriminalité] (http://www.rcmp.gc.ca/fr/groupe-national-coordination-cybercriminalite-gncc) (GNCC). Le présent site sert à documenter ce que nous avons appris jusqu’à présent en termes de recherche, de contenu, de conception et de technologie au cours des différentes phases du déploiement. 
+Le [Service numérique canadien](https://numerique.canada.ca) (SNC) a entrepris un partenariat avec la [Gendarmerie royale du Canada](http://www.grc.gc.ca/) (GRC) pour améliorer le déploiement du nouveau [Groupe national de coordination de la cybercriminalité](http://www.rcmp.gc.ca/fr/groupe-national-coordination-cybercriminalite-gncc) (GNCC). Le présent site sert à documenter ce que nous avons appris jusqu’à présent en termes de recherche, de contenu, de conception et de technologie au cours des différentes phases du déploiement. 
 
 ![Delivery phases]({{ site.baseurl }}/assets/img/delivery.png#center){:height="200"}
 
