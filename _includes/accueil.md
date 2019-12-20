@@ -9,3 +9,5 @@ De novembre à décembre 2018, l’équipe a fait une recherche de **Découverte
 De février à août 2019, l’équipe a construit et mis à l’épreuve différents concepts et prototypes au cours d’une phase **Alpha** afin de mieux comprendre les obstacles auxquels se heurtent les victimes lorsqu’elles signalent un incident et de cerner ce que la police doit faire pour les aider.
 
 De novembre 2019 à avril 2020, l’équipe prévoit déployer publiquement une version **Bêta** d’un système public national de signalement des cybercrimes et des fraudes et édifier les capacités avec l’équipe de prestation de la GRC qui assurera la conception et le développement itératifs du service.
+
+Suivez-nous sur [GitHub](https://github.com/cds-snc/report-a-cybercrime).
