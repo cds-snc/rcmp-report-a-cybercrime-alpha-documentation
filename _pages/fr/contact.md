@@ -2,7 +2,7 @@
 layout: page
 title:  "Nous joindre"
 lang: fr
-permalink: "/coordonnees/"
+permalink: "/nous-joindre/"
 trans_url: "/contact/"
 ---
 
