@@ -32,8 +32,8 @@ Le rôle du SNC dans ce partenariat va au-delà de la prestation de services. Le
 Notre principal objectif est que nos ministères partenaires, comme la GRC, continuent de travailler avec ces outils et méthodes une fois le partenariat conclu – et qu’ils continuent d’utiliser les produits numériques à l’avenir.
 
 ---
-[^coûtsestimatifs] : https://www.cbc.ca/news/business/ai-hacking-canada-1.4437427
-[^cybercrimesnonrésolus] : https://www.cbc.ca/news/canada/nova-scotia/cyber-crime-rising-across-canada-1.5221330
-[^statscancybercriminalitéetentreprises] : https://www150.statcan.gc.ca/n1/pub/85-002-x/2019001/article/00006-fra.htm
-[^canadienspréoccupés] : https://cira.ca/fr/resources/letat-de-linternet/rapport/les-canadiens-meritent-un-meilleur-internet
-[^GNCC] : http://www.rcmp.gc.ca/fr/groupe-national-coordination-cybercriminalite-gncc
+[^coûtsestimatifs]: https://www.cbc.ca/news/business/ai-hacking-canada-1.4437427
+[^cybercrimesnonrésolus]: https://www.cbc.ca/news/canada/nova-scotia/cyber-crime-rising-across-canada-1.5221330
+[^statscancybercriminalitéetentreprises]: https://www150.statcan.gc.ca/n1/pub/85-002-x/2019001/article/00006-fra.htm
+[^canadienspréoccupés]: https://cira.ca/fr/resources/letat-de-linternet/rapport/les-canadiens-meritent-un-meilleur-internet
+[^GNCC]: http://www.rcmp.gc.ca/fr/groupe-national-coordination-cybercriminalite-gncc
