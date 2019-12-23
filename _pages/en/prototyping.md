@@ -2,8 +2,8 @@
 layout: page
 title:  "Prototyping"
 lang: en
-permalink: "/prototypes/"
-trans_url: "/prototypes/"
+permalink: "/prototyping/"
+trans_url: "/prototypage/"
 ---
 
 # Learning by building and testing
