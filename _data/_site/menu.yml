@@ -46,8 +46,8 @@ fr:
     name: "Plate-forme technique"
     url: "/plateforme/"
   participate:
-    name: "Participez à la recherche"
-    url: "/participez/"
+    name: "Participer à la recherche"
+    url: "/participer/"
   team-news:
     name: "Nouvelles de l'équipe"
     url: "/nouvelles/"
