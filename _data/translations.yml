@@ -1,5 +1,5 @@
 en:
-  homepage-tag-line: "Make Canadians safer online and offline by increasing the number of reports and data intel gathered by RCMP."
+  homepage-tag-line: "Make Canadians safer online by increasing the number of reports and data intel gathered by RCMP."
   cds-snc: "Canadian Digital Service"
   cds-snc-url: "https://digital.canada.ca"
   hosting: "Hosted on"
@@ -10,13 +10,13 @@ en:
   homepage-slug: "/home/"
   site-name: "Help Canadians report a cybercrime or fraud"
 fr:
-  homepage-tag-line: "Aider les Canadiens à signaler un crime informatique ou une fraude."
+  homepage-tag-line: "Rehausser la sécurité des Canadiens en en ligne en augmentant le nombre de rapports et de données de renseignement recueillies par la GRC."
   cds-snc: "Service numérique canadien"
   cds-snc-url: "https://numerique.canada.ca"
   hosting: "Hébergé dans"
   built-by: "Ce projet a été élaboré par le"
-  contribute: "Contribuer à cette documentation"
+  contribute: "Contribuez à cette documentation"
   repo: "Référentiel"
   language: "English"
   homepage-slug: "/accueil/"
-  site-name: "Aider les Canadiennes et les Canadiens à recevoir des prestations d’invalidité du RPC"
+  site-name: "Aider les Canadiens à signaler un crime informatique ou une fraude"
