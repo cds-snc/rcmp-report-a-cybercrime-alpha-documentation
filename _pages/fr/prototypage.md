@@ -17,7 +17,7 @@ Voici un aperçu des prototypes construits, mis à l’épreuve et itérés jusq
  * [Prototype 1 : Signaler les escroqueries dans un format structuré](https://testing-sep6.herokuapp.com/p1) *(Juillet 2019)*
  * [Prototype 2 : Signaler les escroqueries dans un format ouvert] (https://testing-sep6.herokuapp.com/p1) *(Août 2019)*
 
-![Ligne du temps montrant les prototypes au fil du temps]({{ site.baseurl }}/assets/img/timeline.png#center){:height="350 px »}
+![Ligne du temps montrant les prototypes au fil du temps]({{ site.baseurl }}/assets/img/Frtimeline.png#center){:height="350 px"}
 
 # Appliquer ce que nous apprenons aux prototypes
 
@@ -55,11 +55,11 @@ Comme il s’agit d’une nouvelle expérience pour les victimes, elles s’atte
  
 Dans de nombreux cas, les victimes perdent confiance et cessent complètement de signaler les faits parce que le processus n’est pas clair pour elles. Elles se sentent déçues, alors qu’en réalité, elles n’ont pas été clairement informées dès le départ. En réponse à cela, nous essayons d’utiliser un langage simple et clair pour informer les gens de la raison pour laquelle nous recueillons des rapports, et du processus auquel ils peuvent s’attendre après leur signalement.
  
- ![Attentes]({{ site.baseurl }}/assets/img/expectations.png){:width="600 px »}
+ ![Attentes]({{ site.baseurl }}/assets/img/ecran1.png){:width="600 px"}
  
 Nous essayons également d’être clairs à la dernière page au sujet de l’objectif du signalement : soit d’arrêter les cybercriminels. Cela jette un peu de lumière sur la suite du rapport et peut aider à atténuer la confusion au sujet des prochaines étapes afin d’éviter un suivi inutile auprès de la police locale.
  
- ![Lasuite]({{ site.baseurl }}/assets/img/after.png){:width="600 px »}
+ ![Lasuite]({{ site.baseurl }}/assets/img/ecran2.png){:width="600 px"}
  
 ## Les victimes évitent de se présenter parce qu’elles ont honte et se sentent fautives
  
@@ -69,7 +69,7 @@ Les victimes évitent de parler de ce qui s’est passé à leurs amis, à leur 
  
 Nous essayons d’adopter un ton sans reproches pour reconnaître que les gens sont dans une situation difficile, que nous sommes là pour les écouter et qu’ils ne sont pas seuls. C’est-ce que font le personnel de première ligne et les préposés aux appels tous les jours. 
 
- ![Aucunreproche]({{ site.baseurl }}/assets/img/blameless.png){:width="600 px »}
+ ![Aucunreproche]({{ site.baseurl }}/assets/img/ecran3.png){:width="600 px"}
  
 ## Les victimes utilisent un langage différent de celui utilisé par les forces de l’ordre
 
@@ -77,7 +77,7 @@ Le public n’a pas la même définition des mots que les responsables de l’ap
 
 Au lieu de nous fier uniquement à ces mots, nous voulons ajouter le contexte et fournir des exemples et des conseils. Cela aide à réduire l’effort mental nécessaire au remplissage du formulaire.
 
- ![Langage]({{ site.baseurl }}/assets/img/language.png){:width="600 px »}
+ ![Langage]({{ site.baseurl }}/assets/img/ecran4.png){:width="600 px"}
 
 ## Les victimes doivent se protéger contre les attaques en cours ou futures
 
@@ -87,13 +87,13 @@ Nous apprenons également que l’un des plus gros problèmes pour les victimes 
  
 Les victimes sont dans un état de détresse et de confusion. Elles ont besoin de connaître les étapes claires à suivre pour obtenir de l’aide immédiate et se protéger à l’avenir, qui seront intégrées au service. Elles se sentent plus en sécurité et plus satisfaits lorsqu’elles obtiennent ce soutien.
 
- ![Orientation]({{ site.baseurl }}/assets/img/guidance.png){:width="600 px »}
+ ![Orientation]({{ site.baseurl }}/assets/img/ecran5.png){:width="600 px"}
 
 # Soumettre des prototypes à de nombreux utilisateurs
 
 Nous continuons à appliquer ce que nous avons appris des victimes et de la police à des prototypes, à la suite de changements progressifs, mais éclairés. Pour vérifier si nous répondons aux besoins des victimes et de la police, nous avons examiné comment la version actuelle du plus récent formulaire de déclaration [Prototype 2](https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p2), se compare à d’autres versions, notamment le [système de déclaration des fraudes de référence] (https://report-a-cybercrime.alpha.rcmp-grc.gc.ca/CAFCFRS/) et à une version antérieure [Prototype 1] (https://www.report-a-cybercrime.alpha.rcmp-grc.gc.ca/p1). 
 
-![comparaisondesprototypes]({{ site.baseurl }}/assets/img/suspects.png){:width="600 px »}
+![comparaisondesprototypes]({{ site.baseurl }}/assets/img/troisprototypes.png){:width="600 px"}
  
  **Caractéristiques du prototype 1 :**
   > * Contenu réduit basé sur le formulaire de signalement de fraude de référence
@@ -122,28 +122,28 @@ Nous avons constaté que les participants étaient plus susceptibles de remplir 
 
 Les personnes utilisant les prototypes 1 et 2 étaient plus susceptibles de remplir et de soumettre un signalement. Plus de 40 % des personnes qui ont utilisé le formulaire de référence ont choisi de ne pas remplir et soumettre un signalement.
 
-![Diagramme montrant le nombre de signalements soumis]({{ site.baseurl }}/assets/img/quantity.png){:width="500 px »}
+![Diagramme montrant le nombre de signalements soumis]({{ site.baseurl }}/assets/img/percentfr.png){:width="500 px"}
 
 #### Expérience d’utilisation du service
 
 Les gens ont signalé des niveaux plus élevés de convivialité pour le prototype 1 et le prototype 2 par rapport au formulaire de référence.
 
-![Graphique montrant l’expérience d’utilisation du service]({{ site.baseurl }}/assets/img/experience.png){:width="500 px »}
+![Graphique montrant l’expérience d’utilisation du service]({{ site.baseurl }}/assets/img/graph1.png){:width="500 px"}
 
 ### Expérience et intention d’utiliser le site
 
 Les gens ont indiqué qu’ils avaient davantage l’intention d’utiliser l’itération actuelle (prototype 2) que le formulaire de base ou le prototype 1.
 
-![Graphique montrant l’expérience et l’intention d’utiliser le site]({{ site.baseurl }}/assets/img/intention.png){:width="500 px »}
+![Graphique montrant l’expérience et l’intention d’utiliser le site]({{ site.baseurl }}/assets/img/graph2.png){:width="500 px"}
 
 #### Confiance
 
 Les répondants ont rapporté des cotes de confiance égales par rapport aux trois versions du formulaire. Ils sont également tout aussi susceptibles de recommander chacun d’entre eux.
 
-![Graphique sur la confiance]({{ site.baseurl }}/assets/img/trust.png){:width="500 px »}
+![Graphique sur la confiance]({{ site.baseurl }}/assets/img/graph3.png){:width="500 px"}
 
 ### Qualité des signalements
 
 Chaque signalement a été évalué par trois membres du personnel de la GRC et la moyenne a été calculée. Les rapports de l’itération en cours (prototype 2) et du formulaire de base ont été jugés de la même qualité.
 
-![Graphique montrant la qualité des signalements]({{ site.baseurl }}/assets/img/quality.png){:width="500 px »}
+![Graphique montrant la qualité des signalements]({{ site.baseurl }}/assets/img/graph4.png){:width="500 px"}
