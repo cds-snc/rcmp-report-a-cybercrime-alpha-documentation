@@ -8,7 +8,7 @@ trans_url: "/platform/"
 
 # Un ensemble technologique moderne, sécurisé et évolutif
 
-![Ensemble technologique]({{ site.baseurl }}/assets/img/stack.png){:width="500 px »}
+![Ensemble technologique]({{ site.baseurl }}/assets/img/kubernetesfr.png){:width="500 px"}
 
 Nous avons essayé d’utiliser des solutions de source ouverte, qui sont largement utilisées, qui sont mises à jour fréquemment, qui fonctionnent à la fois sur serveur et client, et qui sont axées sur l’utilisateur, le développement itératif et la mise à l’épreuve continue dans notre choix des technologies à l’étape Alpha. Cette décision nous permet de livrer des produits à temps avec un niveau de sécurité plus élevé et moins de bogues.
 
