@@ -69,7 +69,7 @@ Les victimes évitent de parler de ce qui s’est passé à leurs amis, à leur 
  
 Nous essayons d’adopter un ton sans reproches pour reconnaître que les gens sont dans une situation difficile, que nous sommes là pour les écouter et qu’ils ne sont pas seuls. C’est-ce que font le personnel de première ligne et les préposés aux appels tous les jours. 
 
- ![Aucunreproche]({{ site.baseurl }}/assets/img/ecran3.png){:width="600 px"}
+ ![Aucunreproche]({{ site.baseurl }}/assets/img/ecran33.png){:width="600 px"}
  
 ## Les victimes utilisent un langage différent de celui utilisé par les forces de l’ordre
 
