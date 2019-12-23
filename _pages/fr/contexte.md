@@ -8,12 +8,12 @@ trans_url: "/background/"
 
 # La cybercriminalité au Canada
 
-La cybercriminalité coûte à l’économie canadienne entre 3 et 5 milliards de dollars par année [^coûtsestimatifs]. Or, les répercussions ne se limitent pas à l’économie. Des millions de personnes souffrent des effets émotionnels de la cybercriminalité, notamment des sentiments de honte, de vulnérabilité, de peur et de confusion.
+La cybercriminalité coûte à l’économie canadienne entre 3 et 5 milliards de dollars par année[^couts]. Or, les répercussions ne se limitent pas à l’économie. Des millions de personnes souffrent des effets émotionnels de la cybercriminalité, notamment des sentiments de honte, de vulnérabilité, de peur et de confusion.
 
-La cybercriminalité est largement sous-déclarée. En 2018, seulement 32 968 cas ont été signalés et la plupart ne sont pas résolus. [^cybercrimesnonrésolus]. De plus, seulement 10 % des entreprises canadiennes touchées par la cybercriminalité ont signalé le crime à la police.
- Encore moins d’entreprises ont déclaré avoir pris des mesures pour se protéger, pour protéger leurs clients et leurs partenaires[^statscancybercriminalitéetentreprises].
+La cybercriminalité est largement sous-déclarée. En 2018, seulement 32 968 cas ont été signalés et la plupart ne sont pas résolus.[^cybercrimes]. De plus, seulement 10 % des entreprises canadiennes touchées par la cybercriminalité ont signalé le crime à la police.
+ Encore moins d’entreprises ont déclaré avoir pris des mesures pour se protéger, pour protéger leurs clients et leurs partenaires[^statscan].
 
-Les membres du public sont inquiets, mais non protégés. Ils ont besoin de soutien pour affronter les répercussions et réduire leurs risques d’en être tout simplement victimes. [^canadienspréoccupés]
+Les membres du public sont inquiets, mais non protégés. Ils ont besoin de soutien pour affronter les répercussions et réduire leurs risques d’en être tout simplement victimes.[^canadiens]
 
 # Notre partenariat avec la GRC et le GNCC
 
@@ -32,8 +32,8 @@ Le rôle du SNC dans ce partenariat va au-delà de la prestation de services. Le
 Notre principal objectif est que nos ministères partenaires, comme la GRC, continuent de travailler avec ces outils et méthodes une fois le partenariat conclu – et qu’ils continuent d’utiliser les produits numériques à l’avenir.
 
 ---
-[^coûtsestimatifs]: https://www.cbc.ca/news/business/ai-hacking-canada-1.4437427
-[^cybercrimesnonrésolus]: https://www.cbc.ca/news/canada/nova-scotia/cyber-crime-rising-across-canada-1.5221330
-[^statscancybercriminalitéetentreprises]: https://www150.statcan.gc.ca/n1/pub/85-002-x/2019001/article/00006-fra.htm
-[^canadienspréoccupés]: https://cira.ca/fr/resources/letat-de-linternet/rapport/les-canadiens-meritent-un-meilleur-internet
+[^couts]: https://www.cbc.ca/news/business/ai-hacking-canada-1.4437427
+[^cybercrimes]: https://www.cbc.ca/news/canada/nova-scotia/cyber-crime-rising-across-canada-1.5221330
+[^statscan]: https://www150.statcan.gc.ca/n1/pub/85-002-x/2019001/article/00006-fra.htm
+[^canadiens]: https://cira.ca/fr/resources/letat-de-linternet/rapport/les-canadiens-meritent-un-meilleur-internet
 [^GNCC]: http://www.rcmp.gc.ca/fr/groupe-national-coordination-cybercriminalite-gncc
