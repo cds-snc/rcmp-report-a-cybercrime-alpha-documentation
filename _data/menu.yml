@@ -10,7 +10,7 @@ en:
     url: "/discovery/"
   prototypes:
     name: "Prototyping"
-    url: "/prototypes/"
+    url: "/prototyping/"
   principles:
     name: "Design principles"
     url: "/principles/"
