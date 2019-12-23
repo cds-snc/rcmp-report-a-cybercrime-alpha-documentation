@@ -10,7 +10,7 @@ trans_url: "/discovery/"
 
 Nous savons que tout le monde est touché par la cybercriminalité. 
 
-Nous avons eu des entretiens individuels avec des victimes potentielles et réelles de la cybercriminalité et recueilli des témoignages de personnes qui ont été témoins et victimes de la cybercriminalité au moyen d’un [outil de collecte de témoignages] (https://tell-us.cds-snc.ca) pour commencer à mettre à l’épreuve et à élargir nos hypothèses sur les besoins des gens. 
+Nous avons eu des entretiens individuels avec des victimes potentielles et réelles de la cybercriminalité et recueilli des témoignages de personnes qui ont été témoins et victimes de la cybercriminalité au moyen d’un [outil de collecte de témoignages](https://tell-us.cds-snc.ca) pour commencer à mettre à l’épreuve et à élargir nos hypothèses sur les besoins des gens. 
 
 Nous avons appris que la plupart des victimes ne s’identifient pas comme victimes de la « cybercriminalité ». Elles pourraient utiliser des termes plus précis comme « vol d’identité » ou être plus à l’aise pour décrire leur expérience. Elles n’utilisent pas les mêmes catégories pour décrire un événement de cybercriminalité que les forces de l’ordre. 
 
