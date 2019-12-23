@@ -2,7 +2,7 @@
 layout: page
 title:  "Participer à la recherche"
 lang: fr
-permalink: "/participez/"
+permalink: "/participer/"
 trans_url: "/participate/"
 ---
 
