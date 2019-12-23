@@ -27,7 +27,7 @@ Dès le début, nous avons commencé à élaborer des concepts de faible fidéli
     * Indiquer explicitement l’identité du gouvernement ou de l’entité chargée de l’application de la loi qui recevra le rapport.
     * Rassurer les victimes que ce n’est pas une arnaque.
     * Rendre le service accessible là où les gens signalent déjà la cybercriminalité et demandent de l’aide.
-> * **Utiliser un langage qui interpelle les victimes : **.
+> * **Utiliser un langage qui interpelle les victimes :**
     * Vocabulaire précis, direct, instructif, clair et simple.
     * Définir clairement les termes : « cybercriminalité », « preuve », etc.
     * « Arnaques » plutôt que « cybercrimes »
@@ -43,7 +43,7 @@ De nombreux obstacles nuisent à la capacité des victimes de fournir de l’inf
 
 Les victimes sont souvent contrariées ou confuses; le signalement peut s’avérer écrasant très rapidement. Les policiers voient beaucoup de rapports incomplets ou peu détaillés parce que les victimes sont trop dépassées pour répondre à toutes leurs questions.
 
- > « Certaines personnes ne répondront qu’à une seule des six questions. C’est beaucoup de choses à traiter pour elles. » * – Un membre du personnel de première ligne*
+ > « Certaines personnes ne répondront qu’à une seule des six questions. C’est beaucoup de choses à traiter pour elles. » *– Un membre du personnel de première ligne*
  
 Nous avons abordé ce problème dans le prototype en divisant l’itération actuelle en sections courtes et faciles à assimiler.
  
@@ -51,7 +51,7 @@ Nous avons abordé ce problème dans le prototype en divisant l’itération act
 
 Comme il s’agit d’une nouvelle expérience pour les victimes, elles s’attendent à recevoir un appel téléphonique de suivi, une entrevue ou une confirmation écrite que le rapport a été reçu. Les victimes peuvent devenir anxieuses et appeler ou visiter la police en personne pour demander des mises à jour lorsque les prochaines étapes ne sont pas claires.
 
- > « Les victimes se rendent le lendemain pour demander des mises à jour ou envoient des courriels pour voir si nous avons reçu [leur rapport] » * – Membre du personnel de première ligne*
+ > « Les victimes se rendent le lendemain pour demander des mises à jour ou envoient des courriels pour voir si nous avons reçu [leur rapport] » *– Membre du personnel de première ligne*
  
 Dans de nombreux cas, les victimes perdent confiance et cessent complètement de signaler les faits parce que le processus n’est pas clair pour elles. Elles se sentent déçues, alors qu’en réalité, elles n’ont pas été clairement informées dès le départ. En réponse à cela, nous essayons d’utiliser un langage simple et clair pour informer les gens de la raison pour laquelle nous recueillons des rapports, et du processus auquel ils peuvent s’attendre après leur signalement.
  
@@ -65,7 +65,7 @@ Nous essayons également d’être clairs à la dernière page au sujet de l’o
  
 Les victimes évitent de parler de ce qui s’est passé à leurs amis, à leur famille et à la police, car elles ont honte, se sentent coupables et sont embarrassées de ce qui leur est arrivé. Elles pourraient penser que ce qui s’est passé est de leur faute, surtout s’ils ne sont pas à l’aise avec la technologie. La police consacre souvent un temps supplémentaire pour rassurer les victimes de la cybercriminalité que ce n’est pas de leur faute. La police peut aider les victimes à mieux comprendre ce qui leur est arrivé lorsqu’elles se sentent suffisamment à l’aise pour tendre la main et signaler la situation.
  
- > « Les victimes qui se sentent en sécurité et rassurées qu’elles ne sont pas fautives s’ouvrent davantage et fournissent plus de détails » * – Agent prenant les signalements au téléphone*
+ > « Les victimes qui se sentent en sécurité et rassurées qu’elles ne sont pas fautives s’ouvrent davantage et fournissent plus de détails » *– Agent prenant les signalements au téléphone*
  
 Nous essayons d’adopter un ton sans reproches pour reconnaître que les gens sont dans une situation difficile, que nous sommes là pour les écouter et qu’ils ne sont pas seuls. C’est-ce que font le personnel de première ligne et les préposés aux appels tous les jours. 
 
