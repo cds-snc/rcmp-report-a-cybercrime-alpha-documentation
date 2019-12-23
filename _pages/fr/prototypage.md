@@ -12,10 +12,10 @@ En soumettant des éléments tangibles aux gens qui ont été touchés par la cy
 
 Voici un aperçu des prototypes construits, mis à l’épreuve et itérés jusqu’à présent :
 
- * [Concept 1 : Signaler la cybercriminalité avec un identifiant unique] (https://rac-concept-1.herokuapp.com/) *(Avril 2019)*
- * [Concept 2 : Trouver où signaler les escroqueries et les crimes en ligne] (https://rac-concept-2.herokuapp.com/) *(Mai 2019)*
+ * [Concept 1 : Signaler la cybercriminalité avec un identifiant unique](https://rac-concept-1.herokuapp.com/) *(Avril 2019)*
+ * [Concept 2 : Trouver où signaler les escroqueries et les crimes en ligne](https://rac-concept-2.herokuapp.com/) *(Mai 2019)*
  * [Prototype 1 : Signaler les escroqueries dans un format structuré](https://testing-sep6.herokuapp.com/p1) *(Juillet 2019)*
- * [Prototype 2 : Signaler les escroqueries dans un format ouvert] (https://testing-sep6.herokuapp.com/p1) *(Août 2019)*
+ * [Prototype 2 : Signaler les escroqueries dans un format ouvert](https://testing-sep6.herokuapp.com/p1) *(Août 2019)*
 
 ![Ligne du temps montrant les prototypes au fil du temps]({{ site.baseurl }}/assets/img/Frtimeline.png#center){:height="350 px"}
 
