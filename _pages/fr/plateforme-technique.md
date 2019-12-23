@@ -2,8 +2,8 @@
 layout: page
 title:  "Plate-forme technique"
 lang: fr
-permalink: "/plateforme-technique/"
-trans_url: "/technical-platform/"
+permalink: "/plateforme/"
+trans_url: "/platform/"
 ---
 
 # Un ensemble technologique moderne, sécurisé et évolutif
