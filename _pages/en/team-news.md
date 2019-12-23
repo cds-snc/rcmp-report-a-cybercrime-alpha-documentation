@@ -22,4 +22,4 @@ Our goal is to keep telling compelling stories about the partnership and product
   >  * [Observations and learnings from a co-located developer from RCMP](https://twitter.com/CDS_GC/status/1139155596547170306)
   >  * [How we've applied design recommendations to the prototype](https://twitter.com/CDS_GC/status/1169675152000507904)
   >  * [What can you do in 4 days? You can build a prototype to test a small part of what the solution could look like](https://twitter.com/CDS_GC/status/1205143709265932293?s=20) 
-  >  * [Observations about participating in design research for the first time](https://twitter.com/CDS_GC/status/1206621988611141632?s=20)
+  >  * [Observations about participating in design research](https://twitter.com/CDS_GC/status/1206621988611141632?s=20)
