@@ -3,7 +3,7 @@ layout: page
 title: "Technical platform"
 lang: en
 permalink: "/platform/"
-trans_url: "/platforme/"
+trans_url: "/plateforme/"
 ---
 
 # A modern, secure, and scalable tech stack
