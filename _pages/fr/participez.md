@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Participez à notre recherche"
+title:  "Participer à la recherche"
 lang: fr
 permalink: "/participez/"
 trans_url: "/participate/"
