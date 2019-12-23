@@ -3,7 +3,7 @@ layout: page
 title:  "Participate in research"
 lang: en
 permalink: "/participate/"
-trans_url: "/participez/"
+trans_url: "/participer/"
 ---
 
 # Help us improve this service
