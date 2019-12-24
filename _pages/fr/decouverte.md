@@ -21,7 +21,7 @@ Nous avons appris que la plupart des victimes ne s’identifient pas comme victi
 > * Réassurance sur le plan émotionnel
 > * Partage d’éléments de preuve
 
-# Pourquoi les gens dénoncent la cybercriminalité
+# Pourquoi les gens signalent la cybercriminalité
 
 ## Altruisme
 
