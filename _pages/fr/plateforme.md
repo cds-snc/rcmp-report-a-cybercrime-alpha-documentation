@@ -14,7 +14,7 @@ Nous avons essayé d’utiliser des solutions de source ouverte, qui sont largem
 
 # Choix d’ingénierie
  > * **JavaScript :** Il s’agit du langage de programmation que les navigateurs Web peuvent utiliser pour créer des pages Web. Cela nous permet d’utiliser un langage unique à la fois pour l’avant et l’arrière-scène du système; la sécurité et l’efficacité sont garanties.
- > * **React :** > Il s’agit d’une bibliothèque JavaScript créée par Facebook. Elle permet aux développeurs de créer rapidement des applications, des ressources et des outils robustes et de haute qualité en rassemblant des composants ensemble.
+ > * **React :** Il s’agit d’une bibliothèque JavaScript créée par Facebook. Elle permet aux développeurs de créer rapidement des applications, des ressources et des outils robustes et de haute qualité en rassemblant des composants ensemble.
  > * **GraphQL API :** GraphQL est une interface centrée sur l’utilisateur ou client, qui est située entre l’application web et les bases de données. Il fournit une puissante validation des données et permet aux utilisateurs d’obtenir les données qu’ils veulent en une seule requête.
  > * **Microservices:** Il s’agit d’un style d’architecture logicielle qui structure une application comme un ensemble de services séparés. La construction de plus grands services à partir de plus petits services les rend plus résilients et plus faciles à changer avec le temps puisqu’un microservice est un service autonome qui peut être (re)construit en quelques semaines seulement.
  > * **Kubernetes :** Il s’agit d’une plate-forme de source ouverte permettant d’exploiter des microservices ensemble. Elle offre du rendement et une capacité de mise à l’échelle dès le départ. 
