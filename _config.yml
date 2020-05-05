@@ -17,7 +17,7 @@ subtitle: Help Canadians report a cybercrime or fraud
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/rcmp-report-a-cybercrime-alpha-documentation'
+baseurl: ""
 
 # Author/Organization info to be displayed in the templates
 author:
@@ -31,14 +31,12 @@ author2:
 logourl:
 logoalt:
 
-
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: Documentation
-  description:
-  url: https://github.com/cds-snc/rcmp-report-a-cybercrime-alpha-documentation
-
+  - name: Documentation
+    description:
+    url: https://github.com/cds-snc/rcmp-report-a-cybercrime-alpha-documentation
 
 # Style Variables
 brand_color: "#FFCC3D"
