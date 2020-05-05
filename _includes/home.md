@@ -8,6 +8,8 @@ From November to December 2018, the team did **Discovery** research to start to 
 
 From February to August 2019, the team built and tested different concepts and prototypes in an **Alpha** phase to develop a better understanding of the barriers victims face when reporting and what the police need to help victims.
 
-From November 2019 to April 2020, the team plans on publicly deploying a **Beta** version of the National Cybercrime and Fraud Reporting System and to build capacity with an RCMP delivery team that will be taking over the iterative design and development of the service.
+From November 2019 to April 2020, the team publicly deployed a **Beta** version of the National Cybercrime and Fraud Reporting System to gain clarity around how this service will be used by victims and to build capacity with an RCMP delivery team that will be taking over the iterative design and development of the service.
+
+Heading into Summer 2020, the CDS and RCMP team will move into a Transition Phase, where we will look to shift the service to 100% RCMP ownserhip. Along with this, we will take the learnings from the pilot and work to plan what the end-to-end full version of the service will be, and how we get there. 
 
 Follow along on [GitHub](https://github.com/cds-snc/report-a-cybercrime).
