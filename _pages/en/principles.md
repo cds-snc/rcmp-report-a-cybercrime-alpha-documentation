@@ -1,15 +1,15 @@
 ---
 layout: page
-title:  "Design principles"
+title: Design principles
 lang: en
-permalink: "/principles/"
-trans_url: "/principes/"
+permalink: /principles/
+trans_url: /principes/
 ---
 
 # Build trust by shouldering the burden
 
 
-![Design principles]({{ site.baseurl }}/assets/img/principles.png){:height="200 px"}
+![Design principles]({{ site.baseurl }}/assets/img/principles.png)
 
 These design principles guide our delivery team in making informed decisions grounded in research. They also provide a framework to measure decisions against based on research we've done with victims of cybercrime and fraud. These could evolve as we learn more about people's needs.
 
