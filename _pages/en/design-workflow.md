@@ -2,6 +2,7 @@
 layout: page
 title: Design workflow
 lang: en
+trans_url: Processus de conception
 ---
 The decisions made for this product stem from research with users, stakeholder interviews or the service blueprint. We use this information to build a local design system that aligns with those requirements. In return, these requirements define different portions of our design system, more specifically the design principles, the questions guidelines and the local component library.
 
