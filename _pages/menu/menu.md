@@ -7,6 +7,7 @@ menuItems:
   - menuItem: Discovery research
   - menuItem: Prototyping
   - menuItem: Design principles
+  - menuItem: Design workflow
   - menuItem: Technical platform
   - menuItem: Participate in research
   - menuItem: Team news
