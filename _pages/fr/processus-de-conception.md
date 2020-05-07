@@ -2,7 +2,7 @@
 layout: page
 title: Processus de conception
 lang: fr
-trans_url: ""
+trans_url: Design workflow
 ---
 Les décisions prises pour ce service proviennent directement des résultats de recherche avec les utilisateurs, d'entretiens avec les différents propriétaires du produit ou du plan de service. Ces informations sont utilisées dans la conception du système de conception local qui s'aligne à ces exigences. En retour, ces mêmes exigences définissent certaines portions de notre système de conception, plus précisément les principes de conception, le guide de conception des questions et de la bibliothèque locale de composantes.
 
