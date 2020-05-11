@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8" />
+    <title>
+       Processus de conception -
+      CDS + RCMP NC3 
+    </title>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="/assets/css/normalize.css" />
+    <link rel="stylesheet" href="/assets/css/main.css" />
+    <link rel="stylesheet" href="/assets/css/syntax.css" />
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+      <script src="/assets/js/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!--
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-102484926-15"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-102484926-15',  { 'anonymize_ip': true });
+    </script>
+    -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <header role="banner">
+        <div class="wrap">
+          
+          <h1 class="site-title">
+            <a
+              class="title-link"
+              href="/accueil/"
+              >Aider les Canadiens à signaler un crime informatique ou une fraude</a
+            >
+          </h1>
+          <h2 class="float-right">
+            <a href="Design workflow"
+              >English</a
+            >
+          </h2>
+        </div>
+      </header>
+
+      <div class="wrap content">
+        <aside>
+  <p class="intro">Rehausser la sécurité des Canadiens en ligne en augmentant les données de renseignement recueillies par la GRC.</p>
+  <a class="skip-link visuallyhidden focusable" href="#main">Skip to Main Content</a>
+  <nav class="sidebar-nav">
+    <ul>
+      
+        
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+        
+          
+            
+          
+            
+              <li >
+                <a href="/contexte/">Contexte</a>
+                
+              </li>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+        
+          
+            
+          
+            
+          
+            
+          
+            
+              <li >
+                <a href="/decouverte/">Recherche axée sur la découverte</a>
+                
+              </li>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+        
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              <li >
+                <a href="/prototypage/">Prototypage</a>
+                
+              </li>
+            
+          
+        
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              <li >
+                <a href="/principes/">Principes de conception</a>
+                
+              </li>
+            
+          
+            
+          
+            
+          
+        
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              <li class="sidebar-nav-active">
+                <a href="/processus-de-conception/">Processus de conception</a>
+                
+              </li>
+            
+          
+            
+          
+        
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              <li >
+                <a href="/plateforme/">Plate-forme technique</a>
+                
+              </li>
+            
+          
+            
+          
+            
+          
+            
+          
+        
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              <li >
+                <a href="/participer/">Participer à la recherche</a>
+                
+              </li>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+        
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+              <li >
+                <a href="/nouvelles/">Nouvelles d'équipe</a>
+                
+              </li>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+        
+          
+            
+          
+            
+          
+            
+              <li >
+                <a href="/coordonnees/">Nous joindre</a>
+                
+              </li>
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+            
+          
+        
+      
+    </ul>
+  </nav>
+</aside>
+
+        <section id="main" class="main-content" role="main">
+          <h2 class="page-title">Processus de conception</h2>
+
+<p>Les décisions prises pour ce service proviennent directement des résultats de recherche avec les utilisateurs, d’entretiens avec les différents propriétaires du produit ou du plan de service. Ces informations sont utilisées dans la conception du système de conception local qui s’aligne à ces exigences. En retour, ces mêmes exigences définissent certaines portions de notre système de conception, plus précisément les principes de conception, le guide de conception des questions et de la bibliothèque locale de composantes.</p>
+
+<p>La bibliothèque locale de composantes est conçue dans Figma, puis intégrée dans une bibliothèque de composantes React. Celles-ci contribuent à part égale au système de conception local.</p>
+
+<h2 id="figma">Figma</h2>
+
+<h3 id="bibliothèque-locale-de-composantes">Bibliothèque locale de composantes</h3>
+
+<p>Dans Figma, la bibliothèque locale de composantes est utilisée pour assembler et prototyper les suggestions provenant des résultats de recherche ou des propriétaires du produit.</p>
+
+<h3 id="version-principale">Version principale</h3>
+
+<p>La référence, utilisée par les développeurs afin d’intégrer les nouvelles fonctionnalités, est située dans la version principale. Celle ci ne doit pas changer pendant la durée totale de l’itération (Sprint).</p>
+
+<p>Les fonctionnalités (Features) sont utilisées afin d’itérer le produit durant une itération. À la toute fin d’une itération, toutes les fonctionnalités jugées prêtes sont déplacées dans la version principale. Lorsque l’on effectue ce déplacement vers l’itération principale, il est toujours conseillé de mettre à jour le diagramme utilisateur.</p>
+
+<p><img src="/assets/img/figma-structure-fr.png" alt="Diagramme montrant que la bibliothèque de composantes Figma est une dépendance de la version principale, et que les version archivées proviennent de la version principale de l'itération actuelle." title="Structure des fichiers Figma" /></p>
+
+<h3 id="archivage">Archivage</h3>
+
+<p>Des copies des versions principales sont archivées dans de nouveaux fichiers Figma. L’itération actuelle est toujours dans le même fichier Figma. Ainsi, nous pouvons toujours nous fier sur le même URL pour le fichier Figma. Lors de la création d’une copie archivée, chaque instance d’une composante doit être détachée afin d’éviter de briser les copies archivées lors d’une mise à jour de la bibliothèque de composantes locales.</p>
+
+<p><img src="/assets/img/sprint-to-sprint-process-fr.png" alt="Diagramme montrant le processus pour archiver une version principale." title="Archivage de la version principale" /></p>
+
+<h2 id="code">Code</h2>
+
+<h3 id="bibliothèque-locale-de-composantes-1">Bibliothèque locale de composantes</h3>
+
+<p>La bibliothèque locale de composantes React reflète exactement la bibliothèque locale de composantes dans Figma. Il est très important de les garder synchronisés.</p>
+
+<p>Les composantes React sont construites avec la bibliothèque de composantes Chakra ui. Celle-ci permet d’assurer une fondation solide en ce qui a trait à l’accessibilité des composantes d’interface locales. Chakra ui est facilement personnalisable et permet l’assemblage de composantes plus complexes. La méthode la plus simple pour adapter les composantes Chakra ui est d’importer une de celle-ci et de l’exporter en lui passant certains paramètres qui la modifient. En procédant ainsi, il est possible de créer des composantes accessibles et compatibles avec l’apparence visuelle de la Boîte à outils de l’expérience Web (BOEW).</p>
+
+<h2 id="storybook">Storybook</h2>
+
+<p>Chaque composante contient sa propre documentation par l’entremise de Storybook.js. La documentation est écrite en MDX (Markdown + JSX) et permet une approche modulaire de la documentation de la bibliothèque de composantes locale. Cette documentation doit renseigner la façon dont la composante doit être intégrée ou assemblée dans l’interface des pages, formulaires ou toute autre portion de l’interface visible de l’application.</p>
+
+<p>La création de documentation storybook est la responsabilité de la personne qui crée une nouvelle composante ou met à jour le fonctionnement d’une composante existante. De facçon générale, chaque composante contient un bref tutoriel, des exemples, les variations disponibles et la définition des types te propriétés (props).</p>
+
+<p><img src="/assets/img/storybook-modular-documentation-fr.png" alt="Diagramme montrant comment la documentation est contenue dans chaque composante, à même le code source de celle-ci." title="Documentation modulaire Storybook" /></p>
+
+
+        </section>
+      </div>
+      <!-- /.wrap content -->
+
+      <footer role="contentinfo">
+        <div class="wrap">
+          <p>
+            Ce projet a été élaboré par le
+            <a href="https://numerique.canada.ca"
+              >Service numérique canadien</a
+            >.
+          </p>
+          <p>
+            <a href="https://github.com/cds-snc/rcmp-report-a-cybercrime-alpha-documentation"
+              >Contribuez à cette documentation.</a
+            >
+          </p>
+          <p>
+            Hébergé dans
+            <a href="http://pages.github.com/">GitHub Pages</a>.
+          </p>
+        </div>
+        <!--/.wrap -->
+      </footer>
+    </div>
+    <!-- /.container -->
+    
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", (user) => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+  </body>
+</html>

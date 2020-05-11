@@ -1,0 +1,107 @@
+# config.yml
+
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+  repo: cds-snc/rcmp-report-a-cybercrime-alpha-documentation
+  site_domain: rcmp-report-a-cybercrime-alpha-documentation.netlify.app
+media_folder: "assets/img"
+collections:
+  - name: "docEn"
+    label: "Documentation - EN"
+    folder: "_pages/en"
+    sort: "title:asc"
+    create: true
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          tagname: "h1",
+          required: true,
+        }
+      - { label: "Lang", name: "lang", widget: "hidden", default: "en" }
+      - { label: "Body", name: "body", widget: "markdown", required: true }
+      - label: "French translation"
+        hint: "If you have the translation done, select the post here. Otherwise, you can come back and select it later"
+        name: "trans_url"
+        widget: "relation"
+        collection: "docFr"
+        searchFields: ["title"]
+        valueField: "title"
+        displayFields: ["title"]
+        required: false
+      - label: "Select sub page(s)"
+        hint: "If there are any pages that are sub-sections of this one, select them here"
+        name: "childPages"
+        widget: "relation"
+        collection: "docEn"
+        searchFields: ["title"]
+        valueField: "title"
+        displayFields: ["title"]
+        multiple: true
+        required: false
+  - name: "docFr"
+    label: "Documentation - FR"
+    folder: "_pages/fr"
+    sort: "title:asc"
+    create: true
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+      - {
+          label: "Titre",
+          name: "title",
+          widget: "string",
+          tagname: "h1",
+          required: true,
+        }
+      - { label: "Lang", name: "lang", widget: "hidden", default: "fr" }
+      - {
+          label: "Corps du texte",
+          name: "body",
+          widget: "markdown",
+          required: true,
+        }
+      - label: "Traduction en anglais"
+        hint: "If you have the translation done, select the post here. Otherwise, you can come back and select it later"
+        name: "trans_url"
+        widget: "relation"
+        collection: "docEn"
+        searchFields: ["title"]
+        valueField: "title"
+        displayFields: ["title"]
+        required: false
+      - label: "Select sub page(s)"
+        hint: "If there are any pages that are sub-sections of this one, select them here"
+        name: "childPages"
+        widget: "relation"
+        collection: "docEn"
+        searchFields: ["title"]
+        valueField: "title"
+        displayFields: ["title"]
+        multiple: true
+        required: false
+  - name: "menuOrder"
+    create: false
+    label: "Menu Order"
+    folder: "_pages/menu"
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          tagname: "h1",
+          required: true,
+        }
+      - label: "Menu Items"
+        name: "menuItems"
+        widget: "list"
+        fields:
+          - name: "menuItem"
+            label: "menu item"
+            widget: "relation"
+            collection: "docEn"
+            searchFields: ["title", "trans_url"]
+            valueField: "title"
+            displayFields: ["title", "trans_url"]

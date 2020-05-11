@@ -3,10 +3,16 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 markdown: kramdown
 highlighter: rouge
 
+collections_dir: pages
 collections:
-  pages:
+  en:
     output: true
     permalink: /:path/
+  fr:
+    output: true
+    permalink: /:path/
+  menu:
+    output: false
 
 # Title
 name: CDS + RCMP NC3

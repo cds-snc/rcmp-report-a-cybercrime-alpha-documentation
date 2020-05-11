@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8" />
     <title>
-      
-        Security - CDS + RCMP NC3
-      
+       Security -
+      CDS + RCMP NC3 
     </title>
-    <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="/assets/css/normalize.css">
-    <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="stylesheet" href="/assets/css/syntax.css">
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="/assets/css/normalize.css" />
+    <link rel="stylesheet" href="/assets/css/main.css" />
+    <link rel="stylesheet" href="/assets/css/syntax.css" />
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
       <script src="/assets/js/respond.min.js"></script>
@@ -19,6 +18,7 @@
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!--
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-102484926-15"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -27,25 +27,57 @@
 
       gtag('config', 'UA-102484926-15',  { 'anonymize_ip': true });
     </script>
-
+    -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
     <div class="container">
       <header role="banner">
         <div class="wrap">
           
-          <h1 class="site-title"><a class="title-link" href=""></a></h1>
-          <h2 class="float-right"><a href=""></a></h2>
+          <h1 class="site-title">
+            <a
+              class="title-link"
+              href=""
+              ></a
+            >
+          </h1>
+          <h2 class="float-right">
+            <a href=""
+              ></a
+            >
+          </h2>
         </div>
       </header>
 
       <div class="wrap content">
-
         <aside>
   <p class="intro"></p>
   <a class="skip-link visuallyhidden focusable" href="#main">Skip to Main Content</a>
-  <nav class="sidebar-nav" role="navigation">
+  <nav class="sidebar-nav">
     <ul>
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       
     </ul>
   </nav>
@@ -66,17 +98,42 @@
 
 
         </section>
-
-      </div><!-- /.wrap content -->
+      </div>
+      <!-- /.wrap content -->
 
       <footer role="contentinfo">
         <div class="wrap">
-          <p> <a href=""></a>.</p>
-          <p><a href="https://github.com/cds-snc/rcmp-report-a-cybercrime-alpha-documentation">.</a></p>
-          <p> <a href="http://pages.github.com/">GitHub Pages</a>.</p>
-        </div><!--/.wrap -->
+          <p>
+            
+            <a href=""
+              ></a
+            >.
+          </p>
+          <p>
+            <a href="https://github.com/cds-snc/rcmp-report-a-cybercrime-alpha-documentation"
+              >.</a
+            >
+          </p>
+          <p>
+            
+            <a href="http://pages.github.com/">GitHub Pages</a>.
+          </p>
+        </div>
+        <!--/.wrap -->
       </footer>
-    </div> <!-- /.container -->
+    </div>
+    <!-- /.container -->
     
-    </body>
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", (user) => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+  </body>
 </html>
