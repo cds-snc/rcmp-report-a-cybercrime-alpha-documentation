@@ -9,7 +9,7 @@ media_folder: "assets/img"
 collections:
   - name: "docEn"
     label: "Documentation - EN"
-    folder: "_pages/en"
+    folder: "pages/_en"
     sort: "title:asc"
     create: true
     fields:
@@ -44,7 +44,7 @@ collections:
         required: false
   - name: "docFr"
     label: "Documentation - FR"
-    folder: "_pages/fr"
+    folder: "pages/_fr"
     sort: "title:asc"
     create: true
     fields:
@@ -85,7 +85,7 @@ collections:
   - name: "menuOrder"
     create: false
     label: "Menu Order"
-    folder: "_pages/menu"
+    folder: "pages/_menu"
     fields:
       - {
           label: "Title",
