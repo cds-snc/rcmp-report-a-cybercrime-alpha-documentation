@@ -18,7 +18,7 @@ Dans Figma, la bibliothèque locale de composantes est utilisée pour assembler 
 
 La référence, utilisée par les développeurs afin d'intégrer les nouvelles fonctionnalités, est située dans la version principale. Celle ci ne doit pas changer pendant la durée totale de l'itération (Sprint).
 
-Les fonctionnalités (Features) sont utilisées afin d'itérer le produit durant une itération. À la toute fin d'une itération, toutes les fonctionnalités jugées prêtes sont déplacées dans la version principale. Lorsque l'on effectue ce déplacement vers l'itération principale, il est toujours conseillé de mettre à jour le diagramme utilisateur. 
+Les fonctionnalités (Features) sont utilisées afin d'itérer le produit durant une itération. À la toute fin d'une itération, toutes les fonctionnalités jugées prêtes sont déplacées dans la version principale. Lorsque l'on effectue ce déplacement vers l'itération principale, il est toujours conseillé de mettre à jour le parcours utilisateur (user flow). 
 
 ![Diagramme montrant que la bibliothèque de composantes Figma est une dépendance de la version principale, et que les version archivées proviennent de la version principale de l'itération actuelle.](/assets/img/figma-structure-fr.png "Structure des fichiers Figma")
 
