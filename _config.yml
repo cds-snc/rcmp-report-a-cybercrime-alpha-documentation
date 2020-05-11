@@ -7,10 +7,10 @@ collections_dir: pages
 collections:
   en:
     output: true
-    permalink: /:path/
+    permalink: /:title/
   fr:
     output: true
-    permalink: /:path/
+    permalink: /:title/
   menu:
     output: false
 

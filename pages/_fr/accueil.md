@@ -1,9 +1,8 @@
 ---
 layout: page
-title: "Accueil"
+title: Accueil
 lang: fr
-permalink: "/accueil/"
-trans_url: "/home/"
+trans_url: Home
 ---
 
 # Le récit jusqu’à maintenant...

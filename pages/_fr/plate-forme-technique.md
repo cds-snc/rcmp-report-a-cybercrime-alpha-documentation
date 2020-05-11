@@ -2,6 +2,7 @@
 layout: page
 title: Plate-forme technique
 lang: fr
+permalink: /platforme/
 trans_url: Technical platform
 ---
 
