@@ -17,4 +17,6 @@ De février à août 2019, l’équipe a construit et mis à l’épreuve diffé
 
 De novembre 2019 à avril 2020, l’équipe prévoit déployer publiquement une version **Bêta** d’un système public national de signalement des cybercrimes et des fraudes et édifier les capacités avec l’équipe de prestation de la GRC qui assurera la conception et le développement itératifs du service.
 
+Lors de l'été 2020, l'équipe SNC et GRC entrerons dans une phase de transition où la GRC aura l'occasion de s'approprier 100% du service. De plus, ce que nous avons appris lors de l'essai du service afin de planifier ce que le service complet pourrait être, ainsi que les étapes à accomplir afin de s'y rendre.
+
 Suivez-nous sur [GitHub](https://github.com/cds-snc/report-a-cybercrime).
