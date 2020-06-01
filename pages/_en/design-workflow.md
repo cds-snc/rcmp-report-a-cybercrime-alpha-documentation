@@ -44,6 +44,6 @@ Each component also contains its own documentation through Storybook.js Document
 
 Creating or updating Storybook documentation is the responsibility of anyone who creates a new component or updates the core functionality of a component. Documentation usually contains a quick how-to, examples, variants and prop types definitions.
 
-The storybook is maintained through the codebase and deployed [here](https://cds-snc.github.io/report-a-cybercrime/?path=/docs/1-start--page). 
+The [Storybook reference site]((https://cds-snc.github.io/report-a-cybercrime/?path=/docs/1-start--page)) is maintained through the codebase and deployed automatically. 
 
 ![Diagram displaying how documentation is contained in a component, alongside tests and the component files. ](/assets/img/storybook-modular-documentation.png "Storybook modular documentation")
