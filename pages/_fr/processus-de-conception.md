@@ -42,6 +42,8 @@ Les composantes React sont construites avec la bibliothèque de composantes Chak
 
 Chaque composante contient sa propre documentation par l'entremise de Storybook.js. La documentation est écrite en MDX (Markdown + JSX) et permet une approche modulaire de la documentation de la bibliothèque de composantes locale. Cette documentation doit renseigner la façon dont la composante doit être intégrée ou assemblée dans l'interface des pages, formulaires ou toute autre portion de l'interface visible de l'application. 
 
-La création de documentation storybook est la responsabilité de la personne qui crée une nouvelle composante ou met à jour le fonctionnement d'une composante existante. De facçon générale, chaque composante contient un bref tutoriel, des exemples, les variations disponibles et la définition des types te propriétés (props).
+La création de documentation Storybook est la responsabilité de la personne qui crée une nouvelle composante ou met à jour le fonctionnement d'une composante existante. De facçon générale, chaque composante contient un bref tutoriel, des exemples, les variations disponibles et la définition des types te propriétés (props).
+
+La documentation Storybook est intégré dans le code source. Elle est déplyée automatiquement [ici](https://cds-snc.github.io/report-a-cybercrime/?path=/docs/1-start--page) (Seulement disponible en anglais).
 
 ![Diagramme montrant comment la documentation est contenue dans chaque composante, à même le code source de celle-ci.](/assets/img/storybook-modular-documentation-fr.png "Documentation modulaire Storybook")
