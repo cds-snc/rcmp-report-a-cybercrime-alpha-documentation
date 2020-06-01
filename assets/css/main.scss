@@ -148,6 +148,46 @@ ol {
       font-weight: normal;
     }
   }
+
+  &.task-list {
+    padding-left: 0em;
+    display: flex;
+    flex-direction: column;
+
+    $checkboxSize: 20px;
+
+    .task-list-item {
+      display: inline-block;
+      position: relative;
+      margin-left: $checkboxSize;
+      margin-bottom: 20px;
+      padding: 0px 15px;
+
+      .task-list-item-checkbox {
+        position: absolute;
+        z-index: 1;
+        top: 0;
+        left: -$checkboxSize;
+        width: $checkboxSize;
+        height: $checkboxSize;
+        margin: 0;
+        opacity: 0;
+      }
+
+      &:before {
+        content: "";
+        box-sizing: border-box;
+        position: absolute;
+        top: 2px;
+        left: -$checkboxSize;
+        width: $checkboxSize;
+        height: $checkboxSize;
+        border: 2px solid currentColor;
+        border-radius: 2px;
+        background: transparent;
+      }
+    }
+  }
 }
 
 .main-content {

@@ -11,7 +11,7 @@ var filesToCache = [
   // images
   '/assets/img/octocat.png',
   // pages
-  '/background/','/contact/','/design-principles/','/design-workflow/','/discovery-research/','/home/','/participate-in-research/','/prototyping/','/team-news/','/platform/','/accueil/','/contexte/','/nous-joindre/','/nouvelles-d-%C3%A9quipe/','/participer-%C3%A0-la-recherche/','/platforme/','/principes-de-conception/','/processus-de-conception/','/prototypage/','/recherche-ax%C3%A9e-sur-la-d%C3%A9couverte/','/menu/menu.html',
+  '/background-1/','/background/','/contact/','/design-principles/','/design-workflow/','/discovery-research/','/home/','/how-to-write-questions/','/participate-in-research/','/piloting-the-service/','/prototyping/','/team-news/','/platform/','/accueil/','/contexte/','/nous-joindre/','/nouvelles-d-%C3%A9quipe/','/participer-%C3%A0-la-recherche/','/platforme/','/principes-de-conception/','/processus-de-conception/','/prototypage/','/recherche-ax%C3%A9e-sur-la-d%C3%A9couverte/','/menu/menu.html',
   // posts
   
 ];

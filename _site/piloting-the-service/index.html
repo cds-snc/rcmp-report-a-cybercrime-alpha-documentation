@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta charset="utf-8" />
     <title>
-       Background -
+       Piloting the Service -
       CDS + RCMP NC3 
     </title>
     <meta name="viewport" content="width=device-width" />
@@ -43,7 +43,7 @@
             >
           </h1>
           <h2 class="float-right">
-            <a href="/contexte"
+            <a href="/"
               >Français</a
             >
           </h2>
@@ -100,7 +100,7 @@
             
           
             
-              <li class="sidebar-nav-active">
+              <li >
                 <a href="/background/">Background</a>
                 
               </li>
@@ -399,59 +399,43 @@
 </aside>
 
         <section id="main" class="main-content" role="main">
-          <h2 class="page-title">Background</h2>
+          <h2 class="page-title">Piloting the Service</h2>
 
-<h1 id="cybercrime-in-canada">Cybercrime in Canada</h1>
+<p>In this phase, we released a pilot to take in reports of cybercrime from victims. This pilot wasn’t just focused on the website that takes in the reports, but the service surrounding the intake of reports, such as: how analysts will review and triage reports, how AI can help us in this or what victims need from the service beyond submitting a report. These findings will help us create a better end-to-end service, with the goal to increase quality of reports by using human-centred design.</p>
 
-<p>Cybercrime costs the Canadian economy between $3 billion and $5 billion a year.<sup id="fnref:estimatedcosts"><a href="#fn:estimatedcosts" class="footnote">1</a></sup>. But, the impacts go beyond economics. Millions suffer the emotional impacts of cybercrime, including feelings of shame, vulnerability, fear, and confusion.</p>
+<p><strong>Outlining the end-to-end service</strong>\
+To kick off this phase, we hosted a workshop to understand how the service would work, with a focus on the report’s journey. We unpacked all of the steps that happen before and after a victim hits “submit”. We took this framework and mapped out the business, tech, security and partnership considerations that we would need to take into account to bring this service to life.</p>
 
-<p>Cybercrime is vastly underreported. In 2018, only 32,968 cases were filed and most are not solved.<sup id="fnref:unsolvedcybercrimes"><a href="#fn:unsolvedcybercrimes" class="footnote">2</a></sup> In addition, only 10% of Canadian businesses impacted by cybercrime events reported the crime to
-police. Even fewer businesses reported any measures to protect themselves, their customers, and their partners.<sup id="fnref:statscancybercrimeandbusinesses"><a href="#fn:statscancybercrimeandbusinesses" class="footnote">3</a></sup></p>
+<p>The high level phases of the report journey include:</p>
 
-<p>The public is concerned but unprotected. They need support to deal with the impact and reduce their chances of falling victim in the first place. <sup id="fnref:concernedcanadians"><a href="#fn:concernedcanadians" class="footnote">4</a></sup></p>
+<ul>
+  <li><strong>Occurrence</strong> - An event occurs where a cybercrime is attempted or carried out</li>
+  <li><strong>Report</strong> - Someone reports the crime or attempted crime that has occurred</li>
+  <li><strong>Analyze</strong> - The report is analyzed to understand the impact, severity and</li>
+  <li><strong>Triage</strong> - Based on analysis, the report is triaged.</li>
+  <li><strong>Dissemination</strong> - Gather more intel and track status of investigations.</li>
+</ul>
 
-<h1 id="our-partnership-with-rcmpnc3">Our partnership with RCMP/NC3</h1>
+<p><em>An outline of the service blueprint:</em></p>
 
-<p>In 2018, the Canadian Government set aside budget to create the RCMP’s National Cybercrime Coordination Unit.<sup id="fnref:nc3"><a href="#fn:nc3" class="footnote">5</a></sup></p>
+<p><img src="/assets/img/rcmp_serviceblueprint_scrubbed_2020april20.jpg" alt="A high-level outline of the service blueprint, with blocks of content including: Front-end experience, research findings, tech and security considerations and other types of considerations." title="A high-level outline of the service blueprint." /></p>
 
-<p>The role of the unit is to:</p>
+<p><strong>Planning the Pilot</strong>\
+Once we had the framework and considerations mapped out, we moved into planning the pilot version of this service. We looked at each step of the process to understand how we could do it successfully implement features while limiting time and resources spent on it, so that we could test a solution and iterate quickly.</p>
 
-<blockquote>
-  <ul>
-    <li>Coordinate cybercrime investigations in Canada and work with partners internationally to combat a wide range of cybercrime incidents</li>
-    <li>Provide investigative advice and guidance to Canadian police</li>
-    <li>Produce cybercrime intelligence for Canadian police</li>
-    <li>Create a single point of contact for individuals and businesses to report cybercrime online</li>
-  </ul>
-</blockquote>
+<p>Once we had assessed the minimum version of the service that we could create, we translated that into a backlog and started to build the pilot end-to-end service.</p>
 
-<p>In October 2018, the Canadian Digital Service (CDS) embarked on a partnership with the RCMP/NC3 focused on delivering a public reporting tool for victims of cybercrime and fraud. This tool, the National Cybercrime and Fraud Reporting System (NCFRS), will eventually feed reports into the National Cybercrime System (NCS) for triage, analysis, and dissemination to respective police of jurisdiction.</p>
+<p><strong>What’s next?</strong>\
+Now that the pilot is up and running, we will need to plan the path forward. This will involve creating a roadmap for how we will scale the pilot into the full service, and start to address some of the larger questions we have, such as:</p>
 
-<p>CDS’s role in this partnership goes beyond service delivery. CDS is also working with the RCMP to build capacity and put in place modern processes and technology, including: agile software development techniques, product management, design research, iteration, working in the open, and service design.</p>
+<ul>
+  <li>Where will this service live online?</li>
+  <li>How will people find it?</li>
+  <li>How will we use AI to help analyze and triage reports?</li>
+  <li>Where will these reports be stored in the long run?</li>
+</ul>
 
-<p>Our primary goal is that our partner departments, like RCMP, continue to work with these tools and methods once the partnership concludes - and keep iterating on digital products going forward.</p>
-
-<hr />
-
-<div class="footnotes">
-  <ol>
-    <li id="fn:estimatedcosts">
-      <p>https://www.cbc.ca/news/business/ai-hacking-canada-1.4437427 <a href="#fnref:estimatedcosts" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:unsolvedcybercrimes">
-      <p>https://www.cbc.ca/news/canada/nova-scotia/cyber-crime-rising-across-canada-1.5221330 <a href="#fnref:unsolvedcybercrimes" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:statscancybercrimeandbusinesses">
-      <p>https://www150.statcan.gc.ca/n1/pub/85-002-x/2019001/article/00006-eng.htm <a href="#fnref:statscancybercrimeandbusinesses" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:concernedcanadians">
-      <p>https://cira.ca/resources/state-internet/report/canadians-deserve-a-better-internet <a href="#fnref:concernedcanadians" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:nc3">
-      <p>http://www.rcmp.gc.ca/en/the-national-cybercrime-coordination-unit-nc3 <a href="#fnref:nc3" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
+<p><strong><em>Stay tuned ✨</em></strong></p>
 
 
         </section>

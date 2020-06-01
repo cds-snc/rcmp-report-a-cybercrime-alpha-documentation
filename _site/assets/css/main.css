@@ -54,6 +54,10 @@ ul, ol { margin-top: 1em; margin-bottom: 1em; }
 ul li > ul, ul li ol, ol li > ul, ol li ol { margin-top: 0.5em; margin-bottom: 0.5em; }
 ul.strong, ol.strong { font-weight: 600; }
 ul.strong p, ol.strong p { font-weight: normal; }
+ul.task-list, ol.task-list { padding-left: 0em; display: flex; flex-direction: column; }
+ul.task-list .task-list-item, ol.task-list .task-list-item { display: inline-block; position: relative; margin-left: 20px; margin-bottom: 20px; padding: 0px 15px; }
+ul.task-list .task-list-item .task-list-item-checkbox, ol.task-list .task-list-item .task-list-item-checkbox { position: absolute; z-index: 1; top: 0; left: -20px; width: 20px; height: 20px; margin: 0; opacity: 0; }
+ul.task-list .task-list-item:before, ol.task-list .task-list-item:before { content: ""; box-sizing: border-box; position: absolute; top: 2px; left: -20px; width: 20px; height: 20px; border: 2px solid currentColor; border-radius: 2px; background: transparent; }
 
 .main-content ul, .main-content ol { padding-left: 1.1em; }
 .main-content li { margin-bottom: 0.5em; }
