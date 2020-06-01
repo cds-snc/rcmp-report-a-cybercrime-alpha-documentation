@@ -44,6 +44,6 @@ Chaque composante contient sa propre documentation par l'entremise de Storybook.
 
 La création de documentation Storybook est la responsabilité de la personne qui crée une nouvelle composante ou met à jour le fonctionnement d'une composante existante. De facçon générale, chaque composante contient un bref tutoriel, des exemples, les variations disponibles et la définition des types te propriétés (props).
 
-La [documentation Storybook](https://cds-snc.github.io/report-a-cybercrime/?path=/docs/1-start--page) est intégré dans le code source. Elle est déployée automatiquement (Seulement disponible en anglais).
+La [référence Storybook](https://cds-snc.github.io/report-a-cybercrime/?path=/docs/1-start--page) est intégré dans le code source. Elle est déployée automatiquement (Seulement disponible en anglais).
 
 ![Diagramme montrant comment la documentation est contenue dans chaque composante, à même le code source de celle-ci.](/assets/img/storybook-modular-documentation-fr.png "Documentation modulaire Storybook")
